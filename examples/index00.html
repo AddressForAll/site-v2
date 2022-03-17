@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="../assets/img/favicon.png" type="image/x-icon" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <style type="text/css">
+      .brand {
+        height: 3.7rem;
+        width: fit-content;
+        /* display: inline-block; */
+        /* position: relative; */
+      }
+      svg {
+        height: 100%;
+        width: 100px;
+      }
+      .lgrad_blue {
+        fill: url(#lgrad_blue);
+      }
+      .fill_green {
+        fill: #3a9948;
+      }
+      svg.dark {
+        background-color: gray;
+      }
+      svg.dark .lgrad_blue,
+      svg.dark .fill_green {
+        fill: antiquewhite;
+      }
+      #phrase {
+        display: unset;
+      }
+      #sn-icons svg {
+        height: 24px;
+        width: 24px;
+      }
+      #sn-icons svg path {
+        fill: gray;
+      }
+
+      .parallax {
+        position: relative;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: repeat-x;
+        background-size: contain;
+      }
+
+      #searchAddr {
+        background-image: url(../assets/img/banner.svg);
+        position: relative;
+        margin-bottom: 2rem;
+      }
+      #instituteAFA {
+        background: linear-gradient(135deg, #1b439a 0%, #0474a5 100%);
+      }
+      .featurette-divider {
+        margin: 5rem 0;
+      }
+      .featurette-heading {
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: -0.05rem;
+        margin-top: 5rem;
+        font-size: 3rem;
+      }
+    </style>
+    <title>AddressForAll</title>
+  </head>
+  <body>
+    <main>
+      <svg xmlns="http://www.w3.org/2000/svg" class="visually-hidden">
+        <symbol id="logosvg" viewBox="50 74.71 104.63 55.19">
+          <defs>
+            <linearGradient id="lgrad_blue" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" style="stop-color: #1b439a; stop-opacity: 1" />
+              <stop
+                offset="100%"
+                style="stop-color: #0474a5; stop-opacity: 1"
+              />
+            </linearGradient>
+          </defs>
+          <g id="symbol">
+            <path
+              id="pin"
+              class="lgrad_blue"
+              d="M69.72 74.71C58.83 74.71 50 83.54 50 94.43c0 3.3 1.81 8.23 4.33 13.51l.3-.25a4.59 4.59 0 0 1-.44-1.94c0-1.29.55-2.53 1.52-3.39a4.55 4.55 0 0 1 3.55-1.13c2.06.23 3.75 1.89 4 3.95.11.88-.04 1.74-.4 2.51l1.43 1.13 1.43-1.13a4.59 4.59 0 0 1-.44-1.94c0-1.29.55-2.53 1.52-3.39a4.55 4.55 0 0 1 3.55-1.13c2.06.23 3.75 1.89 4 3.95.11.88-.04 1.74-.4 2.51l1.43 1.13 1.43-1.13a4.59 4.59 0 0 1-.44-1.94c0-1.29.55-2.53 1.51-3.39a4.55 4.55 0 0 1 3.55-1.13c2.06.23 3.75 1.89 4 3.95.11.88-.04 1.74-.4 2.51l.14.11c2.49-5.22 4.27-10.1 4.27-13.37 0-10.89-8.83-19.72-19.72-19.72zm-.02 11.73c.182 0 .363.009.54.027h.006l.008.002a5.22 5.22 0 0 1 2.814 1.185 5.256 5.256 0 0 1 1.274 1.573c.16.301.293.621.394.955v.002a5.36 5.36 0 0 1 .207 1.039v.002a5.536 5.536 0 0 1-.078 1.615 5.378 5.378 0 0 1-.302.998l-.002.002a5.319 5.319 0 0 1-1.897 2.346 5.234 5.234 0 0 1-2.408.884l-.016.002a5.393 5.393 0 0 1-1.082 0h-.002a5.216 5.216 0 0 1-.523-.082h-.002a5.203 5.203 0 0 1-.99-.31 5.216 5.216 0 0 1-.461-.227h-.002a5.26 5.26 0 0 1-1.551-1.299 5.342 5.342 0 0 1-.564-.85 5.33 5.33 0 0 1-.21-.44c-.003-.01-.008-.017-.011-.026l-.008-.022a5.36 5.36 0 0 1-.377-2.591v-.002a5.37 5.37 0 0 1 .385-1.53v-.002a5.339 5.339 0 0 1 1.902-2.343c.14-.096.285-.184.434-.266h.002a5.206 5.206 0 0 1 1.976-.615h.002c.178-.018.358-.028.541-.028zm-8.08 34.9c4.27 4.82 8.09 8.56 8.09 8.56s3.81-3.74 8.09-8.56H61.62z"
+            />
+            <path
+              id="people"
+              class="fill_green"
+              d="m86.45 111.16-4.02-3.17c.8-.55 1.3-1.51 1.17-2.58a2.708 2.708 0 0 0-2.38-2.35 2.707 2.707 0 0 0-1.83 4.93l-4.02 3.17-4.02-3.17c.8-.55 1.3-1.51 1.17-2.58a2.708 2.708 0 0 0-2.38-2.35 2.707 2.707 0 0 0-1.83 4.93l-4.02 3.17-1.02-.81-3-2.36a2.707 2.707 0 0 0-1.83-4.93 2.728 2.728 0 0 0-2.38 2.35c-.13 1.07.36 2.04 1.17 2.58l-4.02 3.17v2.88l3.4-2.61-1.7 8.08h2.76l.32-1.82c.05-.31 1.51-.31 1.56 0l.31 1.82h2.73l-1.7-8.08 3.24 2.49.16.12 3.4-2.61-1.7 8.08H73.68l-1.7-8.08 3.4 2.61 3.4-2.61-1.7 8.08h2.73l.31-1.82c.05-.31 1.51-.31 1.56 0l.32 1.82h2.76l-1.7-8.08 3.4 2.61-.01-2.88z"
+            />
+          </g>
+          <g id="phrase">
+            <path
+              id="address"
+              class="lgrad_blue"
+              d="M98.91 108.4h-4.83l-.79 2.33h-2.42l4.23-11.75h2.79l4.23 11.75H99.7l-.79-2.33zm-.69-2.03-1.73-5.09-1.73 5.09h3.46zm13.49-7.38v11.75h-2.13v-.99c-.55.69-1.39 1.21-2.72 1.21-2.64 0-4.15-2.23-4.15-4.46s1.51-4.47 4.15-4.47c1.33 0 2.17.5 2.72 1.21v-4.25h2.13zm-2.24 7.5c0-1.31-.82-2.42-2.28-2.42s-2.3 1.11-2.3 2.42c0 1.31.84 2.42 2.3 2.42s2.28-1.11 2.28-2.42zm12.75-7.5v11.75h-2.13v-.99c-.55.69-1.39 1.21-2.72 1.21-2.64 0-4.15-2.23-4.15-4.46s1.51-4.47 4.15-4.47c1.33 0 2.17.5 2.72 1.21v-4.25h2.13zm-2.24 7.5c0-1.31-.82-2.42-2.28-2.42s-2.3 1.11-2.3 2.42c0 1.31.84 2.42 2.3 2.42s2.28-1.11 2.28-2.42zm9.22-4.47v2.32c-2.52-.3-2.84 1.31-2.84 2.89v3.51h-2.13v-8.51h2.13v1.39c.64-1.06 1.82-1.6 2.84-1.6zm9.42 5.29h-6.31c.3 1.14 1.24 1.75 2.42 1.75.97 0 1.64-.52 1.9-.84l1.71 1.01c-.69.96-2 1.73-3.61 1.73-2.82 0-4.68-1.88-4.68-4.46 0-2.67 2-4.47 4.35-4.47 2.56-.01 4.6 1.92 4.22 5.28zm-2.08-1.64c-.22-1.11-.97-1.75-2.11-1.75-1.04 0-1.86.65-2.12 1.75h4.23zm10.15 2.45c0 1.68-1.23 2.84-3.61 2.84-1.63 0-3.27-.65-3.66-2.08l2.05-.64c.07.35.4.92 1.64.92.89 0 1.39-.32 1.39-.89 0-.81-1.22-.77-2.23-.99-1.65-.34-2.48-1.12-2.48-2.59 0-1.61 1.34-2.67 3.34-2.67 1.46 0 2.9.72 3.26 2.2l-1.93.47c-.1-.44-.52-.87-1.33-.87-.62 0-1.26.24-1.26.87 0 .76 1.14.81 1.81.96 2.09.45 3.01 1.02 3.01 2.47zm7.94 0c0 1.68-1.23 2.84-3.61 2.84-1.63 0-3.27-.65-3.66-2.08l2.05-.64c.07.35.4.92 1.64.92.89 0 1.39-.32 1.39-.89 0-.81-1.22-.77-2.23-.99-1.65-.34-2.48-1.12-2.48-2.59 0-1.61 1.34-2.67 3.34-2.67 1.46 0 2.9.72 3.26 2.2l-1.93.47c-.1-.44-.52-.87-1.33-.87-.62 0-1.26.24-1.26.87 0 .76 1.14.81 1.81.96 2.09.45 3.01 1.02 3.01 2.47z"
+            />
+            <path
+              id="forall"
+              class="fill_green"
+              d="M91.72 113.32v4.46h5.04v.89h-5.04v5.49h-.89v-11.75h6.56v.91h-5.67zm14.88 6.6c0 2.45-1.95 4.46-4.41 4.46-2.45 0-4.41-2.01-4.41-4.46 0-2.47 1.96-4.47 4.41-4.47 2.46 0 4.41 2 4.41 4.47zm-.89 0c0-1.96-1.56-3.58-3.53-3.58s-3.53 1.61-3.53 3.58c0 1.96 1.56 3.56 3.53 3.56s3.53-1.6 3.53-3.56zm5.93-4.47v1.04c-1.88 0-3.02 1.19-3.02 3.34v4.33h-.91v-8.51h.91v1.83c.59-1.14 1.63-2.03 3.02-2.03zm10.12 6.38h-4.83l-.79 2.33h-2.42l4.23-11.75h2.79l4.23 11.75h-2.42l-.79-2.33zm-.69-2.03-1.73-5.09-1.73 5.09h3.46zm7.51-7.38v11.75h-2.13v-11.75h2.13zm4.15 0v11.75h-2.13v-11.75h2.13z"
+            />
+          </g>
+        </symbol>
+        <symbol id="facebook" viewBox="0 0 16 16">
+          <path
+            d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"
+          ></path>
+        </symbol>
+        <symbol id="instagram" viewBox="0 0 16 16">
+          <path
+            d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"
+          ></path>
+        </symbol>
+        <symbol id="twitter" viewBox="0 0 16 16">
+          <path
+            d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"
+          ></path>
+        </symbol>
+      </svg>
+
+      <h1 class="visually-hidden">AddressForAll</h1>
+      <header class="p-1 mb-1 shadow-sm">
+        <div class="container">
+          <div
+            class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"
+          >
+            <a
+              href="/"
+              class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
+            >
+              <div class="brand">
+                <svg><use xlink:href="#logosvg"></use></svg>
+              </div>
+            </a>
+
+            <nav class="navbar">
+              <ul class="nav">
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="corporateMenuLink"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Corporate
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="corporateMenuLink">
+                    <li><a class="dropdown-item" href="#">About US</a></li>
+                    <li><a class="dropdown-item" href="#">Statute</a></li>
+                    <li><a class="dropdown-item" href="#">Projects</a></li>
+                    <li><a class="dropdown-item" href="#">Partnerships</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id="resourcesMenuLink"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Resources
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="resourcesMenuLink">
+                    <li><a class="dropdown-item" href="#">Data</a></li>
+                    <li><a class="dropdown-item" href="#">Services</a></li>
+                    <li><a class="dropdown-item" href="#">API</a></li>
+                    <li><a class="dropdown-item" href="#">Tools</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item"><a href="#" class="nav-link">FAQ</a></li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Contact</a>
+                </li>
+                <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
+              </ul>
+              <form class="d-flex">
+                <select class="form-select" aria-label="Language">
+                  <option value="pt">pt</option>
+                  <option value="es">sp</option>
+                  <option selected="en">en</option>
+                </select>
+              </form>
+            </nav>
+          </div>
+        </div>
+      </header>
+
+      <div class="container">
+        <div class="p-4 p-md-5 mb-4">
+          <div class="row">
+            <div class="col-md-6 px-0">
+              <h1 class="display-4">AddressForAll</h1>
+              <p class="lead my-3">
+                For services to reach the right place, addresses are a matter of
+                sovereignty for any country.
+              </p>
+              <p class="lead mb-0">
+                <a href="#" class="fw-bold">Continue reading...</a>
+              </p>
+            </div>
+            <div class="col-md-6 px-0">
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/6sT6Xm8jwCI"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section id="searchAddr" class="parallax shadow-sm">
+        <div class="py-4 text-center container">
+          <div class="row py-lg-5">
+            <div class="message col-lg-8 col-md-8 mx-auto">
+              <p class="fw-light fs-1">Find an address</p>
+              <div class="input-group mb-3">
+                <input
+                  type="text"
+                  class="form-control form-control-lg"
+                  placeholder="Find an address"
+                  aria-label="Find an address"
+                  aria-describedby="Go!"
+                />
+                <button class="btn btn-lg btn-secondary" type="button" id="go">
+                  Go!
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="container py-5">
+          <div class="row featurette">
+            <div class="col-md-7">
+              <h2 class="featurette-heading">Addresses Matter!</h2>
+              <p class="lead">
+                Not knowing where an address is can cost you time, lives, fuel,
+                and rework.
+              </p>
+            </div>
+            <div class="col-md-5 order-md-1">
+              <img
+                src="../assets/img/search.png"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                width="500"
+                height="500"
+                role="img"
+                aria-label="Placeholder: 500x500"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false"
+                alt=""
+              />
+            </div>
+          </div>
+
+          <hr class="featurette-divider" />
+
+          <div class="row featurette">
+            <div class="col-md-7 order-md-2">
+              <h2 class="featurette-heading">
+                <span class="text-muted">Problem:</span> Separate DBs!
+              </h2>
+              <p class="lead">
+                Municipalities, utilities, logistics companies, improve their
+                address databases, but each keeps its own database isolated from
+                the others.
+              </p>
+            </div>
+            <div class="col-md-5">
+              <img
+                src="../assets/img/db.png"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                width="500"
+                height="500"
+                role="img"
+                aria-label="Placeholder: 500x500"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false"
+                alt=""
+              />
+            </div>
+          </div>
+
+          <hr class="featurette-divider" />
+
+          <div class="row featurette">
+            <div class="col-md-7">
+              <h2 class="featurette-heading">Let's Collaborate!</h2>
+              <p class="lead">
+                This is why the AddressForAll Institute has been created. The
+                project invites everyone to participate in the effort and to put
+                their addresses in a single, public domain, collaborative
+                database that everyone can consult and download for free.
+              </p>
+            </div>
+            <div class="col-md-5 order-md-1">
+              <img
+                src="../assets/img/docs.png"
+                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                width="500"
+                height="500"
+                role="img"
+                aria-label="Placeholder: 500x500"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="instituteAFA">
+        <div class="py-3 text-center text-light container">
+          <div class="row py-lg-3">
+            <div class="message col-lg-8 col-md-8 mx-auto">
+              <p class="fw-light fs-1">Institute AddressForAlL</p>
+              <p class="lead">
+                The AddressForAlL Geo-social Technologies Institute aims to
+                advocate for open data and social improvement through the good
+                use of technology with an emphasis on geo-spatial technologies.
+              </p>
+              <p>
+                <a href="#" class="btn btn-primary my-2">About Us</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-2">
+            <h5>Section</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Home</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Features</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Pricing</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">FAQs</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">About</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-2">
+            <h5>Section</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Home</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Features</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Pricing</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">FAQs</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">About</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-2">
+            <h5>Section</h5>
+            <ul class="nav flex-column">
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Home</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Features</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">Pricing</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">FAQs</a>
+              </li>
+              <li class="nav-item mb-2">
+                <a href="#" class="nav-link p-0 text-muted">About</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-4 offset-1">
+            <form>
+              <h5>Subscribe to our newsletter</h5>
+              <p>Monthly digest of whats new and exciting from us.</p>
+              <div class="d-flex w-100 gap-2">
+                <label for="newsletter1" class="visually-hidden"
+                  >Email address</label
+                >
+                <input
+                  id="newsletter1"
+                  type="text"
+                  class="form-control"
+                  placeholder="Email address"
+                />
+                <button class="btn btn-primary" type="button">Subscribe</button>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-between py-4 my-4 border-top">
+          <p>© 2022 AddressForAll</p>
+          <ul id="sn-icons" class="list-unstyled d-flex">
+            <li class="ms-3">
+              <a class="text-muted" href="#"
+                ><svg class="bi">
+                  <use xlink:href="#twitter"></use></svg
+              ></a>
+            </li>
+            <li class="ms-3">
+              <a class="text-muted" href="#"
+                ><svg class="bi">
+                  <use xlink:href="#instagram"></use></svg
+              ></a>
+            </li>
+            <li class="ms-3">
+              <a class="text-muted" href="#"
+                ><svg class="bi">
+                  <use xlink:href="#facebook"></use></svg
+              ></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../assets/js/main.js"></script>
+  </body>
+</html>

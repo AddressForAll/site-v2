@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="assets/img/brand/favicon.png" type="image/x-icon">
+    <title>AddressForAll</title>
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <style>
+        .loader {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #F5F8FA;
+            z-index: 9998;
+            text-align: center;
+        }
+
+        .plane-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Pre loader -->
+    <div id="loader" class="loader">
+        <div class="plane-container">
+            <div class="l-s-2 blink">CARREGANDO</div>
+        </div>
+    </div>
+
+    <nav class="mainnav navbar navbar-default justify-content-between">
+        <div class="container relative">
+            <a class="offcanvas dl-trigger paper-nav-toggle" data-toggle="offcanvas"
+            aria-expanded="false" aria-label="Toggle navigation">
+                <i></i>
+            </a>
+            <a class="navb
+            ar-brand" href="index.html">
+                <img class="d-inline-block align-top" alt="logo" src="assets/img/brand/logo.svg" >
+            </a>
+            <div class="paper_menu">
+                <div id="dl-menu" class="xv-menuwrapper responsive-menu">
+        <ul class="dl-menu align-items-center text-light">
+            <li class="parent"><a href="#">Quem Somos</a>
+                <ul class="lg-submenu">
+                    <li><a href="#">Histórico</a>
+                    <li><a href="#">Estatuto</a>
+                    <li><a href="#">Projetos</a>
+                </li>
+                </ul>
+            </li>
+
+            <li class="parent"><a href="#">Dados</a>
+                <ul class="lg-submenu">
+                    <li><a href="#">Tipo de dados</a>
+                    <li><a href="#">Serviços</a>
+                    <li><a href="#">Contribua</a>
+                    <li><a href="#">Faq</a>
+                </li>
+                </ul>
+            </li>
+
+            <li class="parent"><a href="dados.html">API</a>
+                <ul class="lg-submenu">
+                    <li><a href="#">Faq</a>
+            </li>
+                </ul>
+            <li class="single"><a href="#">Contato</a>
+            <li class="icon"><a href="#"><i class="icon_menu fab fa-github"></i></a>
+            <li class="single"><a href="#"><i class="icon_menu fab fa-buffer"></i></i></a>
+            </li>
+
+            <li class="parent"><a href="dados.html">pt</a>
+                <ul class="lg-submenu">
+                    <li><a href="#">pt - Português</a>
+                    <li><a href="#">en - English</a>
+                    <li><a href="#">es - Espanõl</a>
+            </li>
+
+        </ul>
+
+    </nav>
+    <main>
+        <!-- Primeira Dobra-->
+        <section class="topics">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        <h1 class="title_home">AddressForAll</h1>
+                        <p class="lead text-muted">Para que os serviços cheguem ao lugar certo, endereços são uma questão de soberania para qualquer país.</p>
+                        <button type="button" class="btn btn-primary">Assistir vídeo</button>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/WglOrCDKjeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+    <center> <h2>Encontre um endereço</h2> </center>
+        <!-- Segunda Dobra-->
+        <section class="search-section home-search dobra">
+            <div class="masthead text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 mx-md-auto">
+                            <form>
+                                <input type="text" class="search-field" placeholder="Digite o endereço ... ">
+                                <button type="submit"><i class="icon icon-search"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Terceira Dobra-->
+        <section class="topics">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        <img src="assets/img/vetores/search.png">
+                    </div>
+                    <div class="col-xl-6 col-md-6 p-5">
+                        <h2 class="title_home">Endereços Importam!</h2>
+                        <p class="lead text-muted">Não saber onde está um endereço pode custar Tempo, Vidas, Combustível, Retrabalho.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quarta Dobra-->
+        <section class="topics">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        <h2 class="title_home">Problema: BDs separados!</h2>
+                        <p class="lead text-muted">Prefeituras, concessionárias, empresas de logística, melhoram seus bancos de dados de endereços, mas cada um mantem a sua base de dados isolada da base dos outros.</p>
+                    </div>
+                    <div class="col-xl-6 col-md-6">
+                        <img class="topajuste"src="assets/img/vetores/db.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quinta Dobra-->
+        <section class="topics bg-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-md-3">
+                        <img class="icon_section"src="assets/img/brand/logo.svg">
+                    </div>
+                    <div class="col-xl-9 col-md-9">
+                        <p class="lead text-light text-justify">O instituto de Teconologia Geo-Sociais AddressForAlL tem por objetivo a defesa dos dados abertos e da melhoria social através do bom uso da tecnologia com ênfase nas tecnologias geo-espaciais.</p>
+                        <button type="button" class="btn btn-light">Quem Somos</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sexta Dobra-->
+        <section class="topics">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-md-6">
+                        <img class="topajuste2"src="assets/img/vetores/docs.png">
+                    </div>
+                    <div class="col-xl-6 col-md-6 text-ajuste">
+                        <h2 class="title_home">Vamos Colaborar!</h2>
+                        <p class="lead text-muted">
+                            Vamos Colaborar!
+                            É por isto que o Instituo AddressForAll foi criado. O projeto convida todos a participar do esforço e a colocar seus endereços num banco de dados único, de domínio público, colaborativo, que todos podem consultar e baixar gratuitamente.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class=" col-lg-2 col-xl-3 col-12 responsive-phone"><a href="#" class="brand">
+                    <img class="logo_footer" src="assets/img/brand/logo_blue.svg" alt="AddressForAll">
+                    <span class="circle"></span>
+                </a>
+                </div>
+                <div class="col-6  col-md-4 col-lg-2">
+                    <h6>Institucional</h6>
+                    <ul class="footer-links">
+                    <li><a href="#">Quem Somos</a>
+                        </li>
+                        <li><a href="#">Estatuto</a>
+                        </li>
+                        <li><a href="#">Projetos</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-6  col-md-4 col-lg-2">
+                    <h6>Dados</h6>
+                    <ul class="footer-links">
+                        <li><a href="#">Tipo de Dados</a></li>
+                        <li><a href="#">Serviços</a></li>
+                        <li><a href="#">Contribua</a></li>
+                        <li><a href="#">API</a></li>
+                        <li><a href="login.html">Faq</a></li>
+                    </ul>
+                </div>
+                <div class="col-6  col-md-4 col-lg-2">
+                    <h6>Contato</h6>
+                    <ul class="footer-links">
+                        <li><a href="#">Fale Conosco</a></li>
+                        <li><a href="#">Github</a></li>
+                        <li><a href="#">Base de Conhecimento</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-md-12 col-12 col-xl-3 responsive-phone">
+                    <h6>Siga nas redes socias</h6>
+                    <ul class="social">
+                        <li class="facebook"><a href="#"><i class="icon icon-facebook"></i></a>
+                        </li>
+                        <li class="twitter"><a href="#"><i class="icon icon-twitter"></i></a>
+                        </li>
+                        <li class="gplus"><a href="#"><i class="icon icon-google-plus"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+            <div class="copyrights">
+                <p>&#xA9; 2021 AddressForAll Copyrights</p>
+            </div>
+        </div>
+        </div>
+    </footer>
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
