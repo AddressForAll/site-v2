@@ -1,0 +1,32 @@
+/* variables */
+:root {
+  --afa-blue: #0474a5;
+  --afa-blue-dark: #1b439a;
+  --afa-blue-light: #0abbd4;
+  --afa-green: #3a9948;
+  --afa-green-light: #38b54c;
+  --afa-gray: #626776;
+  --afa-gray-dark: #2f281e;
+  --afa-gray-light: #dcdfe1;
+  --afa-white: #fbfdfe;
+  --afa-dark: var(--afa-gray-dark);
+  --afa-light: var(--afa-gray-light);
+  --afa-font-sans-serif: Roboto, system-ui, "Helvetica Neue", Arial, "Noto Sans",
+    "Liberation Sans", sans-serif;
+  --afa-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --afa-gradient-blue: linear-gradient(
+    135deg,
+    var(--afa-blue-dark) 0%,
+    var(--afa-blue) 100%
+  );
+  --afa-gradient-green: linear-gradient(
+    135deg,
+    var(--afa-green) 0%,
+    var(--afa-green-light) 100%
+  );
+  --afa-gradient: var(--afa-gradient-blue);
+  --afa-crew-photo-size: 180px;
+  --afa-card-size: 250px;
+  --afa-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.15);
+}
