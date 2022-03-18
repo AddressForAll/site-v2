@@ -1,23 +1,23 @@
 import React from 'react'
 import Container from '../Container/Container'
 import RowContainer from '../Container/Row'
+import '../../assets/css/style.css'
 
 const Content = () => (
-    <>
         <main>
-            <Container id="advertisment" >
+            <Container id="advertisment">
                 <RowContainer>
-                    <div class="col col-2-5 justify-content-center">
+                    <div className="col col-2-5 justify-content-center">
                         <h1>AddressForAll</h1>
-                        <p class="lead">
+                        <p className="lead">
                         For services to reach the right place, addresses are a matter of
                         sovereignty for any country.
                         </p>
-                        <p class="lead">
-                        <a href="#" class="btn btn-blue">Continue reading...</a>
+                        <p className="lead">
+                        <a href="#" className="btn btn-blue">Continue reading...</a>
                         </p>
                     </div>
-                    <div class="col col-3-5 embed-youtube">
+                    <div className="col col-3-5 embed-youtube">
                         <iframe
                         src="https://www.youtube.com/embed/6sT6Xm8jwCI"
                         title="YouTube video player"
@@ -29,13 +29,13 @@ const Content = () => (
                 </RowContainer>
             </Container>
 
-            <section id="searchAddr" class="parallax">
-                <div class="container">
+            <section id="searchAddr" className="parallax">
+                <div className="container">
                 <h3>find an address</h3>
-                <form id="searchForm" class="searchform">
-                    <div class="input-group">
-                    <input class="input-search" type="text" />
-                    <button class="btn btn-search" type="button">
+                <form id="searchForm" className="searchform">
+                    <div className="input-group">
+                    <input className="input-search" type="text" />
+                    <button className="btn btn-search" type="button">
                         <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="3 3 17.49 17.49"
@@ -51,16 +51,16 @@ const Content = () => (
             </section>
 
             <section id="publiMessages">
-                <div class="container">
-                <div class="row featurette">
-                    <div class="col col-3-5 justify-content-center">
+                <div className="container">
+                <div className="row featurette">
+                    <div className="col col-3-5 justify-content-center">
                     <h2>Addresses Matter!</h2>
-                    <p class="lead">
+                    <p className="lead">
                         Not knowing where an address is located can cost you time,
                         lives, fuel, and rework.
                     </p>
                     </div>
-                    <div class="col col-2-5">
+                    <div className="col col-2-5">
                     <img
                         src="../assets/img/search.png"
                         role="img"
@@ -71,18 +71,18 @@ const Content = () => (
                     </div>
                 </div>
 
-                <hr class="divider" />
+                <hr className="divider" />
 
-                <div class="row featurette">
-                    <div class="col col-3-5 justify-content-center order-2">
-                    <h2><span class="muted">Problem:</span> Separate DBs!</h2>
-                    <p class="lead">
+                <div className="row featurette">
+                    <div className="col col-3-5 justify-content-center order-2">
+                    <h2><span className="muted">Problem:</span> Separate DBs!</h2>
+                    <p className="lead">
                         Municipalities, utilities and logistics companies improve their
                         address databases, but each keeps its own database isolated from
                         the others.
                     </p>
                     </div>
-                    <div class="col col-2-5">
+                    <div className="col col-2-5">
                     <img
                         src="../assets/img/db.png"
                         role="img"
@@ -93,19 +93,19 @@ const Content = () => (
                     </div>
                 </div>
 
-                <hr class="divider" />
+                <hr className="divider" />
 
-                <div class="row featurette">
-                    <div class="col col-3-5 justify-content-center">
+                <div className="row featurette">
+                    <div className="col col-3-5 justify-content-center">
                     <h2>Let's Collaborate!</h2>
-                    <p class="lead">
+                    <p className="lead">
                         This is why the AddressForAll Institute has been created. The
                         project invites everyone to participate in the effort and to put
                         their addresses in a single, public domain, collaborative
                         database that everyone can consult and download for free.
                     </p>
                     </div>
-                    <div class="col col-2-5">
+                    <div className="col col-2-5">
                     <img
                         src="../assets/img/docs.png"
                         role="img"
@@ -119,9 +119,9 @@ const Content = () => (
             </section>
 
             <section id="aboutUs">
-                <div class="container">
+                <div className="container">
                 <h2>Consulting Board</h2>
-                <p class="lead">
+                <p className="lead">
                     The Consulting Board is made up of permanent and honorary members of
                     notable competence and reputation in their areas, and guides the
                     Institute's actions.
@@ -129,50 +129,50 @@ const Content = () => (
                 <h3>Permanent Associates</h3>
                 <p>Members with voting rights in the general assemblies.</p>
 
-                <ul class="crew flex-list">
+                <ul className="crew flex-list">
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-thierry.jpg"
                         />
                     </div>
-                    <p>Thierry Jean<span class="muted">France / Brazil</span></p>
+                    <p>Thierry Jean<span className="muted">France / Brazil</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-filipe.jpg"
                         />
                     </div>
-                    <p>Filipe Rocha<span class="muted">Brazil</span></p>
+                    <p>Filipe Rocha<span className="muted">Brazil</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-peter.jpg"
                         />
                     </div>
-                    <p>Peter Krauss<span class="muted">Brazil</span></p>
+                    <p>Peter Krauss<span className="muted">Brazil</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-leopoldo.jpg"
                         />
                     </div>
-                    <p>Leopoldo Arnaiz<span class="muted">Spain</span></p>
+                    <p>Leopoldo Arnaiz<span className="muted">Spain</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-ignacio.jpg"
                         />
                     </div>
-                    <p>Ignácio Arnaiz<span class="muted">Spain</span></p>
+                    <p>Ignácio Arnaiz<span className="muted">Spain</span></p>
                     </li>
                 </ul>
 
@@ -182,56 +182,56 @@ const Content = () => (
                     staff.
                 </p>
 
-                <ul class="crew flex-list">
+                <ul className="crew flex-list">
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-enio.jpg"
                         />
                     </div>
-                    <p>Ênio Alencar<span class="muted">GIS</span></p>
+                    <p>Ênio Alencar<span className="muted">GIS</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-ignacio.jpg"
                         />
                     </div>
-                    <p>Ignácio Arnaiz<span class="muted">UrbiGIS</span></p>
+                    <p>Ignácio Arnaiz<span className="muted">UrbiGIS</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-igor.gif"
                         />
                     </div>
-                    <p>Igor Eliezer Borges<span class="muted">GIS</span></p>
+                    <p>Igor Eliezer Borges<span className="muted">GIS</span></p>
                     </li>
 
                     <li>
-                    <div class="crew-photo">
+                    <div className="crew-photo">
                         <img
                         src="http://addressforall.org/resources/img/equipe-peter.jpg"
                         />
                     </div>
-                    <p>Peter Krauss<span class="muted">Coord. back-end</span></p>
+                    <p>Peter Krauss<span className="muted">Coord. back-end</span></p>
                     </li>
                 </ul>
                 </div>
             </section>
 
             <section id="sponsors">
-                <div class="container">
+                <div className="container">
                 <h2>Sponsors</h2>
-                <p class="lead">
+                <p className="lead">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
                     illum mollitia esse quam ducimus delectus molestiae, natus
                     repellendus doloremque eligendi, neque minima quas, quaerat pariatur
                     aut? Ab laboriosam dolorem autem!
                 </p>
-                <ul class="sponsors flex-list">
+                <ul className="sponsors flex-list">
                     <li>
                     <a
                         href="https://dadosabertos.social/c/dados-espaciais/12"
@@ -248,49 +248,49 @@ const Content = () => (
             </section>
 
             <section id="services">
-                <div class="container">
+                <div className="container">
                 <h2>Our Services</h2>
-                <p class="lead">
+                <p className="lead">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad adipisci
                     impedit vel? Placeat sequi cupiditate, itaque facere necessitatibus
                     distinctio sapiente magni culpa ab atque, vitae voluptatem, debitis
                     consequatur accusantium quo?
                 </p>
-                <ul class="flex-list cards">
+                <ul className="flex-list cards">
                     <li>
-                    <div class="card-image">
+                    <div className="card-image">
                         <img
                         src="http://addressforall.org/resources/img/servicos_geocode.png"
                         alt="geocoding"
                         />
                     </div>
-                    <div class="card-content">
+                    <div className="card-content">
                         <h4>API: Geocoding</h4>
                         <p>You submit an address and the API returns a Lat/Long</p>
                     </div>
                     </li>
 
                     <li>
-                    <div class="card-image">
+                    <div className="card-image">
                         <img
                         src="http://addressforall.org/resources/img/servicos_reversa.png"
                         alt="geocoding"
                         />
                     </div>
-                    <div class="card-content">
+                    <div className="card-content">
                         <h4>API: Reverse Geocoding</h4>
                         <p>You submit a Lat/Long and the API returns an address</p>
                     </div>
                     </li>
 
                     <li>
-                    <div class="card-image">
+                    <div className="card-image">
                         <img
                         src="http://addressforall.org/resources/img/servicos_batch.png"
                         alt="geocoding"
                         />
                     </div>
-                    <div class="card-content">
+                    <div className="card-content">
                         <h4>API: Batch Query</h4>
                         <p>
                         You submit a set of addresses and the API returns the
@@ -304,22 +304,21 @@ const Content = () => (
             </section>
 
             <section id="instituteAFA">
-                <div class="container">
-                <div class="message">
+                <div className="container">
+                <div className="message">
                     <h2>Institute AddressForAll</h2>
-                    <p class="lead">
+                    <p className="lead">
                     The AddressForAlL Geo-social Technologies Institute aims to
                     advocate for open data and social improvement through the good use
                     of technology with an emphasis on geo-spatial technologies.
                     </p>
                     <p>
-                    <a href="#" class="btn btn-green">About Us</a>
+                    <a href="#" className="btn btn-green">About Us</a>
                     </p>
                 </div>
                 </div>
             </section>
         </main>
-    </>
 )
 
 export default Content

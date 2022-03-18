@@ -54,9 +54,9 @@ const Menu = () => (
             </ul>
             <form class="d-flex">
                 <select class="form-select" aria-label="Language">
-                <option value="pt">pt</option>
-                <option value="es">sp</option>
-                <option selected="en">en</option>
+                    <option value="pt">pt</option>
+                    <option value="es">sp</option>
+                    <option selected="en">en</option>
                 </select>
             </form>
         </div>

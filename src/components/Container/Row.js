@@ -1,7 +1,7 @@
 import React from "react";
 
 const RowContainer = ({ children }) => (
-    <div class="row">
+    <div className="row">
         {children}
     </div>
 )
