@@ -1,7 +1,7 @@
-import React from 'react'
-import Container from '../Container/Container'
-import RowContainer from '../Container/Row'
-import '../../assets/css/style.css'
+import React from "react";
+import Container from "../Container/Container";
+import RowContainer from "../Container/Row";
+import "../../assets/css/style.css";
 // giving paths to the images
 import search from "../../assets/img/search.png";
 import db from "../../assets/img/db.png";
@@ -64,7 +64,6 @@ const Content = () => (
           <div className="col col-2-5">
             <img
               src={search}
-              role="img"
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
               alt="Address Matter!"
@@ -87,8 +86,7 @@ const Content = () => (
           </div>
           <div className="col col-2-5">
             <img
-                src={db}
-              role="img"
+              src={db}
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
               alt="Problem: Separate DBs!"
@@ -111,7 +109,6 @@ const Content = () => (
           <div className="col col-2-5">
             <img
               src={docs}
-              role="img"
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
               alt="Lets Collaborate"
@@ -135,7 +132,10 @@ const Content = () => (
         <ul className="crew flex-list">
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-thierry.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-thierry.jpg"
+                alt="Thierry Jean"
+              />
             </div>
             <p>
               Thierry Jean<span className="muted">France / Brazil</span>
@@ -144,7 +144,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-filipe.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-filipe.jpg"
+                alt="Felipe Rocha"
+              />
             </div>
             <p>
               Filipe Rocha<span className="muted">Brazil</span>
@@ -153,7 +156,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-peter.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-peter.jpg"
+                alt="Peter Krauss"
+              />
             </div>
             <p>
               Peter Krauss<span className="muted">Brazil</span>
@@ -162,7 +168,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-leopoldo.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-leopoldo.jpg"
+                alt="Leopoldo Arnaiz"
+              />
             </div>
             <p>
               Leopoldo Arnaiz<span className="muted">Spain</span>
@@ -171,7 +180,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-ignacio.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-ignacio.jpg"
+                alt="Ignácio Arnaiz"
+              />
             </div>
             <p>
               Ignácio Arnaiz<span className="muted">Spain</span>
@@ -188,7 +200,10 @@ const Content = () => (
         <ul className="crew flex-list">
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-enio.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-enio.jpg"
+                alt="Ênio Alencar"
+              />
             </div>
             <p>
               Ênio Alencar<span className="muted">GIS</span>
@@ -197,7 +212,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-ignacio.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-ignacio.jpg"
+                alt="Ignácio Arnaiz"
+              />
             </div>
             <p>
               Ignácio Arnaiz<span className="muted">UrbiGIS</span>
@@ -206,7 +224,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-igor.gif" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-igor.gif"
+                alt="Igor Eliezer Borges"
+              />
             </div>
             <p>
               Igor Eliezer Borges<span className="muted">GIS</span>
@@ -215,7 +236,10 @@ const Content = () => (
 
           <li>
             <div className="crew-photo">
-              <img src="http://addressforall.org/resources/img/equipe-peter.jpg" />
+              <img
+                src="http://addressforall.org/resources/img/equipe-peter.jpg"
+                alt="Peter Krauss"
+              />
             </div>
             <p>
               Peter Krauss<span className="muted">Coord. back-end</span>
@@ -277,7 +301,7 @@ const Content = () => (
             <div className="card-image">
               <img
                 src="http://addressforall.org/resources/img/servicos_reversa.png"
-                alt="geocoding"
+                alt="reverse geocoding"
               />
             </div>
             <div className="card-content">
@@ -290,7 +314,7 @@ const Content = () => (
             <div className="card-image">
               <img
                 src="http://addressforall.org/resources/img/servicos_batch.png"
-                alt="geocoding"
+                alt="batch query"
               />
             </div>
             <div className="card-content">
@@ -325,4 +349,4 @@ const Content = () => (
   </main>
 );
 
-export default Content
+export default Content;
