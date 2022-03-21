@@ -2,7 +2,7 @@
 ## Directory structure
 ...
 
-```
+```mermaid
 flowchart TB
    a[assets]
    a1[css]

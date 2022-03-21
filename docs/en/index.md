@@ -6,5 +6,5 @@
 
   - [Template guide](.templateGuide.md)
   - ...
-
+* [ReactJS directives](./react.md)
 * [Source directories](./folders.md)
