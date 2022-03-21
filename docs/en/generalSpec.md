@@ -3,57 +3,78 @@
 ## Philosophical pillars
 Design, architecture and implementation philosophy.
 
-1. [**Separation of concerns**](https://en.wikipedia.org/wiki/Separation_of_concerns)
+1. [**Separation of concerns**](https://en.wikipedia.org/wiki/Separation_of_concerns): institutional commucication, software documentation and data vizualization interface  are 3 different things. Also  traditional separatin between logic, layout and content in a web site, all these concerns can be used in [architecture decisions](https://en.wikipedia.org/wiki/Cross-cutting_concern).
 
+2. **Simplicity**: seek zen-like simplicity in which there is nothing to add and nothing to take away.
 
-2. **Simplicity**: Seek zen-like simplicity in which there is nothing to add and nothing to take away.
+3. **Transparency**: transparent [data lineage](https://en.wikipedia.org/wiki/Data_lineage), transparent [reproducibility of official results](https://en.wikipedia.org/wiki/Reproducibility) and  [*institucional transparency*](https://en.wikipedia.org/wiki/Transparency_(behavior)).  
 
-3. **Human-editable and machine-usable**: HTML is semantic and useful for  *transparency*, content searching, etc.
+4. **Reuse**: reuse the building blocks, microservices, templates and existing standards. The development of web pages, data visualization and interface software are oriented to resuse.
 
-4. **Reuse**: reuse the building blocks and existing standards.
-
-5. **Extensibility and cross technology**: institutional (`www`) and `docs` subdomains of `addressForAll.org` support a broad range of languages, technologies and infrastructures – avoid being tied to any one specific system.  We can "plug" maps, animations, etc. without risk and without development cost. Design for extensibility and customisation. This makes hard things possible and permits future evolution.
+5. **Extensibility and cross technology**: institutional (`www`) and `docs` subdomains of `addressForAll.org` support a broad range of technologies and infrastructures – avoid being tied to any one specific system.  We can "plug over the web site" maps, animations, etc. without risk and without reworking costs. We can also manage multilingual content (English, Portuguese, Spanish and others). <!-- Design for extensibility and customisation ...-->
 
 ## Terminology and definitions
 
-* **Institutional contents**: in a *Separation of concerns* context, the public communication of the site's owner with legal value.  In the *implementation* context, it Must be static per page and [*transparent*](https://en.wikipedia.org/wiki/Transparency_(behavior)) for [Internet Archive Registration](https://archive.org/), [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) and [formal registry offices](https://pt.wikipedia.org/wiki/F%C3%A9_p%C3%BAblica).
+* Content:
+   - **Institutional contents**: in a *separation of concerns* context, is the content for the public communication of the site's owner, with legal value.  In the *implementation* context, it must be static per page, and *transparent* for [Internet Archive Registration](https://archive.org/), [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) and [formal registry offices](https://pt.wikipedia.org/wiki/F%C3%A9_p%C3%BAblica).
 
-* **Interface and dynamical content**: non-institutional content, including non-static content, like navigation menus, interactive animations, etc.
+   - **Interface and dynamical content**: non-institutional content, including non-static content, like navigation menus, interactive animations, etc.
 
-* **Institutional content's language**: the [HTML `lang` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) used to express  the language that institutionaql HTML content elements are written in. In general the `lang` at  `<main>` or `<article>` sections.
+* Language: all web pages of the site can be offered with different languages and a language selector interface. The [HTML `lang` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) is used to express the language at an HTML parent-element of the content.
 
-* **Navigation and interface language**: the [HTML `lang` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) used to express  the language that interface MUST use, even to navigate over multiple institutional languages.
+   - **Institutional content's language**: the `lang` used to express  the language that institutionaql HTML content elements are written in. In general the `lang` at  `<main>` or `<article>` sections.
 
-------
+   - **Navigation and interface language**: the `lang` used to express  the language that interface must use, even to navigate over multiple institutional languages. At `<nav>`, `<menu>` and `<div>` of dynamical interfaces.
 
-## Lembretes
+<aside align="right" style="padding:0.8em"><img width="320" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/ServerSideTemplates.gif/320px-ServerSideTemplates.gif" /><br/><img align="right" width="320" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/ClientSideTemplates.gif/320px-ClientSideTemplates.gif" /></aside>
 
-Sites AddressForAll disponíveis, e respectivas fontes, quando houverem:
+* Template resolution: automatic content generation and web site renderizatrion, using any [web template system](https://en.wikipedia.org/wiki/Web_template_system) or technology, can occur in different machines, as a project decision.
+  -  **server-side** template resolution: template and input are processed at server, so only result will add internet traffic.
+  -  **client-side** template resolution: template processor, template and its input data, all will be sent to the client.
 
-* ***template* Batista**,   HTML e CSS mais limpos, https://elpbatista.github.io/pdv2/examples/
-   - https://github.com/elpbatista/pdv2
+Web standards:
 
-* site **Corrente** (versão 1) http://addressForAll.org
-   - https://github.com/AddressForAll/site-v1
+* **CSS**: adopting [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3) conventions.
 
-* tentativa frustrada **v0.2**, http://teste.addressForAll.org
-   - **FIGMA**: pedir pro Thierry. Prototipação (*wireframe*) do conteúdo e sua distribuição. <br/> Esta em https://www.figma.com/files/recent?fuid=969362987840116767  <br/>Ver também arquivo [Figma.zip](https://github.com/AddressForAll/newSite-v0.0-LIXO/raw/main/_siteDocs/Figma.zip) contendo a versão PDF da especificação [Figma](https://en.wikipedia.org/wiki/Figma_(software)) original do site. Tentar https://www.figma.com/files/recent?fuid=969362987840116767
+* **HTML**: adopting [HTML5](https://en.wikipedia.org/wiki/HTML5) conventions. At SQL database the HTML content can be expressed as XHTML. At web site and templates, explore "semantic tags". Examples: `<article>`, `<section>`, `<footer>`, `<nav>` etc. instead `<div>`;  and `<abbr>`, `<address>`, `<time>` etc. instead `<span>` .
 
-   - Primeiro rascunhho de React, https://github.com/AddressForAll/newSite-v0.2-LIXO
-   - Primeiro rascunho de conversão do Figma, https://github.com/AddressForAll/newSite-v0.0-LIXO
+  - [HTML5-onlyContent](https://github.com/okfn-brasil/HTML5-onlyContent), HTML5 simplified tag subset, to avoid mix-content a *separation of concerns* decisions, and express *institutional content*.
 
-* ...
+  - [Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)): to add (in future) the "semantic layer" into HTML5. See [this complex example of transparent content](https://okfn-brasil.github.io/lexml-dou/demo/prop2_02.html), with its [machine interpretation](https://validator.schema.org/#url=https%3A%2F%2Fokfn-brasil.github.io%2Flexml-dou%2Fdemo%2Fprop2_02.html) and its [equivalent human-generated entry at LexML](https://www.lexml.gov.br/urn/urn:lex:br:federal:decreto.legislativo:2017-12-04;173).
 
-Materiais:
-* assets do git do site Corrente: logos antigos, etc.
+AddressForAll domains and subdomains:
 
-* assets e documentação *template* Batista: modelos de SVG e cia.
+* `www.AddressForAll.org` (redirects to `AddressForAll.org`). Is the institutional site.
 
-* Novo Logo, etc. em [neste Sharepoint thierry_addressforall_org/EveRtTmxiyJFtj](https://addressforall-my.sharepoint.com/:f:/g/personal/thierry_addressforall_org/EveRtTmxiyJFtj7Yowkts48BrhtXYxq-CK5irxfad7zwNA?e=LW8Goa).
+* `docs.AddressForAll.org`. Is the documentation site, but can be a refinement for institutional content, when browsing technical descriptions. The `docs` and `www` subdomains should offer, together,  an "one site" user experiency.
 
-Componentes de exemplo:
+* `git.AddressForAll.org`. Is the Github redirector. Only a "proof of existency" for source code and data.
 
-* http://addressforall.org/teste2/
-   - https://github.com/digital-guard/preservDataViz
-   - [make generate_pages](https://github.com/digital-guard/preserv/blob/main/src/makefile#L176) (.. onde mais Claiton documentou?)
-* ...
+* `api.AddressForAll.org`. All API endpoints.
+
+* `osm.codes`,  `digital-guard.org` and is subdomains. Complementar sites and API endpoints.
+
+
+## General project decions and architecture
+
+... UML and flowchart with [Mermaid](https://mermaid-js.github.io/mermaid/#/classDiagram)...
+
+1. The server-side framework is  [**React**](https://www.digitalocean.com/community/tutorials/react-server-side-rendering-pt).
+
+   1.1. Architecture:  React router, rendering content by modular templates.  
+
+   1.2 Institutional content must by HTML generated in server-side.  The server-side (institucional) input content is a database (or set of files) of [HTML5-onlyContent](https://github.com/okfn-brasil/HTML5-onlyContent/blob/master/spec.md).
+
+2. Institutional content and pages are specified by **Figma**. See  https://www.figma.com/files/recent?fuid=969362987840116767  or zip.
+
+3. All pages are template-based, and templates are defined in the requirements, with rules and documentation. See Examples foilder.
+
+4. The client-side framework must be React-compatible or non-:
+
+5. Official assets: SVGs .. reuse.
+
+-----
+
+## Other rules and implementation requirements
+
+...

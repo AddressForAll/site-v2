@@ -4,7 +4,7 @@
 * [Site requirements specification](./generalSpec.md)
 * [Site implementation directives](./implementation.md)
 
-  - [Template guide](.templateGuide.md) 
+  - [Template guide](.templateGuide.md)
   - ...
 
-
+* [Source directories](./folders.md)
