@@ -1,8 +1,0 @@
-{
-    "short_name": "AddressForAll",
-    "name": "AddressForAll",
-    "start_url": "/",
-    "display": "standalone",
-    "scope": "/",
-    "description": "Site AddressForAll"
-  }
