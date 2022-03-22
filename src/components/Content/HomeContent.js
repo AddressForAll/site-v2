@@ -16,8 +16,6 @@ const HomeContent = () => (
     <Advertisment/>
     <SearchAddr/>
     <PubliMessages/>
-    <AboutUs/>
-    <Sponsors/>
     <Services/>
     <InstituteAFA/>
   </Main>
