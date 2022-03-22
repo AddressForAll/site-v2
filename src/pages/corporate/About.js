@@ -1,7 +1,14 @@
 import React from 'react'
+import Logo from '../../components/Logo/Logo'
+import Header from '../../components/Header/Header'
+import AboutContent from '../../components/Content/AboutContent'
 
 const About = () => (
-    <h1>About</h1>
+    <>
+        <Logo/>
+        <Header/>
+        <AboutContent/>
+    </>
 )
 
 export default About

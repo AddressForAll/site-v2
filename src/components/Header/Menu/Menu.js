@@ -1,10 +1,8 @@
 import React from 'react'
-// import { Link } from 'react-router-dom'
 
 const Menu = () => (
   <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-    <a
-      href="/"
+    <a href="/"
       className="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
     >
       <div className="brand">
@@ -18,7 +16,7 @@ const Menu = () => (
         <li className="dropdown">
           <a
             className="dropdown-toggle"
-            href="#"
+            href="about"
             id="corporateMenuLink"
             role="button"
             data-bs-toggle="dropdown"
@@ -27,8 +25,13 @@ const Menu = () => (
             Corporate
           </a>
           <ul className="dropdown-menu" aria-labelledby="corporateMenuLink">
+            <select className="form-select" aria-label="Language">
+              <option value="pt">pt</option>
+              <option value="es">sp</option>
+              <option value="en">en</option>
+            </select>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="/About">
                 About US
               </a>
             </li>

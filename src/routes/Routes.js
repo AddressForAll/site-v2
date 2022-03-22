@@ -24,7 +24,6 @@ const Routes = () => (
             <Route path="data" element={<Data />} />
             <Route path="services" element={<Services />} />
             <Route path="tools" element={<Tools />} />
-
         </Switch>
     </BrowserRouter>
 );
