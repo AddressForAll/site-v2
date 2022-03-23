@@ -7,9 +7,7 @@ const Footer = () => (
       <div class="row">
         <div class="col col-1-5 align-items-center">
           <div class="logo">
-            <svg>
-              <use xlink:href="#logosvg"></use>
-            </svg>
+            <Logo />
           </div>
         </div>
         <div class="col col-1-5">
