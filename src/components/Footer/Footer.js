@@ -59,10 +59,10 @@ const Footer = () => (
             <span property="name" class="hidden">
               Instituto AddressForAll
             </span>
-            <span property="streetAddress">Av. Paulista, 171 4º andar</span>
-            <span property="addressLocality">Bela Vista</span>,
-            <span property="addressRegion">São Paulo - SP</span>
-            <span property="postalCode">01311-904</span>
+            <span property="streetAddress">Av. Paulista, 171 4º andar </span>
+            <span property="addressLocality">Bela Vista</span>, 
+            <span property="addressRegion"> São Paulo - SP </span>
+            <span property="postalCode">01311-904 </span>
             <span property="addressCountry">Brasil</span>
           </address>
           <span itemprop="telephone">+55 11 4063-6401</span>
