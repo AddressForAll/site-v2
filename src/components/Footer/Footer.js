@@ -7,7 +7,9 @@ const Footer = () => (
       <div class="row">
         <div class="col col-1-5 align-items-center">
           <div class="logo">
-            <Logo />
+            <svg>
+              <use xlinkHref="#logosvg"></use>
+            </svg>
           </div>
         </div>
         <div class="col col-1-5">
@@ -79,28 +81,28 @@ const Footer = () => (
             <li>
               <a href="#">
                 <svg>
-                  <use xlink:href="#github"></use>
+                  <use xlinkHref="#github"></use>
                 </svg>
               </a>
             </li>
             <li>
               <a href="#">
                 <svg>
-                  <use xlink:href="#twitter"></use>
+                  <use xlinkHref="#twitter"></use>
                 </svg>
               </a>
             </li>
             <li>
               <a href="#">
                 <svg>
-                  <use xlink:href="#instagram"></use>
+                  <use xlinkHref="#instagram"></use>
                 </svg>
               </a>
             </li>
             <li>
               <a href="#">
                 <svg>
-                  <use xlink:href="#facebook"></use>
+                  <use xlinkHref="#facebook"></use>
                 </svg>
               </a>
             </li>
