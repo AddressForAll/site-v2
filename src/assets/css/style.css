@@ -30,14 +30,6 @@ nav,
 section {
   display: block;
 }
-header {
-  padding: 0.25rem;
-  margin-bottom: 0.25rem;
-  box-shadow: var(--afa-shadow);
-}
-footer {
-  padding: 3rem 0;
-}
 h1,
 h2,
 h3 {
@@ -64,6 +56,32 @@ ol,
 ul {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+header {
+  padding: 0.25rem;
+  margin-bottom: 0.25rem;
+  box-shadow: var(--afa-shadow);
+}
+footer {
+  padding: 3rem 0;
+}
+footer .logo{
+  margin: 0 auto;
+  width: 60%;
+}
+footer .logo svg {
+  width: 100%;
+}
+footer ul.nav[role=menu]{
+  flex-direction: column;
+  list-style: none;
+}
+footer h3 {
+  font-size: 1.75rem;
+}
+address {
+  font-style: normal;
+  margin-bottom: .5rem;
 }
 .brand {
   height: 3.7rem;
