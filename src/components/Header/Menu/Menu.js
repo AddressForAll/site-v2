@@ -34,17 +34,17 @@ const Menu = () => (
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Statute
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Projects
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Partnerships
               </a>
             </li>
@@ -53,7 +53,7 @@ const Menu = () => (
         <li className="dropdown">
           <a
             className="dropdown-toggle"
-            href="#"
+            href="#!"
             id="resourcesMenuLink"
             role="button"
             data-bs-toggle="dropdown"
@@ -63,35 +63,35 @@ const Menu = () => (
           </a>
           <ul className="dropdown-menu" aria-labelledby="resourcesMenuLink">
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Data
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Services
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 API
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#!">
                 Tools
               </a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="#">FAQ</a>
+          <a href="#!">FAQ</a>
         </li>
         <li>
-          <a href="#">Contact</a>
+          <a href="#!">Contact</a>
         </li>
         <li>
-          <a href="#">Blog</a>
+          <a href="#!">Blog</a>
         </li>
       </ul>
       <form className="d-flex">

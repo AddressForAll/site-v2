@@ -15,41 +15,41 @@ const Footer = () => (
         <div class="col col-1-5">
           <ul class="nav" role="menu">
             <li>
-              <a href="#">About US</a>
+              <a href="#!">About US</a>
             </li>
             <li>
-              <a href="#">Statute</a>
+              <a href="#!">Statute</a>
             </li>
             <li>
-              <a href="#">Projects</a>
+              <a href="#!">Projects</a>
             </li>
             <li>
-              <a href="#">Partnetships</a>
+              <a href="#!">Partnetships</a>
             </li>
           </ul>
           <hr />
           <ul class="nav" role="menu">
             <li>
-              <a href="#">FAQ</a>
+              <a href="#!">FAQ</a>
             </li>
             <li>
-              <a href="#">Blog</a>
+              <a href="#!">Blog</a>
             </li>
           </ul>
         </div>
         <div class="col col-1-5">
           <ul class="nav" role="menu">
             <li>
-              <a href="#">Data</a>
+              <a href="#!">Data</a>
             </li>
             <li>
-              <a href="#">Services</a>
+              <a href="#!">Services</a>
             </li>
             <li>
-              <a href="#">API</a>
+              <a href="#!">API</a>
             </li>
             <li>
-              <a href="#">Tools</a>
+              <a href="#!">Tools</a>
             </li>
           </ul>
         </div>
@@ -65,8 +65,8 @@ const Footer = () => (
             <span property="postalCode">01311-904 </span>
             <span property="addressCountry">Brasil</span>
           </address>
-          <span itemprop="telephone">+55 11 4063-6401</span>
-          <a href="mailto:contato@addressforall.org" itemprop="email">
+          <span itemProp="telephone">+55 11 4063-6401</span>
+          <a href="mailto:contato@addressforall.org" itemProp="email">
             contato@addressforall.org
           </a>
         </div>
@@ -79,28 +79,28 @@ const Footer = () => (
         <div class="col col-1-5">
           <ul id="sn-icons" class="nav">
             <li>
-              <a href="#">
+              <a href="#!">
                 <svg>
                   <use xlinkHref="#github"></use>
                 </svg>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="#!">
                 <svg>
                   <use xlinkHref="#twitter"></use>
                 </svg>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="#!">
                 <svg>
                   <use xlinkHref="#instagram"></use>
                 </svg>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="#!">
                 <svg>
                   <use xlinkHref="#facebook"></use>
                 </svg>
