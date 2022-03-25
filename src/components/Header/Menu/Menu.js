@@ -1,17 +1,15 @@
 import React from 'react'
 
 const Menu = () => (
-  <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-    <a href="/"
-      className="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
-    >
+  <div class="navbar justify-content-lg-start">
+    <a id="takemehome" href="/">
       <div className="brand">
         <svg>
           <use xlinkHref="#logosvg"></use>
         </svg>
       </div>
     </a>
-    <div className="navbar">
+    <nav>
       <ul className="nav">
         <li className="dropdown">
           <a
@@ -103,7 +101,7 @@ const Menu = () => (
           <option value="en">en</option>
         </select>
       </form>
-    </div>
+    </nav>
   </div>
 );
 

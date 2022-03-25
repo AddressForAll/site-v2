@@ -138,7 +138,11 @@ hr:not([size]) {
   height: 24px;
   width: 24px;
 }
-.navbar {
+/* navigation and sections margin */
+section {
+  margin-top: 0.75rem;
+}
+nav {
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -147,6 +151,18 @@ hr:not([size]) {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+#takemehome {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  text-decoration: none;
+}
 .nav {
   display: flex;
   flex-wrap: wrap;
@@ -154,6 +170,7 @@ hr:not([size]) {
   margin-bottom: 0;
   list-style: none;
 }
+/* -------------- */
 .dropdown,
 .dropend,
 .dropstart,
@@ -443,6 +460,13 @@ a:hover {
   }
   .divider {
     margin: 3rem 0;
+  }
+  #takemehome {
+    margin-bottom: 0;
+    margin-right: auto;
+  }
+  section {
+    margin-top: 3rem;
   }
 }
 @media (min-width: 992px) {
