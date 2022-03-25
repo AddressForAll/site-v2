@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Menu = () => (
-  <div class="navbar justify-content-lg-start">
+  <div className="navbar justify-content-lg-start">
     <a id="takemehome" href="/">
       <div className="brand">
         <svg>
