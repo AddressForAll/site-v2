@@ -55,15 +55,22 @@ const Footer = () => (
         </div>
         <div className="col col-2-5">
           <h3>Contact Us</h3>
-          <address vocab="http://schema.org/" typeof="PostalAddress">
-            <span property="name" className="hidden">
-              Instituto AddressForAll
-            </span>
-            <span property="streetAddress">Av. Paulista, 171 4º andar </span>
-            <span property="addressLocality">Bela Vista</span>, 
-            <span property="addressRegion"> São Paulo - SP </span>
-            <span property="postalCode">01311-904 </span>
-            <span property="addressCountry">Brasil</span>
+
+          <address itemScope itemType="http://schema.org/Organization">
+            <ul
+              itemProp="address"
+              itemScope
+              itemType="http://schema.org/PostalAddress"
+            >
+              <li className="hidden" itemProp="name">
+                Instituto AddressForAll
+              </li>
+              <li itemProp="streetAddress">Av. Paulista, 171 4º andar</li>
+              <li itemProp="addressLocality">Bela Vista</li>
+              <li itemProp="addressRegion">São Paulo - SP</li>
+              <li itemProp="postalCode">01311-904</li>
+              <li itemProp="addressCountry">Brasil</li>
+            </ul>
           </address>
           <span itemProp="telephone">+55 11 4063-6401</span>
           <a href="mailto:contato@addressforall.org" itemProp="email">

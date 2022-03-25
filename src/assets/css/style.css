@@ -83,6 +83,11 @@ address {
   font-style: normal;
   margin-bottom: .5rem;
 }
+address ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
 .brand {
   height: 3.7rem;
   width: fit-content;
