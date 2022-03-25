@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Menu = () => (
   <div className="navbar justify-content-lg-start">
@@ -23,30 +23,17 @@ const Menu = () => (
             Corporate
           </a>
           <ul className="dropdown-menu" aria-labelledby="corporateMenuLink">
-            <select className="form-select" aria-label="Language">
-              <option value="pt">pt</option>
-              <option value="es">sp</option>
-              <option value="en">en</option>
-            </select>
             <li>
-              <a className="dropdown-item" href="/About">
-                About US
-              </a>
+              <a href="/About">About US</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                Statute
-              </a>
+              <a href="#!">Statute</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                Projects
-              </a>
+              <a href="#!">Projects</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                Partnerships
-              </a>
+              <a href="#!">Partnerships</a>
             </li>
           </ul>
         </li>
@@ -63,24 +50,16 @@ const Menu = () => (
           </a>
           <ul className="dropdown-menu" aria-labelledby="resourcesMenuLink">
             <li>
-              <a className="dropdown-item" href="#!">
-                Data
-              </a>
+              <a href="#!">Data</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                Services
-              </a>
+              <a href="#!">Services</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                API
-              </a>
+              <a href="#!">API</a>
             </li>
             <li>
-              <a className="dropdown-item" href="#!">
-                Tools
-              </a>
+              <a href="#!">Tools</a>
             </li>
           </ul>
         </li>
@@ -105,4 +84,4 @@ const Menu = () => (
   </div>
 );
 
-export default Menu
+export default Menu;

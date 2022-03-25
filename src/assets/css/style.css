@@ -186,19 +186,20 @@ nav {
   position: absolute;
   z-index: 1000;
   display: none;
-  min-width: 10rem;
+  min-width: 7rem;
   padding: 0.5rem 0;
   margin: 0;
   font-size: 1rem;
-  color: #212529;
+  /* color: #212529; */
   text-align: left;
   list-style: none;
-  background-color: #fff;
+  background-color: var(--afa-white);
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
 }
-.dropdown-item {
+.dropdown-item,
+.dropdown-menu a {
   display: block;
   width: 100%;
   padding: 0.25rem 1rem;
