@@ -14,14 +14,24 @@ const Menu = () => (
         <li className="dropdown">
           <a
             className="dropdown-toggle"
-            href="about"
+            href="#!"
             id="corporateMenuLink"
             role="button"
             data-bs-toggle="dropdown"
             aria-expanded="false"
+            aria-controls="corporateMenu"
           >
             Corporate
           </a>
+          {/* <a
+            href="#corporateMenuOpen"
+            aria-controls="corporateMenu"
+            role="button"
+            data-toggle="dropdown"
+            className="close"
+          >
+            Close
+          </a> */}
           <ul className="dropdown-menu" aria-labelledby="corporateMenuLink">
             <li>
               <a href="/About">About US</a>
@@ -45,6 +55,7 @@ const Menu = () => (
             role="button"
             data-bs-toggle="dropdown"
             aria-expanded="false"
+            aria-controls="resourcesMenu"
           >
             Resources
           </a>
