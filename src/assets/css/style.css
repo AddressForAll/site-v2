@@ -1,19 +1,11 @@
 @import url(sanitize.css);
 @import url(vars.css);
 @import url(form.css);
-@font-face {
-  font-family: "Roboto";
-  src: url("../../assets/fonts/roboto/roboto-v16-latin-300.eot"),
-    url("../../assets/fonts/roboto/roboto-v16-latin-300.svg") format("svg");
-  font-weight: normal;
-  font-style: normal;
-}
+
 body {
   margin: 0;
   font-family: var(--afa-font-sans-serif);
   background-color: var(--afa-white);
-  color: var(--afa-dark);
-  font-size: 1rem;
   font-weight: 300;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -33,23 +25,29 @@ section {
 h1,
 h2,
 h3 {
-  font-weight: 300;
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 0.5rem;
+  /* font-weight: 300;
+  line-height: 1.2; */
+  /* margin-top: 0;
+  margin-bottom: 0.5rem; */
   letter-spacing: -0.05rem;
+  color: var(--afa-gray-dark);
 }
 h1 {
-  font-size: 3.5rem;
+  font-size: 75px;
+  line-height: 100px;
+  font-weight: bold;
 }
 h2 {
-  font-size: 3rem;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: bold;
 }
 h3 {
   font-size: 2.5rem;
 }
 h4 {
   font-size: 1.25rem;
+  color: var(--afa-gray-dark);
 }
 dl,
 ol,
@@ -61,9 +59,11 @@ header {
   padding: 0.25rem;
   margin-bottom: 0.25rem;
   box-shadow: var(--afa-shadow);
+  background-color: var(--afa-blue);
 }
 footer {
   padding: 3rem 0;
+  background-color: var(--afa-blue);
 }
 footer .logo{
   margin: 0 auto;
@@ -101,13 +101,23 @@ address ul {
   margin-right: auto;
   margin-left: auto;
 }
-.lead {
-  font-size: 1.25rem;
-  /* font-weight: 300; */
+/* .lead {
+  font-size: 1.5rem;
+} */
+
+p.text-bg-white, link.text-bg-white{
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: regular;
 }
-p.lead {
+p.text-bg-blue, link.text-bg-blue{
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: bold;
+}
+/* p.lead {
   margin: 1.5rem 0;
-}
+} */
 li {
   display: list-item;
   text-align: -webkit-match-parent;
@@ -125,6 +135,9 @@ svg {
 }
 .fill_green {
   fill: var(--afa-green);
+}
+.fill_white {
+  fill: var(--afa-white);
 }
 hr {
   margin: 1rem 0;
@@ -226,7 +239,7 @@ a:hover {
 .nav a {
   display: block;
   padding: 0.5rem 0.75rem;
-  color: var(--afa-blue-dark);
+  color: var(--afa-white);
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
@@ -277,7 +290,7 @@ a:hover {
   padding: 3rem 0;
 }
 #instituteAFA {
-  background: var(--afa-gradient);
+  background: var(--afa-white);
   text-align: center;
   padding: 3rem 0;
   color: var(--afa-light);
@@ -408,6 +421,10 @@ a:hover {
 .muted {
   color: var(--afa-gray);
 }
+p {
+  color: var(--afa-brown-dark);
+}
+
 /*********************** GRID **********************/
 /* Section */
 .section {

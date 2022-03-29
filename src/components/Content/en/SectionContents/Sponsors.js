@@ -1,6 +1,6 @@
 import React from "react";
-import Section from "../../Container/Section";
-import Container from "../../Container/Container";
+import Section from "../../../Container/Section";
+import Container from "../../../Container/Container";
 
 const Sponsors = () => {
     return (

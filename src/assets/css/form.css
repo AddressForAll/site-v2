@@ -7,7 +7,7 @@ button:not(:disabled) {
 .btn {
   display: inline-block;
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 24px;
   color: var(--afa-dark);
   text-align: center;
   text-decoration: none;
@@ -19,7 +19,7 @@ button:not(:disabled) {
   background-color: transparent;
   border: 1px solid transparent;
   padding: .75rem 1rem;
-  font-size: 1.25rem;
+  font-size: 24px;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   border-radius: .3rem;

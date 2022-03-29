@@ -1,13 +1,13 @@
 import React from "react";
-import Section from "../../Container/Section";
-import Container from "../../Container/Container";
+import Section from "../../../Container/Section";
+import Container from "../../../Container/Container";
 
-const Services = () => {
+const Servicos = () => {
   return(
     <Section id="services">
       <Container>
-        <h2>Our Services</h2>
-        <p className="lead">
+        <h2>Nossos Serviços</h2>
+        <p className="text-bg-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad adipisci
           impedit vel? Placeat sequi cupiditate, itaque facere necessitatibus
           distinctio sapiente magni culpa ab atque, vitae voluptatem, debitis
@@ -23,7 +23,7 @@ const Services = () => {
             </div>
             <div className="card-content">
               <h4>API: Geocoding</h4>
-              <p>You submit an address and the API returns a Lat/Long</p>
+              <p>Você envia um endereço e a API retorna a Latitude/Longitude</p>
             </div>
           </li>
 
@@ -36,7 +36,7 @@ const Services = () => {
             </div>
             <div className="card-content">
               <h4>API: Reverse Geocoding</h4>
-              <p>You submit a Lat/Long and the API returns an address</p>
+              <p>Você envia a Latitude/Longitude e a API retorna um endereço.</p>
             </div>
           </li>
 
@@ -61,4 +61,4 @@ const Services = () => {
     )
 }
 
-export default Services;
+export default Servicos;

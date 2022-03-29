@@ -1,9 +1,9 @@
 import React from "react";
-import Main from "../Container/Main";
+import Main from "../../Container/Main";
 import AboutUs from "./SectionContents/AboutUs";
 import Sponsors from "./SectionContents/Sponsors";
 import InstituteAFA from "./SectionContents/InstituteAFA";
-import Footer from "../Footer/Footer";
+import Footer from "../../Footer/en/Footer";
 
 const AboutContent = () => (
     <Main>

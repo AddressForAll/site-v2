@@ -1,8 +1,8 @@
 import React from "react";
-import Container from "../Container/Container";
+import Container from "../../Container/Container";
 
-const Footer = () => (
-  <footer>
+const Rodape = () => (
+    <footer>
     <Container>
       <div className="row">
         <div className="col col-1-5 align-items-center">
@@ -15,16 +15,16 @@ const Footer = () => (
         <div className="col col-1-5">
           <ul className="nav" role="menu">
             <li>
-              <a href="#!">About US</a>
+              <a href="#!">Quem Somos</a>
             </li>
             <li>
-              <a href="#!">Statute</a>
+              <a href="#!">Estatuto</a>
             </li>
             <li>
-              <a href="#!">Projects</a>
+              <a href="#!">Projetos</a>
             </li>
             <li>
-              <a href="#!">Partnetships</a>
+              <a href="#!">Parcerias</a>
             </li>
           </ul>
           <hr />
@@ -40,21 +40,21 @@ const Footer = () => (
         <div className="col col-1-5">
           <ul className="nav" role="menu">
             <li>
-              <a href="#!">Data</a>
+              <a href="#!">Dado</a>
             </li>
             <li>
-              <a href="#!">Services</a>
+              <a href="#!">Serviços</a>
             </li>
             <li>
               <a href="#!">API</a>
             </li>
             <li>
-              <a href="#!">Tools</a>
+              <a href="#!">Ferramentas</a>
             </li>
           </ul>
         </div>
         <div className="col col-2-5">
-          <h3>Contact Us</h3>
+          <h3>Contato</h3>
 
           <address itemScope itemType="http://schema.org/Organization">
             <ul
@@ -118,6 +118,6 @@ const Footer = () => (
       </div>
     </Container>
   </footer>
-);
+)
 
-export default Footer;
+export default Rodape;

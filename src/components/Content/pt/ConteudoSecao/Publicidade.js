@@ -1,6 +1,6 @@
 import React from "react";
-import Container from "../../Container/Container";
-import RowContainer from "../../Container/Row";
+import Container from "../../../Container/Container";
+import RowContainer from "../../../Container/Row";
 
 const Advertisment = () => {
     return (
@@ -8,13 +8,12 @@ const Advertisment = () => {
       <RowContainer>
             <div className="col col-2-5 justify-content-center">
                 <h1>AddressForAll</h1>
-                <p className="lead">
-                For services to reach the right place, addresses are a matter of
-                sovereignty for any country.
+                <p className="text-bg-white">
+                    Para que os serviços cheguem ao lugar certo, endereços são uma questão de soberania para qualquer país.
                 </p>
-                <p className="lead">
-                <a href="#" className="btn btn-blue">
-                    Continue reading...
+                <p>
+                <a href="#" className="btn btn-blue link-bg-blue">
+                    Assista ao vídeo
                 </a>
                 </p>
             </div>

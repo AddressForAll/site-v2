@@ -1,9 +1,9 @@
 import React from "react";
-import Section from "../../Container/Section";
-import Container from "../../Container/Container";
-import search from "../../../assets/img/search.png";
-import db from "../../../assets/img/db.png";
-import docs from "../../../assets/img/docs.png";
+import Section from "../../../Container/Section";
+import Container from "../../../Container/Container";
+import search from "../../../../assets/img/search.png";
+import db from "../../../../assets/img/db.png";
+import docs from "../../../../assets/img/docs.png";
 
 const PubliMessages = () => {
     return (
@@ -11,10 +11,9 @@ const PubliMessages = () => {
       <Container>
         <div className="row featurette">
           <div className="col col-3-5 justify-content-center">
-            <h2>Addresses Matter!</h2>
-            <p className="lead">
-              Not knowing where an address is located can cost you time, lives,
-              fuel, and rework.
+            <h2>Endereços Importam!</h2>
+            <p className="text-bg-white">
+              Não saber onde está um endereço pode custar Tempo, Vidas, Combustível, Retrabalho.
             </p>
           </div>
           <div className="col col-2-5">
@@ -32,12 +31,12 @@ const PubliMessages = () => {
         <div className="row featurette">
           <div className="col col-3-5 justify-content-center order-2">
             <h2>
-              <span className="muted">Problem:</span> Separate DBs!
+              <span className="muted">Problema:</span> BDs separados!
             </h2>
-            <p className="lead">
-              Municipalities, utilities and logistics companies improve their
-              address databases, but each keeps its own database isolated from
-              the others.
+            <p className="text-bg-white">
+              Prefeituras, concessionárias, empresas de logística, 
+              melhoram seus bancos de dados de endereços, 
+              mas cada um mantem a sua base de dados isolada da base dos outros.
             </p>
           </div>
           <div className="col col-2-5">
@@ -45,7 +44,7 @@ const PubliMessages = () => {
               src={db}
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
-              alt="Problem: Separate DBs!"
+              alt="Problema: BDs separados!"
             />
           </div>
         </div>
@@ -54,12 +53,11 @@ const PubliMessages = () => {
 
         <div className="row featurette">
           <div className="col col-3-5 justify-content-center">
-            <h2>Let's Collaborate!</h2>
-            <p className="lead">
-              This is why the AddressForAll Institute has been created. The
-              project invites everyone to participate in the effort and to put
-              their addresses in a single, public domain, collaborative database
-              that everyone can consult and download for free.
+            <h2>Vamos Colaborar!</h2>
+            <p className="text-bg-white">
+              É por isto que o Instituo AddressForAll foi criado. 
+              O projeto convida todos a participar do esforço e a colocar seus endereços num banco de dados único, 
+              de domínio público, colaborativo, que todos podem consultar e baixar gratuitamente.
             </p>
           </div>
           <div className="col col-2-5">
@@ -67,7 +65,7 @@ const PubliMessages = () => {
               src={docs}
               preserveAspectRatio="xMidYMid slice"
               focusable="false"
-              alt="Lets Collaborate"
+              alt="Vamos Colaborar!"
             />
           </div>
         </div>

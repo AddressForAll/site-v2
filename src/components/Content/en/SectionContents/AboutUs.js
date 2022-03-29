@@ -1,6 +1,6 @@
 import React from "react";
-import Container from "../../Container/Container";
-import Section from "../../Container/Section";
+import Container from "../../../Container/Container";
+import Section from "../../../Container/Section";
 
 const AboutUs = () => (
     <Section id="aboutUs">

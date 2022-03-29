@@ -21,29 +21,20 @@ const Menu = () => (
             aria-expanded="false"
             aria-controls="corporateMenu"
           >
-            Corporate
+            Instituto
           </a>
-          {/* <a
-            href="#corporateMenuOpen"
-            aria-controls="corporateMenu"
-            role="button"
-            data-toggle="dropdown"
-            className="close"
-          >
-            Close
-          </a> */}
           <ul className="dropdown-menu" aria-labelledby="corporateMenuLink">
             <li>
-              <a href="/About">About US</a>
+              <a href="/About">Quem Somos</a>
             </li>
             <li>
-              <a href="#!">Statute</a>
+              <a href="#!">Estatuto</a>
             </li>
             <li>
-              <a href="#!">Projects</a>
+              <a href="#!">Projetos</a>
             </li>
             <li>
-              <a href="#!">Partnerships</a>
+              <a href="#!">Parcerias</a>
             </li>
           </ul>
         </li>
@@ -57,7 +48,7 @@ const Menu = () => (
             aria-expanded="false"
             aria-controls="resourcesMenu"
           >
-            Resources
+            Recursos
           </a>
           <ul className="dropdown-menu" aria-labelledby="resourcesMenuLink">
             <li>
@@ -78,7 +69,7 @@ const Menu = () => (
           <a href="#!">FAQ</a>
         </li>
         <li>
-          <a href="#!">Contact</a>
+          <a href="#!">Contato</a>
         </li>
         <li>
           <a href="#!">Blog</a>
