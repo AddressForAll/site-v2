@@ -2,37 +2,28 @@ import React from "react";
 import Container from "../../../Container/Container";
 import Section from "../../../Container/Section";
 
-const AboutUs = () => (
+const QuemSomos = () => (
     <Section id="aboutUs">
         <Container>
-            <h2>About Us</h2>
+            <h2>Quem Somos?</h2>
             <p class="lead">
-            The AddressForAlL Geo-social Technologies Institute aims to advocate
-            for open data and social improvement through the good use of
-            technology with an emphasis on geo-spatial technologies.
+            O instituto de Teconologia Geo-Sociais AddressForAlL tem por objetivo 
+            a defesa dos dados abertos e da melhoria social através do bom uso da 
+            tecnologia com ênfase nas tecnologias geo-espaciais.
             </p>
-            <h2>Background</h2>
+            <h2>Histórico</h2>
             <p class="lead">
-            As part of our work supporting the OpenStreetMap collaborative map
-            project, for 3 years the founders of the Institute tried to motivate
-            the Brazilian government to create an open and collaborative address
-            database in Brazil. Seeing that the project did not go beyond
-            ideation due to lack of political will or strength, Thierry Jean,
-            Filipe Rocha and Peter Krauss decided to launch the "Address for
-            All" project in 2020 within a non-profit association called
-            "Institute of Geo-Social Technologies AddressForAll".
+            Como parte do seu trabalho no apoio do projeto de mapa colaborativo OpenStreetMap, durante 3 anos, os fundadores do Instituto tentaram motivar o governo Brasileiro a criar uma base de dados de endereços aberta e colaborativa no Brasil.
+            Vendo que o projeto não passava da ideação, devido à falta de vontade ou força política, Thierry Jean, Filipe Rocha e Peter Krauss decidiram lançar o projeto 'Endereço para todos' em 2020 no âmbito de uma associação sem fins lucrativos chamada 'Instituto de Tecnologias Geo-Sociais AddressForAll'.
             </p>
-            <h2>Evolution</h2>
+            <h2>Evolução</h2>
             <p class="lead">
-            The creation of the Institute allowed its creators to bring together
-            under one legal umbrella a number of research and social improvement
-            projects, always with strong use of geolocation.
+            A criação do Instituto permitiu aos seus criadores de juntar debaixo de um mesmo guarda-chuva legal alguns projetos de pesquisas e de melhoria social, sempre com uso forte de geolocalização.
             </p>
-            <h2>Consulting Board</h2>
+            <h2>Conselho Consultivo</h2>
             <p class="lead">
-            The Consulting Board is made up of permanent and honorary members of
-            notable competence and reputation in their areas, and guides the
-            Institute's actions.
+            O Conselho consultivo é constituído por membros efetivos e honorários de notória competência e reputação em suas áreas, 
+            e norteia a atuação do Instituto.
             </p>
             <h3>Permanent Associates</h3>
             <p>Members with voting rights in the general assemblies.</p>
@@ -131,4 +122,4 @@ const AboutUs = () => (
     </Section>
 )
 
-export default AboutUs
+export default QuemSomos

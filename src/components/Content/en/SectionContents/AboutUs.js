@@ -41,7 +41,7 @@ const AboutUs = () => (
                 <li>
                     <div class="crew-photo">
                     <img
-                        src="http://addressforall.org/resources/img/equipe-thierry.jpg"
+                        src="/resources/img/equipe-thierry.jpg"
                     />
                     </div>
                     <p>Thierry Jean<span class="muted">France / Brazil</span></p>
@@ -50,7 +50,7 @@ const AboutUs = () => (
                 <li>
                     <div class="crew-photo">
                     <img
-                        src="http://addressforall.org/resources/img/equipe-filipe.jpg"
+                        src="/resources/img/equipe-filipe.jpg"
                     />
                     </div>
                     <p>Filipe Rocha<span class="muted">Brazil</span></p>

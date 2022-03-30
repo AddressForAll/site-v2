@@ -2,6 +2,7 @@ import React from 'react'
 import { BrowserRouter, Routes as Switch, Route } from 'react-router-dom'
 
 import Inicio from '../pages/pt/Inicio'
+import Sobre from '../pages/pt/corporacao/Sobre'
 
 import Home from '../pages/en/Home'
 import About from '../pages/en/corporate/About'
@@ -21,8 +22,8 @@ const Routes = () => (
             
             <Route path="/" element={<Inicio />} />
             
-            {/* <Route path="sobre" element={<Sobre />} />
-            <Route path="estatuto" element={<Estatuto />} />
+            <Route path="sobre" element={<Sobre />} />
+            {/* <Route path="estatuto" element={<Estatuto />} />
             <Route path="projetos" element={<Projetos />} />
             <Route path="parcerias" element={<Parcerias />}/>
             
@@ -30,7 +31,6 @@ const Routes = () => (
             <Route path="dados" element={<Dados />} />
             <Route path="servicos" element={<Servicos />} />
             <Route path="ferramentas" element={<Ferramentas />} /> */}
-            
 
             {/* Rota em inglês */}
 

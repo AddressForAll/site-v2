@@ -2,7 +2,7 @@ import React from "react";
 import Section from "../../../Container/Section";
 import Container from "../../../Container/Container";
 
-const Sponsors = () => {
+const Patrocinadores = () => {
     return (
     <Section id="sponsors">
       <Container>
@@ -20,7 +20,7 @@ const Sponsors = () => {
               rel="external"
             >
               <img
-                src="http://addressforall.org/resources/img/dados_abertos.png"
+                src=""
                 alt="Dados abertos"
               />
             </a>
@@ -31,4 +31,4 @@ const Sponsors = () => {
     )
 }
 
-export default Sponsors;
+export default Patrocinadores;

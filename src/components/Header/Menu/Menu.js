@@ -1,6 +1,6 @@
 import React from "react";
 
-const Menu = () => (
+const Menu = ({lang}) => (
   <div className="navbar justify-content-lg-start">
     <a id="takemehome" href="/">
       <div className="brand">
@@ -10,22 +10,14 @@ const Menu = () => (
       </div>
     </a>
     <nav>
-      <ul className="nav">
-        <li className="dropdown">
-          <a
-            className="dropdown-toggle"
-            href="#!"
-            id="corporateMenuLink"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
-            aria-controls="corporateMenu"
-          >
-            Instituto
+      <ul className="menu">
+        <li>
+          <a className="dropdown-toggle">
+              Instituto
           </a>
-          <ul className="dropdown-menu" aria-labelledby="corporateMenuLink">
+          <ul className="dropdown-menu">
             <li>
-              <a href="/About">Quem Somos</a>
+              <a href="/sobre">Quem Somos</a>
             </li>
             <li>
               <a href="#!">Estatuto</a>

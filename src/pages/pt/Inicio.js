@@ -7,7 +7,7 @@ import Rodape from '../../components/Footer/pt/Rodape'
 const Inicio = () => (
     <>
         <Logo/>
-        <Header />   
+        <Header lang={'pt'} />   
         <InicioConteudo />
         <Rodape/>
     </>

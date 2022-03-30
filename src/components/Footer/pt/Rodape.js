@@ -13,7 +13,7 @@ const Rodape = () => (
           </div>
         </div>
         <div className="col col-1-5">
-          <ul className="nav" role="menu">
+          <ul className="menu" role="menu">
             <li>
               <a href="#!">Quem Somos</a>
             </li>
@@ -28,7 +28,7 @@ const Rodape = () => (
             </li>
           </ul>
           <hr />
-          <ul className="nav" role="menu">
+          <ul className="menu" role="menu">
             <li>
               <a href="#!">FAQ</a>
             </li>
@@ -38,7 +38,7 @@ const Rodape = () => (
           </ul>
         </div>
         <div className="col col-1-5">
-          <ul className="nav" role="menu">
+          <ul className="menu" role="menu">
             <li>
               <a href="#!">Dado</a>
             </li>
@@ -84,7 +84,7 @@ const Rodape = () => (
           <p>© 2022 AddressForAll</p>
         </div>
         <div className="col col-1-5">
-          <ul id="sn-icons" className="nav">
+          <ul id="sn-icons" className="menu">
             <li>
               <a href="#!">
                 <svg>
