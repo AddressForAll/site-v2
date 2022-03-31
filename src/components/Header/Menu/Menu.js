@@ -34,11 +34,11 @@ const Menu = ({ lang }) => (
           <a
             className="dropdown-toggle"
             href="#!"
-            id="resourcesMenuLink"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false"
-            aria-controls="resourcesMenu"
+            // id="resourcesMenuLink"
+            // role="button"
+            // data-bs-toggle="dropdown"
+            // aria-expanded="false"
+            // aria-controls="resourcesMenu"
           >
             Recursos
           </a>
