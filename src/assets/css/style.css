@@ -189,19 +189,19 @@ nav {
   position:relative;
   float:left;
   height: 38px;
+  width: 200px;
 }
 .menu li a{
   color:var(--afa-white); 
   text-decoration:none; 
   padding:5px 10px; 
   display:block;
+  width: 100%;
 }
 .menu li a:hover{
   background: var(--afa-blue-algo);
   color:#fff;
-  /* -moz-box-shadow:0 3px 10px 0 #CCC;
-  -webkit-box-shadow:0 3px 10px 0 #ccc;
-  text-shadow:0px 0px 5px #fff; */
+  width: 100%;
 }
 .menu li ul li a {
   color: var(--afa-shadow);
@@ -221,7 +221,7 @@ nav {
 }
 .menu li ul li{
   display:block;
-  width:150px;
+  width:200px;
 }
 /* -------------- */
 .dropdown,
