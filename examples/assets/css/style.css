@@ -1,6 +1,7 @@
 @import url(sanitize.css);
 @import url(vars.css);
 @import url(form.css);
+@import url(nav.css);
 @font-face {
   font-family: "Roboto";
   src: url("../../assets/fonts/roboto/roboto-v16-latin-300.eot"),
@@ -176,6 +177,12 @@ nav {
   margin-bottom: 0;
   list-style: none;
 }
+.dropdown:hover ul,
+.dropdown.over ul{
+  display:block; 
+  z-index: 999;
+  background: #fff;
+}
 /* -------------- */
 .dropdown,
 .dropend,
@@ -199,7 +206,8 @@ nav {
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
 }
-.dropdown-item {
+/* .dropdown-item, */
+.dropdown-menu li a {
   display: block;
   width: 100%;
   padding: 0.25rem 1rem;
@@ -476,7 +484,7 @@ a:hover {
   }
 }
 @media (min-width: 992px) {
-  .container {
+  .container{
     max-width: 960px;
   }
   .col {
@@ -494,7 +502,8 @@ a:hover {
   .col-4-5 {
     width: 750px;
   }
-  .justify-content-lg-start {
+  .justify-content-lg-start,
+  .navbar {
     justify-content: flex-start !important;
   }
 }
