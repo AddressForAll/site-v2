@@ -50,6 +50,16 @@ const Menu = ({ lang }) => (
             <li>
               <a href="#!">Contato</a>
             </li>
+            <li style={{ "float": "right" }}>
+              <a href="#!">X</a>
+            </li>
+            <li style={{ "float": "right" }}>
+              <a href="#!">Y</a>
+            </li>
+            <li style={{ "float": "right" }}>
+              <a href="#!">Z</a>
+            </li>
+            
           </ul>
         </nav>
       </div>

@@ -84,7 +84,7 @@ const Footer = () => (
           <p>© 2022 AddressForAll</p>
         </div>
         <div className="col col-1-5">
-          <ul id="sn-icons" className="nav">
+          <ul id="sn-icons" className="nav-footer">
             <li>
               <a href="#!">
                 <svg>

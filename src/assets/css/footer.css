@@ -1,0 +1,34 @@
+
+address ul li {
+    display: inline;
+}
+
+.menu-footer li a {
+    text-decoration: none;
+}
+
+.menu-footer li a {
+    color: var(--afa-white);
+}
+
+#copyright-white {
+    color: var(--afa-white);
+}
+
+.nav-footer {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-footer a, .menu-footer a {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: var(--afa-blue-dark);
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+

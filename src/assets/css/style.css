@@ -47,6 +47,7 @@ h4 {
 dl,
 ol,
 ul {
+  list-style: none;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -414,7 +415,7 @@ p {
   }
 }
 @media (min-width: 1200px) {
-  .container {
+  .container, .nav-container {
     max-width: 1140px;
   }
   .col {
@@ -424,7 +425,7 @@ p {
     width: 205px;
   }
   .col-2-5 {
-    width: 444px;
+    width: 400px;
   }
   .col-3-5 {
     width: 676px;
@@ -434,7 +435,7 @@ p {
   }
 }
 @media (min-width: 1400px) {
-  .container {
+  .container, .nav-container {
     max-width: 1320px;
   }
   .col {

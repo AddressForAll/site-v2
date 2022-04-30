@@ -13,7 +13,7 @@ const Rodape = () => (
           </div>
         </div>
         <div className="col col-1-5">
-          <ul className="menu" role="menu">
+          <ul className="menu-footer" role="menu">
             <li>
               <a href="#!">Quem Somos</a>
             </li>
@@ -28,7 +28,7 @@ const Rodape = () => (
             </li>
           </ul>
           <hr />
-          <ul className="menu" role="menu">
+          <ul className="menu-footer" role="menu">
             <li>
               <a href="#!">FAQ</a>
             </li>
@@ -38,7 +38,7 @@ const Rodape = () => (
           </ul>
         </div>
         <div className="col col-1-5">
-          <ul className="menu" role="menu">
+          <ul className="menu-footer" role="menu">
             <li>
               <a href="#!">Dado</a>
             </li>
@@ -66,10 +66,10 @@ const Rodape = () => (
                 Instituto AddressForAll
               </li>
               <li itemProp="streetAddress">Av. Paulista, 171 4º andar</li>
-              <li itemProp="addressLocality">Bela Vista</li>
-              <li itemProp="addressRegion">São Paulo - SP</li>
-              <li itemProp="postalCode">01311-904</li>
-              <li itemProp="addressCountry">Brasil</li>
+              <li itemProp="addressLocality"> Bela Vista</li>
+              <li itemProp="addressRegion"> São Paulo - SP</li>
+              <li itemProp="postalCode"> 01311-904</li>
+              <li itemProp="addressCountry"> Brasil</li>
             </ul>
           </address>
           <span itemProp="telephone">+55 11 4063-6401</span>
@@ -81,10 +81,10 @@ const Rodape = () => (
       <hr />
       <div className="row">
         <div className="col col-4-5">
-          <p>© 2022 AddressForAll</p>
+          <p id="copyright-white">© 2022 AddressForAll</p>
         </div>
         <div className="col col-1-5">
-          <ul id="sn-icons" className="menu">
+          <ul id="sn-icons" className="menu nav-footer">
             <li>
               <a href="#!">
                 <svg>
