@@ -1,0 +1,36 @@
+$blue: #0474a5;
+$blue-dark: #1b439a;
+$blue-light: #0abbd4;
+$green: #3a9948;
+$green-light: #38b54c;
+$gray: #626776;
+$gray-dark: #2f281e;
+$gray-light: #dcdfe1;
+$white: #fbfdfe;
+$dark: var($gray-dark);
+$light: var($gray-light);
+$font-sans-serif: Roboto, system-ui, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+$font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+  "Courier New", monospace;
+$gradient-blue: linear-gradient(135deg, $blue-dark 0%, $blue 100%);
+$gradient-green: linear-gradient(135deg, $green 0%, $green-light 100%);
+$gradient: $gradient-blue;
+$crew-photo-size: 180px;
+$shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.15);
+
+$text-shadow: 1px 1px 3px #fbfdfe80;
+
+$official-blue: #003399;
+$official-green: #339966;
+$font-medium: 'MarkOT-Medium',
+  sans-serif;
+$font-heavy: 'MarkOT-Heavy',
+  sans-serif;
+$font-regular: $font-sans-serif;
+
+// Font sizes
+$text-jumbo: 3rem; // 37pt
+$text-large: 2.25rem; //27pt
+$text-normal: 1rem; //12pt
+
+$card-size: 24rem;

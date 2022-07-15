@@ -1,0 +1,20 @@
+{
+  "title": "Institute AdressForAll",
+  "menu": {
+    "whoweare": "Who We Are",
+    "projects": "Projects",
+    "statute": "Statute",
+    "partners": "Partners",
+    "data": "Data",
+    "downloads": "Downloads",
+    "visualization": "Visualization",
+    "metadata": "Metadata",
+    "tools": "Tools",
+    "api": "API",
+    "faq": "FAQ",
+    "contribute": "Contribute",
+    "ourservices": "Our Services",
+    "blog": "Blog"
+  },
+  "contact": "Contact"
+}

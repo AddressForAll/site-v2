@@ -1,0 +1,176 @@
+{
+  "title": "Instituto AdressForAll",
+  "menu": {
+    "home": "Inicio",
+    "whoweare": "Quiénes Somos",
+    "projects": "Proyectos",
+    "statute": "Estatutos",
+    "partners": "Colaboradores",
+    "data": "Datos",
+    "downloads": "Downloads",
+    "visualization": "Visualización",
+    "metadata": "Metadatos",
+    "documentation": "Documentación",
+    "tools": "Herramientas",
+    "api": "API",
+    "faq": "FAQ",
+    "contribute": "Contribuir",
+    "ourservices": "Nuestros Servicios",
+    "blog": "Blog",
+    "knowmore": "Saber Más",
+    "opendataportal": "Portal de Datos Abiertos",
+    "backtohome": "Volver al Inicio"
+  },
+  "contact": "Contacto",
+  "home": {
+    "advertisment": {
+      "message": "El sitio de la base de datos de direcciones abierta, colaborativa y",
+      "remark": "gratuita"
+    },
+    "regionalmap": {
+      "message": "Regiones en las que operamos, buscando direcciones en el dominio público, con personal voluntario y",
+      "remark": "remunerado"
+    },
+    "aboutus": {
+      "message": "El Instituto AddressForAll es una ONG sin ánimo de lucro que mantiene una base de datos de direcciones abierta, colaborativa y gratuita. Remuneramos a los equipos que realizan un trabajo proactivo de búsqueda de datos, en los países donde operamos."
+    },
+    "downloads": {
+      "message": "Nuestros datos están disponibles para su descarga, con la información del tipo de licencia abierta de cada dato (CC0, CC‑BY o CC‑BY‑SA, o equivalente)."
+    }
+  },
+  "about": {
+    "whoweare": {
+      "title": "¿Quiénes somos?",
+      "text": "El Instituto de Tecnologías Geos‑Sociales AddressForAll tiene como objetivo promover los datos abiertos y la mejora social mediante el buen uso de la tecnología, haciendo énfasis en las tecnologías geoespaciales."
+    },
+    "historic": {
+      "title": "Antecedentes",
+      "text": "Como parte de su trabajo de apoyo al proyecto de mapas colaborativos OpenStreetMap, durante 3 años, los fundadores del Instituto trataron de motivar al gobierno brasileño para crear una base de datos de direcciones abierta y colaborativa en Brasil. Al ver que el proyecto no pasaba de la ideación por falta de voluntad política o de fuerza, Thierry Jean, Filipe Rocha y Peter Krauss decidieron lanzar el proyecto \"AddressForAll\" en 2020 y crearon una asociación sin ánimo de lucro llamada \"Instituto de Tecnologías Geo‑Sociales AddressForAll\"."
+    },
+    "founders": {
+      "title": "Fundadores"
+    },
+    "consultants": {
+      "title": "Consejo Consultivo"
+    },
+    "itcrowd": {
+      "title": "Equipo Técnico‑Operativo"
+    },
+    "statutes": {
+      "message": "En el siguiente enlace puede consultar una versión abreviada de nuestros estatutos, así como acceder a las distintas versiones de estos en su totalidad."
+    }
+  },
+  "statutes": {
+    "md": "# Eatatutos\n Nostrud laborum nostrud reprehenderit exercitation tempor Lorem pariatur. Lorem consectetur sint officia laborum qui et ad. Id exercitation ad ipsum deserunt aliquip velit. Aliqua in consequat est cillum. Sint pariatur pariatur aliquip consequat dolore minim cillum proident aute aute labore aliqua. Ipsum id reprehenderit occaecat eiusmod cupidatat ipsum ea nisi anim in deserunt magna est id. Ex incididunt qui sint ea Lorem."
+  },
+  "projects": {
+    "title": "Nuestros Proyectos",
+    "text": "El proyecto AddressForAll es uno de los varios proyectos que tiene el Instituto.",
+    "project01": {
+      "title": "AddressForAll – Dirección para Todos",
+      "excerpt": "Este fue el primer proyecto del instituto. El proyecto mantiene una base de direcciones de colaboración abierta.",
+      "text": "El proyecto gestiona una base de direcciones de colaboración abierta.<br/> Para que los servicios de emergencia lleguen al lugar correcto, para permitir el análisis cartográfico en unos pocos clics o incluso para que los operadores públicos y privados coordinen mejor sus trabajos, las direcciones son una verdadera cuestión de soberanía para cualquier país."
+    },
+    "project02": {
+      "title": "Código de Enrutamiento Postal",
+      "excerpt": "¿El CEP (Codigo Postal Brasileño) es privado? El CRP sortea legalmente esta incoherencia.",
+      "text": "En Brasil, al ser el CEP un dato privado de Correos, los municipios y los gobiernos no pueden elaborar una lista de los CEP de su interés. El proyecto sortea esta incoherencia, ofreciendo a la sociedad una lista de códigos diferentes a los códigos postales, pero que pueden tener la misma utilidad."
+    },
+    "project03": {
+      "title": "OSM Codes",
+      "excerpt": "El ser humano tiene dificultades para memorizar la latitud/longitud. El Geocodigo crea un código corto y fácil de recordar para señalar un área de 4m x 4m.",
+      "text": "A Latitud Longitud es un código muy difícil de manejar y recordar para los humanos. Sin embargo, señalar una ubicación en el mapa es necesario para todos, sobre todo para los lugares donde no hay direcciones de calidad, como en los barrios marginales, los desiertos, las sábanas, etc. Los geocódigos son códigos más fáciles de recordar, sobre todo si desarrollamos geocódigos más cortos. Este proyecto lleva a cabo una investigación académica para desarrollar la mejor tecnología de geocodificación y llevarla a los gobiernos y a la sociedad. Esta tecnología debería tener en cuenta y armonizarse con las rejillas estadísticas, porque los estudios estadísticos, cada vez más, son geoespaciales."
+    },
+    "project04": {
+      "title": "Preservación Digital",
+      "excerpt": "Conservamos durante décadas datos que los gobiernos pierden fácilmente.",
+      "text": "Conservamos, durante décadas, datos que los gobiernos pierden fácilmente."
+    },
+    "project05": {
+      "title": "Gobierno Geo‑Digital",
+      "excerpt": "Concienciar a los gobiernos de la importancia de la geografía en los servicios digitales y ayudarles.",
+      "text": "Los gobiernos son conscientes de la importancia de la digitalización de sus servicios, pero la cultura de la geolocalización aún no está extendida. Todo el mundo quiere ver todo en un mapa, pero los gestores a menudo no saben ni por dónde empezar para conseguirlo. El proyecto de Gobierno Geo Digital pretende concienciar a los gobiernos de la importancia de la geografía en los servicios públicos, así como señalar formas concretas de aplicarla y beneficiarse de ella."
+    },
+    "project06": {
+      "title": "Alerta Primera Infancia",
+      "excerpt":"El proyecto desarrolla una plataforma tecnológica para alertar a los municipios cuando los niños de la primera infancia están en situación de vulnerabilidad.",
+      "text": "El proyecto desarrolla una plataforma tecnológica para alertar a los municipios cuando los niños de la primera infancia están en situación de vulnerabilidad."
+    }
+  },
+  "partners": {
+    "md": "# Colaboradores\n Veniam eiusmod anim pariatur laboris exercitation aliquip dolore dolore nisi est anim cupidatat proident culpa. Nostrud mollit sunt aute officia Lorem proident culpa ut proident id. Minim fugiat magna nisi excepteur cupidatat consectetur minim Lorem. Magna reprehenderit et enim occaecat culpa incididunt amet nostrud."
+  },
+  "data": {
+    "title": "Datos",
+    "text": "Tenemos un equipo que llama a los titulares de los datos y los motiva para que donen datos al proyecto AddressForAll, con licencias libres. Siempre recomendamos la publicación de datos en el dominio público y el uso de la <strong>licencia CC0,</strong> pero también aceptamos datos con licencia CC‑BY y CC‑BY‑SA.",
+    "phases": {
+      "text": "Nuestros datos están disponibles en 3 fases de tratamiento:",
+      "phase01": {
+        "title": "Datos Preservados",
+        "text": "<p>Los datos y las licencias del <strong>proyecto Digital‑Guard</strong> están estrictamente controlados y se conservan igual que los originales recibidos de los donantes. Son los \"datos brutos\", sin estandarizar y en muchos formatos diferentes (CSV, Shapefile, GeoJSON, etc.). <strong>Se conservan durante 20 años,</strong> y durante ese tiempo se pueden descargar, tal y como los recibimos.</p>"
+      },
+      "phase02": {
+        "title": "Datos Filtrados",
+        "text": "<p>Al ser de origen diverso, los datos conservados deben ser filtrados y normalizados. El proyecto AddressForAll realiza un <strong>recorte centrado en direcciones.</strong> La estructura del recorte está estandarizada y se publica en formato GeoJSON, a través de PostgreSQL en repositorios git.</p> <p><strong>Todo el proceso de filtrado y publicación es abierto y reproducible,</strong> cualquiera puede auditarlo. Los resultados  <strong>no se someten a validación,</strong> y la misma dirección puede ser descrita y repetida por diferentes fuentes, como el municipio, la empresa del agua y la empresa de logística.</p>"
+      },
+      "phase03": {
+        "title": "Datos Consolidados",
+        "text": "<p>La consolidación consiste en agregar estadísticamente la información de varias fuentes sobre una misma dirección y sus alrededores y aplicar algoritmos de <strong>validación.</strong> En el proceso, las direcciones reconocidas como duplicadas se reducen a una única dirección y las no válidas se descartan.</p> <p>Obtenemos tanto la <strong>puntuación de fiabilidad</strong> de los datos originales como la <strong>posición más probable</strong> del punto de dirección. Los nombres de las calles reciben una estandarización terminológica y la numeración de los edificios puede optimizarse mediante el promedio, el reposicionamiento o la interpolación. Esta base es la que se utiliza para nuestras API de búsqueda y geocodificación <strong>(en construcción).</strong></p>"
+      }
+    }
+  },
+  "documentation": {
+    "md": "# Documentación\n Los datos puestos a disposición por el Instituto AddressForAll pueden analizarse en nuestras API o descargarse, por partes (datos locales de un municipio, por ejemplo) y por etapa de su ciclo de procesamiento. A continuación se describen brevemente los conjuntos de datos resultantes de cada uno de estos pasos. Para los detalles técnicos, consulte la [documentación](https://github.com/AddressForAll)"
+  },
+  "visualization": {
+    "md": "# Visualización de los Datos\n Puedes explorar los datos, antes de descargarlos.",
+    "html": "<h1>Visualización de los Datos</h1>\n <p>Puedes explorar los datos, antes de descargarlos.</p>"
+  },
+  "downloads": {
+    "md": "# Downloads\n Los datos puestos a disposición por el Instituto AddressForAll pueden descargarse por municipio (datos locales) o a nivel nacional.",
+    "html": "<h1>Downloads</h1>\n <p>Los datos puestos a disposición por el Instituto AddressForAll pueden descargarse por municipio (datos locales) o a nivel nacional.</p>"
+  },
+  "apis": {
+    "md": "# APIs\n Las APIs del Portal del Instituto AddressForAll corresponden a funcionalidades de acceso directo a nuestra base de datos, es decir, se puede acceder a los Datos descritos tanto indirectamente a través de nuestros repositorios git, como directamente a través de nuestras APIs. Para los detalles técnicos, consulte la [documentación](https://github.com/AddressForAll)",
+    "html": "<h1>APIs</h1>\n <p>Las APIs del Portal del Instituto AddressForAll corresponden a funcionalidades de acceso directo a nuestra base de datos, es decir, se puede acceder a los Datos descritos tanto indirectamente a través de nuestros repositorios git, como directamente a través de nuestras APIs. Para los detalles técnicos, consulte la <a href=\"https://github.com/AddressForAll\">documentación</a></p>"
+  },
+  "services": {
+    "md": "# Servicios\n <h2>Patrocinio:</h2>\n Contamos con el patrocinio de empresas y entidades, interesadas en que el proyecto crezca. Tenemos un equipo que llama a los titulares de los datos y los motiva a donar sus datos al proyecto AddressForAll, con licencias gratuitas. Hacemos un trabajo activo de defensa de los datos abiertos y enseñamos a los gobiernos a publicar sus datos en el dominio público con la licencia CC0, que es la más adecuada.\n\n Podemos hacer campañas específicas en regiones o países, a petición de un patrocinador, pero el resultado del trabajo está abierto a todos. Si su empresa aprovecha los datos del Instituto AddressForAll, póngase en contacto con nosotros para contribuir económicamente a este esfuerzo y que el proyecto pueda crecer.\n <h2>Servicios para los Gobiernos:</h2>\n A veces los gobiernos desean orquestar un proyecto de base de datos de direcciones abierta en su territorio, pero carecen de presupuesto, estructura organizativa o competencia para hacerlo. Estos gobiernos pueden contratar al Instituto AddressForAll para que organice y opere el proyecto en su país.\n\n El desarrollo del proyecto puede conducir a la propuesta de nuevas leyes que mejoren la gestión de las direcciones, como hemos visto en Francia o Uruguay, por ejemplo."
+  },
+  "contribute": {
+    "md": "# Contribuir\n El Instituto AddressForAll cuenta con la colaboración de todos. Si su empresa o el organismo gubernamental en el que participa tiene datos relevantes, póngase en contacto con nosotros. Aunque se considere que los datos no son fiables, al cruzarlos con otros datos, pueden ayudar mucho a la calidad final del trabajo.\n\n Los datos obtenidos no tienen que ser necesariamente de direcciones. Cuando recibamos ortofotos o archivos cartográficos completos, intentaremos poner estos datos a disposición de la comunidad de OpenStreetMap para facilitar su trabajo de cartografiar el mundo.\n\n Si quiere ser embajador del proyecto AddressForAll en su región o sector, puede hacer mucho para ayudarnos a construir una excelente base de direcciones abiertas.\n  <h2>O</h2>\n Si quieres compartir tus impresiones y consejos para que mejoremos constantemente, ponte en contacto con nosotros. Todas las contribuciones son bienvenidas."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes FAQ",
+    "dados": {
+      "title": "Datos",
+      "q01": {
+        "q": "He presentado una base de datos geográfica de mi municipio. ¿Puedo ver estos datos en AddressForAll?",
+        "a": {
+          "text": "Sí. Los datos recibidos están disponibles de 3 maneras:",
+          "pt01": "Datos preservados. Cada paquete se conserva durante 20 años, guardamos los datos tal y como los recibimos y los ponemos a disposición para su descarga;",
+          "pt02": "Datos filtrados, disponibles casi en bruto, a través de mapas, estadísticas o descargas. Estos datos se someten a un tratamiento previo (sólo se procesa la estructura de los datos originales);",
+          "pt03": "Datos consolidados, con contenido posiblemente modificado, disponibles en servicios, API y descargas. Ya no serán \"sus datos\", ya que su contribución puede ser descartada o mezclada en forma de media con otros datos.",
+          "subtext": "Hay varios tipos de modificación, veamos algunos ejemplos. El Instituto puede decidir consolidar los nombres de las calles, por ejemplo sustituyendo todas las abreviaturas \"Av.\" por \"Avenida\". Si los puntos de dirección están situados en el centro de la parcela, el Instituto reubicará el punto en la parte delantera de la parcela, cerca de la calle."
+        }
+      },
+      "q02": {
+        "q": "¿Puedo ver la licencia de los datos?",
+        "a": {
+          "text": "<p>Sí. Para cada tipo de datos (preservados, filtrados y consolidados), puede haber una licencia diferente. Los datos originales y filtrados reciben la licencia de los datos originales del donante. Los datos consolidados reciben una licencia según los originales rastreables, y en el caso de datos iguales con diferentes licencias, se adopta la más abierta (menos restrictiva), variando en el espectro de \"familias de licencias\" desde CC0 hasta CC‑BY‑NC‑SA, pero con la mayoría en CC0.</p> <p>Cuando los datos originales proceden de un organismo público, aunque no tenga licencia, está implícita la prevista por la legislación del país (o jurisdicción más específica).</p> <p>Por ejemplo, en Brasil, aplicamos la siguiente regla:</p>",
+          "pt01": "Datos de los órganos federales: son siempre CC0.",
+          "pt02": "Datos de los órganos municipales o estatales: son en general implícitamente abiertos como los federales, pero pueden depender de una legislación específica.",
+          "subtext": "Los datos consolidados, al tener valor añadido por el Instituto, reciben la licencia de elección del Instituto, que es CC0 siempre que sea posible."
+        }
+      },
+      "q03": {
+        "q": "¿Puedo descargar los datos y combinarlos con mi base de datos interna?",
+        "a": "<p>Sí y no. AddresForAll pretende trabajar con datos abiertos, y hay dos licencias disponibles. La primera, CC0, le permite hacer \"todo\". Puede descargar los datos, mezclarlos con datos privados y declarar el nuevo conjunto como privado.</p> <p>La licencia CC‑BY‑SA, similar a la ODbL, utilizada por ejemplo por OpenStreetMap, no es tan permisiva, y puede \"contaminar\" la base que recibe los datos. La base de datos resultante de la combinación de ambos datos ya no puede ser \"privada\" ni redistribuida bajo la licencia CC0, sino sólo bajo la licencia CC‑BY‑SA. Esto puede ser inapropiado para los organismos gubernamentales que se comprometen a publicar sus datos en el dominio público, por ejemplo, en el diario oficial.</p>"
+      },
+      "q04": {
+        "q": "¿Puedo aportar datos?",
+        "a": "Sí, póngase en contacto con nosotros."
+      }
+    }
+  }
+}

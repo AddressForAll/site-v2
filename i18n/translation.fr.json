@@ -1,0 +1,20 @@
+{
+  "title": "Instituto AdressForAll",
+  "menu": {
+    "whoweare": "Qui sommes-nous",
+    "projects": "Projets",
+    "statute": "Statuts",
+    "partners": "Partenaires",
+    "data": "Données",
+    "downloads": "Downloads",
+    "visualization": "Visualisation",
+    "metadata": "Métadonnées",
+    "tools": "Outils",
+    "api": "API",
+    "faq": "FAQ",
+    "contribute": "Contribuer",
+    "ourservices": "Nos services",
+    "blog": "Blog"
+  },
+  "contact": "Contactez"
+}
