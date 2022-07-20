@@ -143,24 +143,10 @@ function Header() {
 
         <div className="LanguageSwitcher">
           <LanguageSwitcher lang="pt">BR</LanguageSwitcher> |{" "}
+          {/* <LanguageSwitcher lang="fr">FR</LanguageSwitcher> |{" "} */}
+          {/* <LanguageSwitcher lang="en">EN</LanguageSwitcher> |{" "} */}
           <LanguageSwitcher lang="es">ES</LanguageSwitcher>
         </div>
-        {/* <form className="switcher">
-          <select onChange={handleChangeLocale} value={language}>
-            <option key="pt" value="pt" defaultValue>
-              BR
-            </option>
-            <option key="es" value="es">
-              ES
-            </option>
-            <option key="en" value="en">
-              EN
-            </option>
-            <option key="fr" value="fr">
-              FR
-            </option>
-          </select> 
-           </form> */}
       </nav>
     </header>
   );
