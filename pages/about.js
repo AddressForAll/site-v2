@@ -117,11 +117,13 @@ export default function About() {
           <li>
             <img alt="Luis Felipe" src="/img/staff-photos/luisf.png" />
             <p>Luis Felipe&nbsp;</p>
+            <div className="tooltip">GIS</div>
           </li>
 
           <li>
             <img alt="Gabriel Machado" src="/img/staff-photos/gabriel.png" />
             <p>Gabriel Machado</p>
+            <div className="tooltip">Projects</div>
           </li>
 
           <li>
