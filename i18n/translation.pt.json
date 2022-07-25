@@ -25,7 +25,8 @@
 	"home":{
 		"advertisment":{
 			"message":"O site da base de dados de endereços aberta, colaborativa",
-			"remark":"gratuita"
+			"remark":"gratuita",
+			"video": "https://www.youtube.com/embed/WglOrCDKjeo"
 		},
 		"regionalmap":{
 			"message":"Regiões onde atuamos, buscando endereços no dominio público com equipes voluntárias e",

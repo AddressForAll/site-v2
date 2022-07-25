@@ -14,7 +14,7 @@ export default function Home() {
         </p>
         <div className="youtube-video-container">
           <iframe
-            src="https://www.youtube.com/embed/WglOrCDKjeo"
+            src={t("home.advertisment.video")}
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
