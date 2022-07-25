@@ -43,7 +43,7 @@ function Header() {
                 </Link>
               </li>
               <li>
-                <a href="/about#projects">{t("menu.projects")}</a>
+                <a href={t("projects.link")}>{t("menu.projects")}</a>
               </li>
               <li>
                 <Link href={{ pathname: "/partners", query: query }}>

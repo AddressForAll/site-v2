@@ -66,6 +66,7 @@
 	"projects":{
 		"title":"Nossos Projetos",
 		"text":"O Projeto AddressForAll é um dos vários projetos mantidos pelo Instituto.",
+		"link":"/about/?lang=pt#projects",
 		"project01":{
 			"title":"AddressForAll – Endereço para todos",
 			"excerpt": "Este foi o primero projeto do instituto. O projeto mantém uma base de endereços colaborativa aberta.",
