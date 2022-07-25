@@ -18,7 +18,7 @@ export default function About() {
         <h2>{t("about.historic.title")}</h2>
         <p>{t("about.historic.text")}</p>
       </section>
-      
+
       <section id="founders">
         <h2>{t("about.founders.title")}</h2>
         <ul className="staff founders">
@@ -157,11 +157,7 @@ export default function About() {
 
       <section id="statutesbnr">
         <div className="col">
-          <p className="message">
-            No link ababixo você pode consultar uma versão resumida de nosso
-            estatuto social, bem como acessar as diversas versões de nosso
-            estatutato em inteiro teor
-          </p>
+          <p className="message">{t("about.statutes.message")}</p>
           <Link href={{ pathname: "/statutes", query: query }}>
             <a className="btn btn-blue">{t("menu.statute")}</a>
           </Link>
