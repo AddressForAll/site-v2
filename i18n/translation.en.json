@@ -24,8 +24,8 @@
   "contact":"Contact",
 	"home":{
 		"advertisment":{
-			"message":"The open, collaborative, free address database website",
-			"remark":"free",
+			"message":"The open, collaborative, <i>free</i> address database website",
+			"remark":"",
 			"video": "https://www.youtube.com/watch?v=6sT6Xm8jwCI"
 		},
 		"regionalmap":{
