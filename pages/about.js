@@ -82,6 +82,10 @@ export default function About() {
           <li>
             <img alt="Jérôme Desboeufs" src="/img/staff-photos/jerome.png" />
             <p>Jérôme Desboeufs</p>
+            <div className="tooltip">
+              <a href="https://adresse.data.gouv.fr">adresse.data.gouv.fr</a>{" "}
+              Developer
+            </div>
           </li>
           <li>
             <img alt="Rafael Siqueira" src="/img/staff-photos/rafael.png" />
