@@ -142,7 +142,7 @@ svg {
 }
 
 .underlined {
-	border-bottom: 2px solid;
+	border-bottom: 2px solid !important;
 	width: fit-content;
 	clear: none;
 }
@@ -638,7 +638,6 @@ section {
 
 	p {
 		color: vars.$white;
-		margin-right: -15rem;
 	}
 
 	img {
@@ -648,6 +647,7 @@ section {
 
 	.message {
 		max-width: 35rem;
+		margin-right: -15rem;
 	}
 }
 

@@ -24,12 +24,12 @@
   "contact": "Contacto",
   "home": {
     "advertisment": {
-      "message": "El sitio de la base de datos de direcciones abierta, colaborativa y",
+      "message": "El sitio de la base de datos de direcciones abierta, colaborativa y <span class=\"underlined\">gratuita</span>",
       "remark": "gratuita",
       "video":"https://www.youtube.com/embed/_QJb8df5_qk"
     },
     "regionalmap": {
-      "message": "Regiones en las que operamos, buscando direcciones en el dominio público, con personal voluntario y",
+      "message": "Regiones en las que operamos, buscando direcciones en el dominio público, con personal voluntario y <span class=\"underlined\">remunerado</span>",
       "remark": "remunerado"
     },
     "aboutus": {

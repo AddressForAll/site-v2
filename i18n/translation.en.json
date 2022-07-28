@@ -24,12 +24,12 @@
   "contact":"Contact",
 	"home":{
 		"advertisment":{
-			"message":"The open, collaborative, free address database website",
+			"message":"The open, collaborative, <span class=\"underlined\">free</span> address database website",
 			"remark":" ",
 			"video": "https://www.youtube.com/embed/6sT6Xm8jwCI"
 		},
 		"regionalmap":{
-			"message":"Regions where we operate, searching addresses in the public domain, with volunteer and ",
+			"message":"Regions where we operate, searching addresses in the public domain, with volunteer and <span class=\"underlined\">paid teams</span>",
 			"remark":"paid teams"
 		},
 		"aboutus":{

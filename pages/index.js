@@ -1,6 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import { useTranslation, useLanguageQuery } from "next-export-i18n";
+import { Converter } from "showdown";
+
+const converter = new Converter();
 
 export default function Home() {
   const { t } = useTranslation();
@@ -8,10 +11,16 @@ export default function Home() {
   return (
     <>
       <section id="advertisment">
-        <p className="message">
+        <div
+          className="message"
+          dangerouslySetInnerHTML={{
+            __html: converter.makeHtml(t("home.advertisment.message")),
+          }}
+        />
+        {/* <p className="message">
           {t("home.advertisment.message")}{" "}
           <span className="underlined">{t("home.advertisment.remark")}</span>
-        </p>
+        </p> */}
         <div className="youtube-video-container">
           <iframe
             src={t("home.advertisment.video")}
@@ -23,10 +32,16 @@ export default function Home() {
         </div>
       </section>
       <section id="regionalmap">
-        <p className="message">
+        <div
+          className="message"
+          dangerouslySetInnerHTML={{
+            __html: converter.makeHtml(t("home.regionalmap.message")),
+          }}
+        />
+        {/* <p className="message">
           {t("home.regionalmap.message")}{" "}
           <span className="underlined">{t("home.regionalmap.remark")}</span>
-        </p>
+        </p> */}
         <img src="/img/regioes_atendidas.svg" alt="regional map" />
       </section>
       <section id="aboutus">
