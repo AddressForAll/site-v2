@@ -144,8 +144,8 @@ function Header() {
         <div className="LanguageSwitcher">
           <LanguageSwitcher lang="pt">BR</LanguageSwitcher> |{" "}
           {/* <LanguageSwitcher lang="fr">FR</LanguageSwitcher> |{" "} */}
-          {/* <LanguageSwitcher lang="en">EN</LanguageSwitcher> |{" "} */}
-          <LanguageSwitcher lang="es">ES</LanguageSwitcher>
+          <LanguageSwitcher lang="es">ES</LanguageSwitcher> |{" "}
+          <LanguageSwitcher lang="en">EN</LanguageSwitcher>
         </div>
       </nav>
     </header>
