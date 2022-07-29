@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useTranslation } from "next-export-i18n";
 import { Converter } from "showdown";
 

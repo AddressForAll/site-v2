@@ -1,7 +1,7 @@
-var pt = require("./translation.pt.json");
-var es = require("./translation.es.json");
-var en = require("./translation.en.json");
-var fr = require("./translation.fr.json");
+const pt = require("./translation.pt.json");
+const es = require("./translation.es.json");
+const en = require("./translation.en.json");
+const fr = require("./translation.fr.json");
 
 const i18n = {
   translations: {
@@ -11,8 +11,7 @@ const i18n = {
     fr,
   },
   defaultLang: "pt",
-  useBrowserDefault: false,
+  useBrowserDefault: true,
 };
 
-// export default i18n;
 module.exports = i18n;
