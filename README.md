@@ -7,8 +7,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First clone **this** repo and install the node modules
 
 ```bash
-git clone https://github.com/elpbatista/afa-site-next.git
-cd afa-site-next/
+git clone https://github.com/AddressForAll/site-v2.git
+cd site-v2/
 npm install --force
 ```
 
