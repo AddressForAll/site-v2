@@ -70,7 +70,7 @@ function Header() {
                 <a
                   href="http://docs.addressforall.org/"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="external noopener noreferrer"
                 >
                   {t("menu.documentation")}
                 </a>
@@ -117,10 +117,10 @@ function Header() {
         <ul className="icons-menu nav">
           <li>
             <a
-              href="https://github.com/AddressForAll"
+              href="https://git.AddressForAll.org"
               target="_blank"
-              title="GitHub"
-              rel="noopener noreferrer"
+              title="AddressForAll gits"
+              rel="external noopener noreferrer"
             >
               <svg>
                 <use xlinkHref="#git"></use>
@@ -132,7 +132,7 @@ function Header() {
               href="https://dadosabertos.social/c/dados-espaciais/12"
               target="_blank"
               title={t("menu.opendataportal")}
-              rel="noopener noreferrer"
+              rel="external noopener noreferrer"
             >
               <svg>
                 <use xlinkHref="#dadosAbertos"></use>
