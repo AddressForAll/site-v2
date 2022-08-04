@@ -17,14 +17,14 @@ const LanguageSwitchLink = ({ locale, ...rest }) => {
   if (locale) {
     href = rest.href ? `/${locale}${rest.href}` : pName
   }
-
   return (
-    <Link
-      href={href}
-    >
-      <button style={{ fontSize: 'small' }} onClick={() => languageDetector.cache(locale)}>{locale}</button>
+    <Link href={href}>
+      <button onClick={() => languageDetector.cache(locale)}>
+        {locale.toUpperCase()}
+      </button>
     </Link>
-  )
+  );
+  
 }
 
 export default LanguageSwitchLink

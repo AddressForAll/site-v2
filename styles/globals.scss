@@ -324,6 +324,18 @@ header {
 	.LanguageSwitcher {
 		display: block;
 		margin: auto 0 auto 2rem;
+		padding-top: .5rem;
+
+		button {
+			background: none;
+			border: none;
+			font-family: inherit;
+			font-size: inherit;
+			padding: 0 .25rem;
+			&::before {
+				content: "| ";
+			}
+		}
 	}
 
 	.icons-menu {
@@ -358,9 +370,9 @@ header {
 			margin-left: .5rem;
 		}
 
-		.LanguageSwitcher {
-			margin: .5rem;
-		}
+		// .LanguageSwitcher {
+		// 	margin: .5rem;
+		// }
 
 		.menu {
 			display: block;
@@ -524,7 +536,8 @@ section {
 	}
 }
 
-#consultants, #itcrowd {
+#consultants,
+#itcrowd {
 	background: vars.$white;
 }
 
