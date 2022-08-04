@@ -1,15 +1,15 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
-import Link from "next/link";
+import Link from "./Link";
+import { useTranslation } from "next-i18next";
+import { useRouter } from "next/router";
+import LanguageSwitchLink from "./LanguageSwitchLink";
 
-import {
-  useTranslation,
-  useLanguageQuery,
-  LanguageSwitcher,
-} from "next-export-i18n";
+import i18nextConfig from "../next-i18next.config";
 
 function Header() {
-  const { t } = useTranslation();
-  const [query] = useLanguageQuery();
+  const router = useRouter();
+  const { t } = useTranslation("common");
+  const currentLocale = router.query.locale || i18nextConfig.i18n.defaultLocale;
   return (
     <header>
       <div className="brand">
@@ -33,22 +33,16 @@ function Header() {
             </span>
             <ul className="dropdown-menu">
               <li>
-                <Link href={{ pathname: "/about", query: query }}>
-                  {t("menu.whoweare")}
-                </Link>
+                <Link href="/about">{t("menu.whoweare")}</Link>
               </li>
               <li>
-                <Link href={{ pathname: "/statutes", query: query }}>
-                  {t("menu.statute")}
-                </Link>
+                <Link href="/statutes">{t("menu.statute")}</Link>
               </li>
               <li>
-                <a href={t("projects.link")}>{t("menu.projects")}</a>
+                <Link href="/about#projects">{t("menu.projects")}</Link>
               </li>
               <li>
-                <Link href={{ pathname: "/partners", query: query }}>
-                  {t("menu.partners")}
-                </Link>
+                <Link href="/partners">{t("menu.partners")}</Link>
               </li>
             </ul>
           </li>
@@ -58,15 +52,9 @@ function Header() {
             </span>
             <ul className="dropdown-menu">
               <li>
-                <Link href={{ pathname: "/data", query: query }}>
-                  {t("menu.data")}
-                </Link>
+                <Link href="/data">{t("menu.data")}</Link>
               </li>
               <li>
-                {/* <Link href={{ pathname: "/documentation", query: query }}> */}
-                {/* <Link href="http://docs.addressforall.org/"> */}
-                {/* {t("menu.documentation")}
-                </Link> */}
                 <a
                   href="http://docs.addressforall.org/"
                   target="_blank"
@@ -76,36 +64,24 @@ function Header() {
                 </a>
               </li>
               <li>
-                <Link href={{ pathname: "/visualization", query: query }}>
-                  {t("menu.visualization")}
-                </Link>
+                <Link href="/visualization">{t("menu.visualization")}</Link>
               </li>
               <li>
-                <Link href={{ pathname: "/downloads", query: query }}>
-                  {t("menu.downloads")}
-                </Link>
+                <Link href="/downloads">{t("menu.downloads")}</Link>
               </li>
               <li>
-                <Link href={{ pathname: "/apis", query: query }}>
-                  {t("menu.api")}
-                </Link>
+                <Link href="/apis">{t("menu.api")}</Link>
               </li>
               <li>
-                <Link href={{ pathname: "/faq", query: query }}>
-                  {t("menu.faq")}
-                </Link>
+                <Link href="/faq">{t("menu.faq")}</Link>
               </li>
             </ul>
           </li>
           <li>
-            <Link href={{ pathname: "/services", query: query }}>
-              {t("menu.ourservices")}
-            </Link>
+            <Link href="/services">{t("menu.ourservices")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/contribute", query: query }}>
-              {t("menu.contribute")}
-            </Link>
+            <Link href="/contribute">{t("menu.contribute")}</Link>
           </li>
           <li>
             <a href="https://medium.com/@presidencia_82067" rel="external">
@@ -142,10 +118,10 @@ function Header() {
         </ul>
 
         <div className="LanguageSwitcher">
-          <LanguageSwitcher lang="pt">BR</LanguageSwitcher> |{" "}
-          {/* <LanguageSwitcher lang="fr">FR</LanguageSwitcher> |{" "} */}
-          <LanguageSwitcher lang="es">ES</LanguageSwitcher> |{" "}
-          <LanguageSwitcher lang="en">EN</LanguageSwitcher>
+          {i18nextConfig.i18n.locales.map((locale) => {
+            if (locale === currentLocale) return null;
+            return <LanguageSwitchLink locale={locale} key={locale} />;
+          })}
         </div>
       </nav>
     </header>

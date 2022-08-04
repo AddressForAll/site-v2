@@ -1,4 +1,5 @@
-import { useTranslation } from "next-export-i18n";
+import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
+import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
 const converter = new Converter();
@@ -15,3 +16,6 @@ export default function Visualization() {
     ></section>
   );
 }
+
+const getStaticProps = makeStaticProps("common");
+export { getStaticPaths, getStaticProps };

@@ -1,11 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
-import { useTranslation } from "next-export-i18n";
+import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
+import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
 const converter = new Converter();
 
 export default function Partners() {
-  const { t } = useTranslation();
+  const { t } = useTranslation("common");
   return (
     <section id="partners" className="flex-container">
       <div
@@ -153,3 +154,6 @@ export default function Partners() {
     </section>
   );
 }
+
+const getStaticProps = makeStaticProps("common");
+export { getStaticPaths, getStaticProps };

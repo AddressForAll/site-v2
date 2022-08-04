@@ -1,10 +1,11 @@
-import { useTranslation } from "next-export-i18n";
+import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
+import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
 const converter = new Converter();
 
 export default function Contribute() {
-  const { t } = useTranslation();
+  const { t } = useTranslation("common");
   return (
     <section
       id="contribute"
@@ -12,7 +13,9 @@ export default function Contribute() {
       dangerouslySetInnerHTML={{
         __html: converter.makeHtml(t("contribute.md")),
       }}
-    >
-    </section>
+    ></section>
   );
 }
+
+const getStaticProps = makeStaticProps("common");
+export { getStaticPaths, getStaticProps };

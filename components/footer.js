@@ -1,13 +1,8 @@
-import Link from "next/link";
-import {
-  useTranslation,
-  useLanguageQuery,
-  LanguageSwitcher,
-} from "next-export-i18n";
+import Link from "./Link";
+import { useTranslation } from "next-i18next";
 
 function Footer() {
-  const { t } = useTranslation();
-  const [query] = useLanguageQuery();
+  const { t } = useTranslation("common");
   return (
     <footer>
       <div className="col">
@@ -20,48 +15,32 @@ function Footer() {
       <div className="col">
         <ul className="nav" role="menu">
           <li>
-            <Link href={{ pathname: "/about", query: query }}>
-              {t("menu.whoweare")}
-            </Link>
+            <Link href="/about">{t("menu.whoweare")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/statutes", query: query }}>
-              {t("menu.statute")}
-            </Link>
+            <Link href="/statutes">{t("menu.statute")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/projects", query: query }}>
-              {t("menu.projects")}
-            </Link>
+            <Link href="/about#projects">{t("menu.projects")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/partners", query: query }}>
-              {t("menu.partners")}
-            </Link>
+            <Link href="/partners">{t("menu.partners")}</Link>
           </li>
         </ul>
       </div>
       <div className="col">
         <ul className="nav" role="menu">
           <li>
-            <Link href={{ pathname: "/downloads", query: query }}>
-              {t("menu.downloads")}
-            </Link>
+            <Link href="/downloads">{t("menu.downloads")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/services", query: query }}>
-              {t("menu.ourservices")}
-            </Link>
+            <Link href="/services">{t("menu.ourservices")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/apis", query: query }}>
-              {t("menu.api")}
-            </Link>
+            <Link href="/apis">{t("menu.api")}</Link>
           </li>
           <li>
-            <Link href={{ pathname: "/faq", query: query }}>
-              {t("menu.faq")}
-            </Link>
+            <Link href="/faq">{t("menu.faq")}</Link>
           </li>
         </ul>
       </div>

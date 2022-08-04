@@ -1,13 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
-import Link from "next/link";
-import { useTranslation, useLanguageQuery } from "next-export-i18n";
+import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
+import Link from "../../components/Link";
+import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
 const converter = new Converter();
 
 export default function About() {
-  const { t } = useTranslation();
-  const [query] = useLanguageQuery();
+  const { t } = useTranslation("common");
   return (
     <>
       <section id="whoweare" className="lead-text">
@@ -44,7 +44,7 @@ export default function About() {
             <img alt="Roberto Olinto" src="/img/staff-photos/roberto.png" />
             <p>Roberto Olinto</p>
             <div className="tooltip">
-              Former President of the IBGE & Professor at FGV​
+              Former President of the IBGE & Professor at FGV
             </div>
           </li>
           <li>
@@ -164,7 +164,7 @@ export default function About() {
       <section id="statutesbnr">
         <div className="col">
           <p className="message">{t("about.statutes.message")}</p>
-          <Link href={{ pathname: "/statutes", query: query }}>
+          <Link href="/statutes">
             <a className="btn btn-blue">{t("menu.statute")}</a>
           </Link>
         </div>
@@ -188,7 +188,7 @@ export default function About() {
                 __html: converter.makeHtml(t("projects.project01.excerpt")),
               }}
             />
-            <Link href={{ pathname: "/", query: query }}>
+            <Link href="/">
               <a className="btn btn-blue">{t("menu.backtohome")}</a>
             </Link>
           </li>
@@ -200,7 +200,7 @@ export default function About() {
               </h3>
             </div>
             <p>{t("projects.project02.excerpt")}</p>
-            <Link href={{ pathname: "/projects", query: { query, id: "CRP" } }}>
+            <Link href="/#">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -211,7 +211,6 @@ export default function About() {
                 src="/img/Icon/SVG/Icon-OSMCode.svg"
                 className="lc-icon"
               />
-              {/* <h3>{t("projects.project03.title")}</h3> */}
               <h3>
                 <strong>OSM</strong>
                 <br />
@@ -220,12 +219,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project03.excerpt")}</p>
-            <Link
-              href={{
-                pathname: "/projects",
-                query: { query, id: "OSM-Codes" },
-              }}
-            >
+            <Link href="/#">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -235,12 +229,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project04.excerpt")}</p>
-            <Link
-              href={{
-                pathname: "/projects",
-                query: { query, id: "Digital-Preserv" },
-              }}
-            >
+            <Link href="/#">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -255,12 +244,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project05.excerpt")}</p>
-            <Link
-              href={{
-                pathname: "/projects",
-                query: { query, id: "Digital-Gov" },
-              }}
-            >
+            <Link href="/#">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -275,12 +259,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project06.excerpt")}</p>
-            <Link
-              href={{
-                pathname: "/projects",
-                query: { query, id: "Early-Childhood" },
-              }}
-            >
+            <Link href="/#">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -289,3 +268,6 @@ export default function About() {
     </>
   );
 }
+
+const getStaticProps = makeStaticProps("common");
+export { getStaticPaths, getStaticProps };
