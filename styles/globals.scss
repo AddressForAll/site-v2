@@ -765,46 +765,40 @@ section {
 		.img {
 			background: vars.$blue-dark;
 			border-radius: .75rem;
-			padding: 10%;
-			width: 80%;
-			height: 11rem;
+			width: 100%;
+			height: 17rem;
 			position: relative;
+			display: flex;
 
-			.tr-icon {
-				height: 35%;
-				float: right;
+			img {
+				max-width: 85%;
+				max-height: 80%;
+				margin: auto;
 			}
 
-			.lc-icon {
-				height: 100%;
-				float: left;
-				padding-right: 1.5rem;
+			.tr-icon {
+				position: absolute;
+				right: 0;
+				height: 35%;
+				margin: 7%;
 			}
 		}
 
 		h3 {
 			color: vars.$white;
 			font-size: 2.25rem;
-			float: left;
 			text-align: left;
-			margin: auto;
-			padding-top: 2.55rem;
 			line-height: 2.25rem;
 			display: block;
+			width: 78%;
 			white-space: wrap;
+			position: absolute;
+			left: 7%;
+			bottom: 10%;
 
 			strong {
 				font-weight: 700;
 				font-size: 3.65rem;
-			}
-
-			.lite {
-				font-family: vars.$font-regular;
-				font-size: 2.55rem;
-				font-weight: 500;
-				letter-spacing: 0.05rem;
-				margin-top: .5rem;
-				display: inline-block;
 			}
 		}
 
@@ -826,7 +820,7 @@ section {
 
 #Doadores {
 	@include flex-container() {
-		align-items:center;
+		align-items: center;
 		justify-content: center;
 		// justify-content: space-between;
 		padding: 0;
@@ -836,6 +830,7 @@ section {
 		display: flex;
 		// flex-wrap: wrap;
 		flex-direction: column;
+
 		img {
 			max-height: 5.5rem;
 			padding: 1.5rem;

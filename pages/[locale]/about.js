@@ -194,9 +194,11 @@ export default function About() {
           </li>
           <li className="card">
             <div className="img">
+              <img className="tr-icon" alt="CRP" src="/img/LogoCRP.png" />
               <h3>
-                CRP <br />
-                {t("projects.project02.title")}
+                <strong>CRP</strong>
+                <br />
+                <span>{t("projects.project02.title")}</span>
               </h3>
             </div>
             <p>{t("projects.project02.excerpt")}</p>
@@ -206,16 +208,7 @@ export default function About() {
           </li>
           <li className="card">
             <div className="img">
-              <img
-                alt="AddressForAll"
-                src="/img/Icon/SVG/Icon-OSMCode.svg"
-                className="lc-icon"
-              />
-              <h3>
-                <strong>OSM</strong>
-                <br />
-                <span className="lite">CODES</span>
-              </h3>
+              <img alt="Osm Codes" src="/img/OSMCodes.png" />
             </div>
 
             <p>{t("projects.project03.excerpt")}</p>
@@ -225,7 +218,7 @@ export default function About() {
           </li>
           <li className="card">
             <div className="img">
-              <h3>{t("projects.project04.title")}</h3>
+              <img alt="Digital Guard" src="/img/DigitalGuard.png" />
             </div>
 
             <p>{t("projects.project04.excerpt")}</p>
