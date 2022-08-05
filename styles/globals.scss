@@ -332,6 +332,7 @@ header {
 			font-family: inherit;
 			font-size: inherit;
 			padding: 0 .25rem;
+
 			&::before {
 				content: "| ";
 			}
@@ -819,6 +820,25 @@ section {
 		p {
 			min-height: 8rem;
 			font-weight: 100;
+		}
+	}
+}
+
+#Doadores {
+	@include flex-container() {
+		align-items:center;
+		justify-content: center;
+		// justify-content: space-between;
+		padding: 0;
+	}
+
+	li {
+		display: flex;
+		// flex-wrap: wrap;
+		flex-direction: column;
+		img {
+			max-height: 5.5rem;
+			padding: 1.25rem;
 		}
 	}
 }

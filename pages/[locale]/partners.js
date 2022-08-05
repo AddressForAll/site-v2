@@ -14,7 +14,7 @@ export default function Partners() {
           __html: converter.makeHtml(t("partners.md")),
         }}
       ></div>
-      <ul>
+      <ul id="Doadores">
         <li>
           <img src="/img/doadores/araucaria.png" alt="Araucária" />
         </li>
