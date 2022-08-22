@@ -62,9 +62,7 @@
 		}
 	},
 	"statutes":{
-		"text": "
-
-		<h1>Resumo do Estatuto do Instituto AddressForAll</h1>
+		"md": "#Resumo do Estatuto do Instituto AddressForAll
 		<table>
 			<tr>
 				<td><img src=\"/_private/estatuto-assets/image5.png\"></td>
