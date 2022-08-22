@@ -62,7 +62,17 @@
 		}
 	},
 	"statutes":{
-		"md": "# Eatatuto\n Nostrud laborum nostrud reprehenderit exercitation tempor Lorem pariatur. Lorem consectetur sint officia laborum qui et ad. Id exercitation ad ipsum deserunt aliquip velit. Aliqua in consequat est cillum. Sint pariatur pariatur aliquip consequat dolore minim cillum proident aute aute labore aliqua. Ipsum id reprehenderit occaecat eiusmod cupidatat ipsum ea nisi anim in deserunt magna est id. Ex incididunt qui sint ea Lorem."
+		"text": "
+
+		<h1>Resumo do Estatuto do Instituto AddressForAll</h1>
+		<table>
+			<tr>
+				<td><img src=\"/_private/estatuto-assets/image5.png\"></td>
+				<td>O Instituto de Tecnologias Geo-Sociais AddressForAll é uma Associação brasileira sem fins lucrativos, com sede em São Paulo/SP. <br>O Instituto poderá atuar em parceria com governo, empresas e outras instituições, inclusive internacionais.
+			</tr>
+		</table>
+
+		"
 	},
 	"projects":{
 		"title":"Nossos Projetos",
