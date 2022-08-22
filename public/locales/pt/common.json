@@ -62,7 +62,7 @@
 		}
 	},
 	"statutes":{
-		"md": "#Eatatuto\n<table width='100%'><tr><td><img src='/_private/estatuto-assets/image5.png' style='width:5em;'></td><td>O <b>Instituto de Tecnologias Geo-Sociais AddressForAll</b> é uma Associação brasileira sem fins lucrativos, com sede em São Paulo/SP.<br>O Instituto poderá atuar em parceria com governo, empresas e outras instituições, inclusive internacionais.</td><td><img src='/_private/estatuto-assets/image1.png'></td></table>"
+		"md": "#Eatatuto\n<table width='100%'><tr><td><img src='/_private/estatuto-assets/image5.png' style='width:5em;'></td><td>O <b>Instituto de Tecnologias Geo-Sociais AddressForAll</b> é uma Associação brasileira sem fins lucrativos, com sede em São Paulo/SP.<br>O Instituto poderá atuar em parceria com governo, empresas e outras instituições, inclusive internacionais.</td><td><img src='/_private/estatuto-assets/image1.png' style='width:120px'></td></table>"
 	},
 	"projects":{
 		"title":"Nossos Projetos",
