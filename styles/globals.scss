@@ -186,7 +186,9 @@ svg {
 		font-size: 1.25rem !important;
 	}
 }
-
+ol.roman {
+	list-style: upper-roman;
+}
 dl,
 ol,
 ul {
