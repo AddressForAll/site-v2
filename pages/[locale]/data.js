@@ -11,13 +11,15 @@ export default function Data() {
     <>
       <section id="data" className="flex-container">
         <h1>{t("data.title")}</h1>
-        <img alt="data flow" src="/img/diagrams/i001_en-diaDataflow-main.png" />
         <div
           dangerouslySetInnerHTML={{
             __html: converter.makeHtml(t("data.text")),
           }}
         />
         <p>{t("data.phases.text")}</p>
+
+        <img alt="data flow" src="/img/diagrams/i001_en-diaDataflow-main.png" />
+
         <ul className="flex-list">
           <li className="card">
             <h3>{t("data.phases.phase01.title")}</h3>
