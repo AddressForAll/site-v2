@@ -4,4 +4,5 @@ module.exports = {
     defaultLocale: "pt",
     locales: ["pt", "es", "en", "fr"],
   },
+  localeExtension: "yaml",
 };
