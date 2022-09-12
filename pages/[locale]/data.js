@@ -6,7 +6,7 @@ import { Converter } from "showdown";
 const converter = new Converter();
 
 export default function Data() {
-  const { t } = useTranslation("common");
+  const { t, i18n } = useTranslation("common");
   return (
     <>
       <section id="data" className="flex-container">
@@ -18,7 +18,14 @@ export default function Data() {
         />
         <p>{t("data.phases.text")}</p>
 
-        <img alt="data flow" src="/img/diagrams/i001_en-diaDataflow-main.png" />
+        <img alt="data flow" src=      {(() => {
+        switch (i18n.language) {
+          case 'en':
+            return '/img/diagrams/i001_en-diaDataflow-main.png'
+          default:
+            return '/img/diagrams/i001_lt-diaDataflow-main.png'
+        }
+      })()} />
 
         <ul className="flex-list">
           <li className="card">
