@@ -193,10 +193,8 @@ visualization:
     # Visualización de los Datos
      Puedes explorar los datos, antes de descargarlos.
 
-
-
-
     *   [BR-AC-RioBranco/pk0042.01](https://addressforall.org/teste2/br-ac-riobranco_pk0042.01_block.html)
+    *   [BR-AM-Manaus/pk0071.01](https://addressforall.org/teste2/br-am-manaus_pk0071.01_block.html)
     *   [BR-ES-VilaVelha/pk0007.01](https://addressforall.org/teste2/br-es-vilavelha_pk0007.01_block.html)
     *   [BR-GO-Goiania/pk0054.01](https://addressforall.org/teste2/br-go-goiania_pk0054.01_block.html)
     *   [BR-MG-BeloHorizonte/pk0008.01](https://addressforall.org/teste2/br-mg-belohorizonte_pk0008.01_geoaddress.html)
@@ -230,9 +228,6 @@ visualization:
     *   [BR-SP-Sorocaba/pk0031.01](https://addressforall.org/teste2/br-sp-sorocaba_pk0031.01_parcel.html)
     *   [CO-ANT-Medellin/pk0002.01](https://addressforall.org/teste2/co-ant-medellin_pk0002.01_geoaddress.html)
     *   [CO-DC-Bogota/pk0001.01](https://addressforall.org/teste2/co-dc-bogota_pk0001.01_block.html)
-  html: |-
-    <h1>Visualización de los Datos</h1>
-     <p>Puedes explorar los datos, antes de descargarlos.</p>
 downloads:
   md: |-
     # Downloads
@@ -552,9 +547,6 @@ downloads:
        - OpenStreetMap Foundation
          - [_pk0001](http://git.digital-guard.org/preserv-VE/blob/main/data/_pk0001.01/make_conf.yaml)
            - [**Dados OpenStreetMap** (`28df02b`)](http://dl.digital-guard.org/28df02b8889548e0913d2337ee4f4cadb0e5798e377bbc95f753d4269440526c.pbf)
-  html: |-
-    <h1>Downloads</h1>
-     <p>Los datos puestos a disposición por el Instituto AddressForAll pueden descargarse por municipio (datos locales) o a nivel nacional.</p>
 apis:
   md: |-
     # APIs

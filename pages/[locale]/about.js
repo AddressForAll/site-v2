@@ -202,7 +202,7 @@ export default function About() {
               </h3>
             </div>
             <p>{t("projects.project02.excerpt")}</p>
-            <Link href="/#">
+            <Link href="https://github.com/OSMBrasil/CRP">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -212,7 +212,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project03.excerpt")}</p>
-            <Link href="/#">
+            <Link href="https://osm.codes/">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -222,7 +222,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project04.excerpt")}</p>
-            <Link href="/#">
+            <Link href="https://www.digital-guard.org/">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -252,7 +252,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project06.excerpt")}</p>
-            <Link href="/#">
+            <Link href="https://alertaspi.io">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
