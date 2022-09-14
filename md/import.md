@@ -1,13 +1,8 @@
----
-title: 'Loading Markdown from external file'
-date: '2022-09-14'
----
-
-## This is a Markdown file
+# This is a Markdown file
 
 Ad enim consectetur do duis sunt consequat sit id in exercitation. Velit cillum laboris officia magna. Nostrud ut exercitation voluptate cupidatat cillum.
 
-### Second level
+## Second level
 
 `Anim non sit eiusmod eiusmod reprehenderit tempor laboris ea sint occaecat eu tempor sint Lorem. Sit amet irure labore consectetur cupidatat commodo deserunt aliquip fugiat. Minim elit do ipsum ex pariatur culpa. Laboris exercitation consequat nostrud do labore eiusmod aliqua reprehenderit ea labore.`
 
