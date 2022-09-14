@@ -2,8 +2,11 @@ import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
-import markdown from "../../md/import.md";
-const md = markdown;
+import markdown from "../../content/import.md";
+import html from "../../content/import.html";
+
+const mdCont = markdown;
+const htmlCont = html;
 
 const converter = new Converter();
 
@@ -22,7 +25,14 @@ export default function APIs() {
         id="markdown_example"
         className="flex-container"
         dangerouslySetInnerHTML={{
-          __html: converter.makeHtml(md),
+          __html: converter.makeHtml(mdCont),
+        }}
+      ></section>
+      <section
+        id="html_example"
+        className="flex-container"
+        dangerouslySetInnerHTML={{
+          __html: converter.makeHtml(htmlCont),
         }}
       ></section>
     </>

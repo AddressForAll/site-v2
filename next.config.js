@@ -4,7 +4,7 @@ const nextConfig = {
   trailingSlash: true,
   webpack: (config) => {
     config.module.rules.push({
-      test: /\.md$/,
+      test: [/\.md$/,/\.html$/],
       use: "raw-loader",
     });
     return config;
