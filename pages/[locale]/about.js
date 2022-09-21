@@ -114,6 +114,11 @@ export default function About() {
             <div className="tooltip">Servers</div>
           </li>
           <li>
+            <img alt="Claiton Neisse" src="/img/staff-photos/cneisse.png" />
+            <p>Claiton Neisse</p>
+            <div className="tooltip">SW Development</div>
+          </li>
+          <li>
             <img alt="Junior Manoel" src="/img/staff-photos/junior.png" />
             <p>Junior Manoel</p>
             <div className="tooltip">CRM Brazil</div>
@@ -212,7 +217,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project03.excerpt")}</p>
-            <Link href="https://osm.codes/">
+            <Link href="https://git.osm.codes/">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>
@@ -222,7 +227,7 @@ export default function About() {
             </div>
 
             <p>{t("projects.project04.excerpt")}</p>
-            <Link href="https://www.digital-guard.org/">
+            <Link href="https://git.digital-guard.org/">
               <a className="btn btn-blue">{t("menu.knowmore")}</a>
             </Link>
           </li>

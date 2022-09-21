@@ -13,7 +13,7 @@ const converter = new Converter();
 export default function APIs() {
   const { t } = useTranslation("common");
   return (
-    <>
+//     <>
       <section
         id="apis"
         className="flex-container"
@@ -21,21 +21,21 @@ export default function APIs() {
           __html: converter.makeHtml(t("apis.md")),
         }}
       ></section>
-      <section
-        id="markdown_example"
-        className="flex-container"
-        dangerouslySetInnerHTML={{
-          __html: converter.makeHtml(mdCont),
-        }}
-      ></section>
-      <section
-        id="html_example"
-        className="flex-container"
-        dangerouslySetInnerHTML={{
-          __html: converter.makeHtml(htmlCont),
-        }}
-      ></section>
-    </>
+//       <section
+//         id="markdown_example"
+//         className="flex-container"
+//         dangerouslySetInnerHTML={{
+//           __html: converter.makeHtml(mdCont),
+//         }}
+//       ></section>
+//       <section
+//         id="html_example"
+//         className="flex-container"
+//         dangerouslySetInnerHTML={{
+//           __html: converter.makeHtml(htmlCont),
+//         }}
+//       ></section>
+//     </>
   );
 }
 
