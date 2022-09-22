@@ -16,16 +16,21 @@ export default function Data() {
             __html: converter.makeHtml(t("data.text")),
           }}
         />
-        <p>{t("data.phases.text")}</p>
+        <p className="wide">{t("data.phases.text")}</p>
 
-        <img alt="data flow" src=      {(() => {
-        switch (i18n.language) {
-          case 'en':
-            return '/img/diagrams/i001_en-diaDataflow-main.png'
-          default:
-            return '/img/diagrams/i001_lt-diaDataflow-main.png'
-        }
-      })()} />
+        <div className="flex-img">
+          <img
+            alt="data flow"
+            src={(() => {
+              switch (i18n.language) {
+                case "en":
+                  return "/img/diagrams/i001_en-diaDataflow-main.png";
+                default:
+                  return "/img/diagrams/i001_lt-diaDataflow-main.png";
+              }
+            })()}
+          />
+        </div>
 
         <ul className="flex-list">
           <li className="card">

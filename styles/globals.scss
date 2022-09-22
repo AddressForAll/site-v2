@@ -970,3 +970,17 @@ button {
 		}
 	}
 }
+
+.flex-img {
+	display: flex;
+	clear: both;
+	margin: auto;
+	img {
+		display: flex;
+		max-width: 100%;
+	}
+}
+
+.wide {
+	width: 100%;
+}
