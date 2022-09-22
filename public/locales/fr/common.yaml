@@ -3,9 +3,9 @@ title: Institut AddressForAll
 menu:
   home: Accueil
   whoweare: Qui sommes-nous?
-  projects: Projets 
+  projects: Projets
   statute: Statuts
-  partners: Partenaires 
+  partners: Partenaires
   data: Données
   downloads: Downloads
   visualization: Visualisation
@@ -15,7 +15,7 @@ menu:
   api: API
   faq: FAQ
   contribute: Contribuer
-  ourservices: Nos services 
+  ourservices: Nos services
   blog: Blog
   knowmore: Savoir plus
   opendataportal: Portail de données ouvertes
@@ -28,155 +28,152 @@ home:
     video: https://www.youtube.com/embed/WglOrCDKjeo
   regionalmap:
     message:
-      Les régions où nous opérons, en recherchant des adresses dans le domaine public, 
-      avec des équipes bénévoles et <span class="underlined">rémunérées</span> 
+      Les régions où nous opérons, en recherchant des adresses dans le domaine public,
+      avec des équipes bénévoles et <span class="underlined">rémunérées</span>
     remark: rémunérées
   aboutus:
     message:
-      L'Institut AddressForAll est une ONG à but non lucratif qui maintient une base 
-      d'adresses ouverte, collaborative et gratuite. Nous rémunérons les équipes qui 
+      L'Institut AddressForAll est une ONG à but non lucratif qui maintient une base
+      d'adresses ouverte, collaborative et gratuite. Nous rémunérons les équipes qui
       effectuent un travail proactif de recherche de données dans les pays où nous opérons.
   downloads:
     message:
-      Nos données peuvent être téléchargées, avec des informations sur le type de 
+      Nos données peuvent être téléchargées, avec des informations sur le type de
       licence ouverte pour chaque donnée (CC0, CC-BY ou CC-BY-SA, ou equivalente).
 about:
   whoweare:
     title: Qui sommes-nous?
     text:
-      L'Institut pour les technologies géo-sociales AddressForAll a pour objectif de 
+      L'Institut pour les technologies géo-sociales AddressForAll a pour objectif de
       plaider en faveur de l'ouverture des données et de l'amélioration de la société
-      par le bon usage de la technologie, en mettant l'accent sur les technologies géo-spatiales. 
+      par le bon usage de la technologie, en mettant l'accent sur les technologies géo-spatiales.
   historic:
     title: Historique
     text:
-      Dans le cadre de leur travail de soutien au projet de carte collaborative OpenStreetMap 
-      pendant 3 ans, les fondateurs de l'Institut ont essayé de motiver le gouvernement brésilien 
-      à créer une base de données d'adresses ouverte et collaborative au Brésil. Constatant que 
-      le projet n'a pas évolué par manque de volonté ou de force politique, Thierry Jean, Filipe 
-      Rocha et Peter Krauss ont décidé de lancer le projet "AddressForAll" en 2020 et ont créé une 
-      association à but non lucratif appelée "Institut de Technologies Geo-Sociales AddressForAll". 
+      Dans le cadre de leur travail de soutien au projet de carte collaborative OpenStreetMap
+      pendant 3 ans, les fondateurs de l'Institut ont essayé de motiver le gouvernement brésilien
+      à créer une base de données d'adresses ouverte et collaborative au Brésil. Constatant que
+      le projet n'a pas évolué par manque de volonté ou de force politique, Thierry Jean, Filipe
+      Rocha et Peter Krauss ont décidé de lancer le projet "AddressForAll" en 2020 et ont créé une
+      association à but non lucratif appelée "Institut de Technologies Geo-Sociales AddressForAll".
   founders:
     title: Fondateurs
   consultants:
-    title: Conseil Consultatif 
+    title: Conseil Consultatif
   itcrowd:
-    title: Équipe technico-opérationnelle 
+    title: Équipe technico-opérationnelle
   statutes:
     message:
-      Le lien ci-dessous vous permet de consulter une version abrégée de nos statuts, ainsi 
+      Le lien ci-dessous vous permet de consulter une version abrégée de nos statuts, ainsi
       que d'accéder aux différentes versions de nos statuts dans leur intégralité.
 statutes:
   md: |-
     #Eatatuto
     <table width='100%'><tr><td><img src='/_private/estatuto-assets/image5.png' style='width:5em;'></td><td>O <b>Instituto de Tecnologias Geo-Sociais AddressForAll</b> é uma Associação brasileira sem fins lucrativos, com sede em São Paulo/SP.<br>O Instituto poderá atuar em parceria com governo, empresas e outras instituições, inclusive internacionais.</td><td><img src='/_private/estatuto-assets/image1.png' style='width:120px'></td></table>
 projects:
-  title: Nos Projets 
-  text: Le projet AddressForAll est l'un des projets gérés par l'Institut. 
+  title: Nos Projets
+  text: Le projet AddressForAll est l'un des projets gérés par l'Institut.
   link: "/about/?lang=fr#projects"
   project01:
-    title: AddressForAll – Adresse pour tous 
+    title: AddressForAll – Adresse pour tous
     excerpt:
-      C'était le premier projet de l'institut. Le projet maintient une base 
+      C'était le premier projet de l'institut. Le projet maintient une base
       d'adresses collaborative ouverte.
-    text:
-      Le projet gère une base d'adresses collaborative et ouverte.<br/> 
-      Pour que les services d'urgence puissent se rendre au bon endroit, 
-      pour permettre une analyse cartographique en quelques clics ou encore 
-      pour que les opérateurs publics et privés puissent mieux coordonner leurs 
-      travaux, les adresses sont une véritable question de souveraineté pour tout pays. 
+    text: Le projet gère une base d'adresses collaborative et ouverte.<br/>
+      Pour que les services d'urgence puissent se rendre au bon endroit,
+      pour permettre une analyse cartographique en quelques clics ou encore
+      pour que les opérateurs publics et privés puissent mieux coordonner leurs
+      travaux, les adresses sont une véritable question de souveraineté pour tout pays.
   project02:
     title: CRP
-    excerpt: Le CEP (code postal brésilien) est-il privé ? Le CRP permet de contourner légalement cette incohérence. 
+    excerpt: Le CEP (code postal brésilien) est-il privé ? Le CRP permet de contourner légalement cette incohérence.
     text:
-      Le CEP (Code postal Brésilien) étant une donnée privée de la poste, les 
-      municipalités et les gouvernements ne peuvent pas produire une liste des 
-      PEC qui les intéressent. Le projet contourne cette incohérence en donnant à 
-      la société une liste de codes qui sont différents des codes postaux, mais qui 
-      peuvent avoir la même utilité. 
+      Le CEP (Code postal Brésilien) étant une donnée privée de la poste, les
+      municipalités et les gouvernements ne peuvent pas produire une liste des
+      PEC qui les intéressent. Le projet contourne cette incohérence en donnant à
+      la société une liste de codes qui sont différents des codes postaux, mais qui
+      peuvent avoir la même utilité.
   project03:
-    title: OSM Codes 
+    title: OSM Codes
     excerpt:
-      Les êtres humains ont du mal à mémoriser la latitude/longitude. Le géocode 
-      fournit un code court et facile à mémoriser pour désigner une zone de 4m x 4m. 
+      Les êtres humains ont du mal à mémoriser la latitude/longitude. Le géocode
+      fournit un code court et facile à mémoriser pour désigner une zone de 4m x 4m.
     text:
-      La latitude et la longitude sont des codes difficiles à manipuler et à mémoriser 
-      pour les humains. Cependant, localiser un endroit sur une carte est nécessaire 
-      pour tout le monde, notamment pour les endroits où il n'y a pas d'adresses de qualité, 
-      comme dans les bidonvilles, les déserts, les savanes etc... Les géocodes sont des codes 
-      plus faciles à retenir, notamment si nous développons des géocodes plus courts. 
-      Ce projet mène des recherches universitaires afin de développer la meilleure technologie de 
-      géocodage et de l'apporter aux gouvernements et à la société. Cette technologie doit 
-      prendre en compte et être harmonisée avec les grilles statistiques, car les études 
-      statistiques, chaque jour davantage, sont géospatiales. 
+      La latitude et la longitude sont des codes difficiles à manipuler et à mémoriser
+      pour les humains. Cependant, localiser un endroit sur une carte est nécessaire
+      pour tout le monde, notamment pour les endroits où il n'y a pas d'adresses de qualité,
+      comme dans les bidonvilles, les déserts, les savanes etc... Les géocodes sont des codes
+      plus faciles à retenir, notamment si nous développons des géocodes plus courts.
+      Ce projet mène des recherches universitaires afin de développer la meilleure technologie de
+      géocodage et de l'apporter aux gouvernements et à la société. Cette technologie doit
+      prendre en compte et être harmonisée avec les grilles statistiques, car les études
+      statistiques, chaque jour davantage, sont géospatiales.
   project04:
     title: Préservation Digitale
-    excerpt: Nous préservons, pendant des décennies, des données que les gouvernements perdent facilement. 
-    text: Nous préservons, pendant des décennies, des données que les gouvernements perdent facilement. 
+    excerpt: Nous préservons, pendant des décennies, des données que les gouvernements perdent facilement.
+    text: Nous préservons, pendant des décennies, des données que les gouvernements perdent facilement.
   project05:
     title: Gouvernement Géo Digital
     excerpt:
-      Sensibiliser les gouvernements à l'importance de la géographie dans les services 
-      numériques et les aider. 
+      Sensibiliser les gouvernements à l'importance de la géographie dans les services
+      numériques et les aider.
     text:
-      Les gouvernements sont conscients de l'importance de la numérisation de leurs services, 
-      mais la culture de la géolocalisation n'est pas encore très répandue. Tout le monde veut 
-      tout voir sur une carte, mais les responsables ne savent souvent pas par où commencer 
-      pour y parvenir. Le projet Gouvernement Géo Digital vise à sensibiliser les gouvernements 
-      à l'importance de la géographie dans les services publics et à leur indiquer des moyens 
-      concrets de la mettre en œuvre et d'en tirer profit. 
+      Les gouvernements sont conscients de l'importance de la numérisation de leurs services,
+      mais la culture de la géolocalisation n'est pas encore très répandue. Tout le monde veut
+      tout voir sur une carte, mais les responsables ne savent souvent pas par où commencer
+      pour y parvenir. Le projet Gouvernement Géo Digital vise à sensibiliser les gouvernements
+      à l'importance de la géographie dans les services publics et à leur indiquer des moyens
+      concrets de la mettre en œuvre et d'en tirer profit.
   project06:
     title: Alerte Jeune enfance
-    excerpt:
-      Le projet développe une plateforme technologique permettant d'alerter les municipalités 
-      lorsque des enfants en bas âge se trouvent dans une situation vulnérable. 
+    excerpt: Le projet développe une plateforme technologique permettant d'alerter les municipalités lorsque des enfants en bas âge se trouvent dans une situation vulnérable.
     text:
-      Le projet développe une plateforme technologique permettant d'alerter les municipalités 
-      lorsque des enfants en bas âge se trouvent dans une situation vulnérable. 
+      Le projet développe une plateforme technologique permettant d'alerter les municipalités
+      lorsque des enfants en bas âge se trouvent dans une situation vulnérable.
 partners:
   md: |-
     # Partenaires
 data:
   title: Données
   text:
-    Nous avons une équipe qui appelle les détenteurs de données et les incite à faire don de 
-    leurs données au projet AddressForAll, avec des licences ouvertes. Nous recommandons toujours 
-    de publier les données dans le domaine public et d'utiliser la <strong>licence CC0</strong>, mais nous acceptons 
-    également les données avec une licence CC0, CC-BY et CC-BY-SA. 
+    Nous avons une équipe qui appelle les détenteurs de données et les incite à faire don de
+    leurs données au projet AddressForAll, avec des licences ouvertes. Nous recommandons toujours
+    de publier les données dans le domaine public et d'utiliser la <strong>licence CC0</strong>, mais nous acceptons
+    également les données avec une licence CC0, CC-BY et CC-BY-SA.
   phases:
     text: "Nos données sont disponibles sur 3 phases de traitement:"
     phase01:
-      title: Données préservées 
+      title: Données préservées
       text:
-        "Les données et les licences du <strong>projet Digital-Guard</strong> sont strictement contrôlées 
-        et conservées comme les originaux reçus des donateurs. Il s'agit des “données brutes”, 
-        sans normalisation et dans de nombreux formats différents (CSV, Shapefile, Geojason, etc.).  
-        Elles sont <strong>conservées pendant 20 ans</strong>, et pendant cette période, elles peuvent être téléchargées, 
-        telles que nous les avons reçues." 
+        "Les données et les licences du <strong>projet Digital-Guard</strong> sont strictement contrôlées
+        et conservées comme les originaux reçus des donateurs. Il s'agit des “données brutes”,
+        sans normalisation et dans de nombreux formats différents (CSV, Shapefile, Geojason, etc.).
+        Elles sont <strong>conservées pendant 20 ans</strong>, et pendant cette période, elles peuvent être téléchargées,
+        telles que nous les avons reçues."
     phase02:
-      title: Données filtrées 
+      title: Données filtrées
       text:
-        "<p>Parce qu'elles sont d'origines diverses, les données conservées doivent être filtrées et standardisées. 
-        Le projet AddressForAll fait une <strong>coupure en se concentrant sur les adresses</strong>. La structure 
+        "<p>Parce qu'elles sont d'origines diverses, les données conservées doivent être filtrées et standardisées.
+        Le projet AddressForAll fait une <strong>coupure en se concentrant sur les adresses</strong>. La structure
         de découpage est normalisée et publiée au format GeoJSON, via PostgreSQL dans des dépôts git. </p>
-         <p>L'ensemble du <strong>processus de filtrage et de publication est ouvert et reproductible</strong>, 
-         n'importe qui peut le vérifier. Les résultats <strong>ne sont pas validés</strong>, et la même adresse peut 
-         être décrite et répétée par différentes sources, telles que la municipalité, la compagnie des eaux et une 
-         société de logistique.</p>"
+        <p>L'ensemble du <strong>processus de filtrage et de publication est ouvert et reproductible</strong>,
+        n'importe qui peut le vérifier. Les résultats <strong>ne sont pas validés</strong>, et la même adresse peut
+        être décrite et répétée par différentes sources, telles que la municipalité, la compagnie des eaux et une
+        société de logistique.</p>"
     phase03:
-      title: Données consolidées 
+      title: Données consolidées
       text:
-        "<p>La consolidation consiste à agréger statistiquement les informations provenant de plusieurs sources sur une même 
-        adresse et son voisinage, et à appliquer des algorithmes de <strong>validation</strong>. Au cours de ce processus, 
+        "<p>La consolidation consiste à agréger statistiquement les informations provenant de plusieurs sources sur une même
+        adresse et son voisinage, et à appliquer des algorithmes de <strong>validation</strong>. Au cours de ce processus,
         les adresses reconnues comme des doublons sont réduites à une seule adresse, et les adresses invalides sont éliminées. </p>
-         <p>Nous obtenons à la fois le <strong><i>score</i> de fiabilité</strong> des données d'origine et la <strong>position la plus probable</strong> du point d'adresse. 
-         Les noms de rue bénéficient d'une normalisation terminologique et la numérotation des bâtiments peut être optimisée par le 
-         biais de la moyenne, du repositionnement ou de l'interpolation. Cette base est celle utilisée pour nos API de recherche et 
-         de géocodage <strong>(en construction)</strong>.</p>"
+        <p>Nous obtenons à la fois le <strong><i>score</i> de fiabilité</strong> des données d'origine et la <strong>position la plus probable</strong> du point d'adresse.
+        Les noms de rue bénéficient d'une normalisation terminologique et la numérotation des bâtiments peut être optimisée par le
+        biais de la moyenne, du repositionnement ou de l'interpolation. Cette base est celle utilisée pour nos API de recherche et
+        de géocodage <strong>(en construction)</strong>.</p>"
 documentation:
   md: |-
     # Documentation
-     Les données mises à disposition par l'institut AddressForAll peuvent être analysées dans nos API ou téléchargées, par parties (données locales d'une municipalité, par exemple) et par phase de leur cycle de traitement. Vous trouverez ci-dessous une brève description des ensembles de données résultant de chacune de ces phases. Pour les détails techniques, veuillez consulter la [documentation](https://git.addressforall.org). 
+     Les données mises à disposition par l'institut AddressForAll peuvent être analysées dans nos API ou téléchargées, par parties (données locales d'une municipalité, par exemple) et par phase de leur cycle de traitement. Vous trouverez ci-dessous une brève description des ensembles de données résultant de chacune de ces phases. Pour les détails techniques, veuillez consulter la [documentation](https://git.addressforall.org).
 visualization:
   md: |-
     # Visualisation des données
@@ -201,7 +198,7 @@ services:
      Nous pouvons réaliser des campagnes spécifiques dans des régions ou des pays, à la demande d'un sponsor, mais le résultat du travail est ouvert à tous. Si votre entreprise exploite les données de l'Institut AddressForAll, veuillez nous contacter pour contribuer financièrement à cet effort afin que le projet puisse se développer. 
      <h2>Services pour les gouvernements:</h2>
      Parfois, les gouvernements souhaitent orchestrer un projet de base de données d'adresses ouverte sur leur territoire, mais ne disposent pas du budget, de la structure organisationnelle ou de l'expertise nécessaires pour le faire. Ces gouvernements peuvent passer un contrat avec l'institut AddressForAll pour organiser et exploiter le projet dans leur pays. 
-     Le développement du projet peut conduire à la proposition de nouvelles lois améliorant la gestion des adresses, comme nous l'avons vu en France ou en Uruguay, par exemple. 
+     Le développement du projet peut conduire à la proposition de nouvelles lois améliorant la gestion des adresses, comme nous l'avons vu en France ou en Uruguay, par exemple.
 contribute:
   md: |-
     # Contribuer
@@ -209,46 +206,37 @@ contribute:
      Les données fournies ne doivent pas nécessairement être des adresses. Lorsque nous recevrons des orthophotos ou des fichiers cartographiques complets, nous essaierons de mettre ces données à la disposition de la communauté OpenStreetMap afin de faciliter son travail de cartographie du monde. 
      Si vous souhaitez devenir un ambassadeur du projet AddressForAll dans votre région ou votre secteur d'activité, vous pouvez faire beaucoup pour nous aider à construire une excellente base d'adresses ouverte. 
      <h2>Ou</h2>
-     Si vous souhaitez partager vos impressions et vos conseils afin que nous puissions nous améliorer constamment, n'hésitez pas à nous contacter. Toutes les contributions sont les bienvenues. 
+     Si vous souhaitez partager vos impressions et vos conseils afin que nous puissions nous améliorer constamment, n'hésitez pas à nous contacter. Toutes les contributions sont les bienvenues.
 faq:
-  title: Questions fréquentes FAQ 
+  title: Questions fréquentes FAQ
   dados:
     title: Données
     q01:
-      q:
-        j'ai envoyé une base de données géographique de ma commune. Puis-je voir ces données dans AddressForAll? 
+      q: j'ai envoyé une base de données géographique de ma commune. Puis-je voir ces données dans AddressForAll?
       a:
         text: "Oui. Les données reçues sont disponibles de 3 façons:"
-        pt01:
-          Données préservées. Chaque paquet est conservé pendant 20 ans, nous gardons les données telles qu’elles ont été reçues et les mettons à disposition par téléchargement ; 
-        pt02:
-          Des données filtrées, mises à disposition de manière quasi brute, sous forme de cartes, de statistiques ou de téléchargements. Ces données subissent un traitement préliminaire (seule la structure des données d'origine est traitée);
-        pt03:
-          Données consolidées, avec un contenu éventuellement modifié, mises à disposition dans des services, des API et des téléchargements. Elles ne seront plus "vos données", car leur contribution pourra être écartée, ou elles pourront être mélangées sous forme de moyenne avec d'autres données.  
-        subtext:
-          Il existe plusieurs types de modification ; voyons quelques exemples. L'institut peut décider de consolider les noms de rue, par exemple en remplaçant toutes les abréviations “Av.” par “Avenue”. Si les points d'adresse sont positionnés au milieu de la parcelle, l'Institut repositionnera le point à l'avant de la parcelle, près de la rue.  
+        pt01: Données préservées. Chaque paquet est conservé pendant 20 ans, nous gardons les données telles qu’elles ont été reçues et les mettons à disposition par téléchargement ;
+        pt02: Des données filtrées, mises à disposition de manière quasi brute, sous forme de cartes, de statistiques ou de téléchargements. Ces données subissent un traitement préliminaire (seule la structure des données d'origine est traitée);
+        pt03: Données consolidées, avec un contenu éventuellement modifié, mises à disposition dans des services, des API et des téléchargements. Elles ne seront plus "vos données", car leur contribution pourra être écartée, ou elles pourront être mélangées sous forme de moyenne avec d'autres données.
+        subtext: Il existe plusieurs types de modification ; voyons quelques exemples. L'institut peut décider de consolider les noms de rue, par exemple en remplaçant toutes les abréviations “Av.” par “Avenue”. Si les points d'adresse sont positionnés au milieu de la parcelle, l'Institut repositionnera le point à l'avant de la parcelle, près de la rue.
     q02:
-      q: Puis-je voir la licence des données? 
+      q: Puis-je voir la licence des données?
       a:
         text:
-          "<p>Oui. Pour chaque type de données (conservées, filtrées et consolidées), il peut y avoir une licence différente. 
-          Les données originales et filtrées reçoivent la licence des données originales du donneur. Les données consolidées 
-          reçoivent une licence selon les originaux traçables, et en cas de données égales avec des licences différentes, 
-          c'est la plus ouverte (la moins restrictive) qui est adoptée, variant sur le spectre des “familles de licences” de 
+          "<p>Oui. Pour chaque type de données (conservées, filtrées et consolidées), il peut y avoir une licence différente.
+          Les données originales et filtrées reçoivent la licence des données originales du donneur. Les données consolidées
+          reçoivent une licence selon les originaux traçables, et en cas de données égales avec des licences différentes,
+          c'est la plus ouverte (la moins restrictive) qui est adoptée, variant sur le spectre des “familles de licences” de
           CC0 à CC-BY-NC-SA, mais avec la majorité en CC0.</p>
-          <p>Lorsque les données originales proviennent d'un organisme public, même s'il ne dispose pas d'une licence, celle prévue par la 
+          <p>Lorsque les données originales proviennent d'un organisme public, même s'il ne dispose pas d'une licence, celle prévue par la
           législation du pays (ou de la juridiction plus spécifique) est implicite.</p>
-          <p>Par exemple, au Brésil, nous appliquons la règle suivante:</p>" 
+          <p>Par exemple, au Brésil, nous appliquons la règle suivante:</p>"
         pt01: "Données des organes fédéraux : sont toujours CC0."
-        pt02:
-          "Données provenant d'organes municipaux ou étatiques : sont en général implicitement ouvertes comme les données fédérales, mais peuvent dépendre d'une législation spécifique."
-        subtext:
-          Les données consolidées, pour avoir une valeur ajoutée par l'Institut, reçoivent la licence de choix de l'Institut, qui est CC0 dans la mesure du possible. 
+        pt02: "Données provenant d'organes municipaux ou étatiques : sont en général implicitement ouvertes comme les données fédérales, mais peuvent dépendre d'une législation spécifique."
+        subtext: Les données consolidées, pour avoir une valeur ajoutée par l'Institut, reçoivent la licence de choix de l'Institut, qui est CC0 dans la mesure du possible.
     q03:
       q: Puis-je télécharger les données et les combiner avec ma base de données interne?
-      a:
-        "<p>Oui et non. AddresForAll cherche à travailler avec des données ouvertes, et deux licences sont disponibles. La première, CC0, vous permet de “tout” faire. Vous pouvez télécharger les données, les mélanger avec des données privées et déclarer le nouvel ensemble privé.</p>
-         <p>La licence CC-BY-SA, similaire à l'ODbL, utilisée par exemple par OpenStreetMap, n'est pas aussi permissive, et peut "contaminer" la base recevant les données. La base de données résultant de la combinaison des deux données ne peut plus être "privée" ou redistribuée sous la licence CC0, mais uniquement sous la licence CC-BY-SA. Cela peut être inapproprié pour les organismes gouvernementaux qui s'engagent à publier leurs données dans le domaine public. </p>"
+      a: <p>Oui et non. AddresForAll cherche à travailler avec des données ouvertes, et deux licences sont disponibles. La première, CC0, vous permet de “tout” faire. Vous pouvez télécharger les données, les mélanger avec des données privées et déclarer le nouvel ensemble privé.</p> <p>La licence CC-BY-SA, similaire à l'ODbL, utilisée par exemple par OpenStreetMap, n'est pas aussi permissive, et peut "contaminer" la base recevant les données. La base de données résultant de la combinaison des deux données ne peut plus être "privée" ou redistribuée sous la licence CC0, mais uniquement sous la licence CC-BY-SA. Cela peut être inapproprié pour les organismes gouvernementaux qui s'engagent à publier leurs données dans le domaine public. </p>
     q04:
       q: Puis-je envoyer des données?
       a: Oui, contactez-nous.
