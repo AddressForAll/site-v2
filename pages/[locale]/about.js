@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import Link from "../../components/Link";
+import Layout from "../../components/layout";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
@@ -9,7 +10,7 @@ const converter = new Converter();
 export default function About() {
   const { t } = useTranslation("common");
   return (
-    <>
+    <Layout>
       <section id="whoweare" className="lead-text">
         <h1>{t("about.whoweare.title")}</h1>
         <p>{t("about.whoweare.text")}</p>
@@ -263,7 +264,7 @@ export default function About() {
           </li>
         </ul>
       </section>
-    </>
+    </Layout>
   );
 }
 

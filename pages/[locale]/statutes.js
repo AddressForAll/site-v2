@@ -2,6 +2,7 @@
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
+import Layout from "../../components/layout";
 
 import html from "../../content/pt_estatutoResumo.html";
 
@@ -12,7 +13,7 @@ const converter = new Converter();
 export default function Statutes() {
   const { t } = useTranslation("common");
   return (
-    <>
+    <Layout>
       <section
         id="statutes"
         className="flex-container"
@@ -20,7 +21,7 @@ export default function Statutes() {
           __html: converter.makeHtml(htmlCont),
         }}
       ></section>
-    </>
+    </Layout>
   );
 }
 

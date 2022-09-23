@@ -1,13 +1,14 @@
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
+import Layout from "../../components/layout";
 
 const converter = new Converter();
 
 export default function FAQ() {
   const { t } = useTranslation("common");
   return (
-    <>
+    <Layout>
       <section id="faq" className="flex-container">
         <h1>{t("faq.title")}</h1>
         <h2>{t("faq.dados.title")}</h2>
@@ -65,7 +66,7 @@ export default function FAQ() {
           </li>
         </ol>
       </section>
-    </>
+    </Layout>
   );
 }
 

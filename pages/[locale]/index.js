@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import Link from "../../components/Link";
+import Layout from "../../components/layout"
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
 
@@ -9,7 +10,7 @@ const converter = new Converter();
 export default function Home() {
   const { t } = useTranslation("common");
   return (
-    <>
+    <Layout>
       <section id="advertisment">
         <div
           className="message"
@@ -50,7 +51,7 @@ export default function Home() {
           </Link>
         </div>
       </section>
-    </>
+    </Layout>
   );
 }
 

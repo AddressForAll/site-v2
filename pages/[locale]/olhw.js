@@ -1,6 +1,6 @@
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
-
 import React, { useState, useEffect, useRef } from "react";
+import MapLayout from "../../components/maplayout";
 
 import Map from "ol/Map";
 import View from "ol/View";
@@ -33,12 +33,14 @@ export default function OpenLayersHelloWorld() {
   }, []);
 
   return (
-    <div
-      id="map"
-      style={{ height: "100vh", width: "100%" }}
-      ref={mapElement}
-      className="map-container"
-    />
+    <MapLayout>
+      <div
+        id="map"
+        style={{ height: "100vh", width: "100%" }}
+        ref={mapElement}
+        className="map-container"
+      />
+    </MapLayout>
   );
 }
 

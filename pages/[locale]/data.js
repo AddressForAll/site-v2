@@ -2,13 +2,14 @@
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
+import Layout from "../../components/layout";
 
 const converter = new Converter();
 
 export default function Data() {
   const { t, i18n } = useTranslation("common");
   return (
-    <>
+    <Layout>
       <section id="data" className="flex-container">
         <h1>{t("data.title")}</h1>
         <div
@@ -59,7 +60,7 @@ export default function Data() {
           </li>
         </ul>
       </section>
-    </>
+    </Layout>
   );
 }
 

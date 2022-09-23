@@ -1,19 +1,22 @@
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import { useTranslation } from "next-i18next";
 import { Converter } from "showdown";
+import Layout from "../../components/layout";
 
 const converter = new Converter();
 
 export default function Services() {
   const { t } = useTranslation("common");
   return (
-    <section
-      id="services"
-      className="flex-container"
-      dangerouslySetInnerHTML={{
-        __html: converter.makeHtml(t("services.md")),
-      }}
-    ></section>
+    <Layout>
+      <section
+        id="services"
+        className="flex-container"
+        dangerouslySetInnerHTML={{
+          __html: converter.makeHtml(t("services.md")),
+        }}
+      ></section>
+    </Layout>
   );
 }
 
