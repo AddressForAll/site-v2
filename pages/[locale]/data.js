@@ -20,17 +20,7 @@ export default function Data() {
         <p className="wide">{t("data.phases.text")}</p>
 
         <div className="flex-img">
-          <img
-            alt="data flow"
-            src={(() => {
-              switch (i18n.language) {
-                case "en":
-                  return "/img/diagrams/i001_en-diaDataflow-main.png";
-                default:
-                  return "/img/diagrams/i001_lt-diaDataflow-main.png";
-              }
-            })()}
-          />
+          <img alt="data flow" src={`/img/diagrams/i001_${i18n.language}-diaDataflow-main.png`} />
         </div>
 
         <ul className="flex-list">
