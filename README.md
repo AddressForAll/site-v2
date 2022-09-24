@@ -11,6 +11,15 @@ First clone **this** repo and install the node modules
 ```bash
 git clone https://github.com/AddressForAll/site-v2.git
 cd site-v2/
+```
+
+Install using Linux makefile, that show your options first:
+```bash
+make
+```
+
+Install direct:
+```bash
 npm install
 ```
 
