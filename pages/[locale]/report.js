@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { getStaticPaths, makeStaticProps } from "../../lib/getStatic";
 import Layout from "../../components/layout";
 
