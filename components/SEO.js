@@ -12,6 +12,7 @@ export default function SEO() {
           name="description"
           content={t("home.aboutus.message")}
         />
+        <link rel="shortcut icon" href="/img/favicon.png" />
       </Head>
     </>
   );
