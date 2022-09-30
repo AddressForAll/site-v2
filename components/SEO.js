@@ -6,8 +6,12 @@ export default function SEO() {
   return (
     <>
       <Head>
-        <title key="title">{t("title")}</title>
-        <meta key="description" name="description" content={t("home.aboutus.message")} />
+        <title key="title">A4A - AddressForAll</title>
+        <meta
+          key="description"
+          name="description"
+          content={t("home.aboutus.message")}
+        />
       </Head>
     </>
   );
