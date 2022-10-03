@@ -3,7 +3,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 See more details at documentation, `/_docs`.
 
-
 ## How to install
 
 First clone **this** repo and install the node modules
@@ -14,11 +13,13 @@ cd site-v2/
 ```
 
 Install using Linux makefile, that show your options first:
+
 ```bash
 make
 ```
 
 Install direct:
+
 ```bash
 npm install
 ```
@@ -54,6 +55,12 @@ npm run serve
 and open your browser at <http://localhost:8080>
 
 You can now deploy the `out/` folder to any static webserver.
+
+To remove the **hydration** data `regex: <script id="__NEXT_DATA__((.|n)*)script>` from all pages of the static website run the following command after the build has finished:
+
+```bash
+find out -name '*.html' | xargs perl -0777 -pi -e 's/<script id="__NEXT_DATA__.*?script>//sg;'
+```
 
 ## Notes
 
