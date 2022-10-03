@@ -56,7 +56,7 @@ and open your browser at <http://localhost:8080>
 
 You can now deploy the `out/` folder to any static webserver.
 
-To remove the **hydration** data `regex: <script id="__NEXT_DATA__((.|n)*)script>` from all pages of the static website run the following command after the build has finished:
+To remove the **rehydration** data `regex: <script id="__NEXT_DATA__((.|n)*)script>` from all pages of the static website run the following command after the build has finished:
 
 ```bash
 find out -name '*.html' | xargs perl -0777 -pi -e 's/<script id="__NEXT_DATA__.*?script>//sg;'
