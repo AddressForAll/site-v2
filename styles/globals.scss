@@ -939,6 +939,7 @@ button:not(:disabled) {
 [type="submit"],
 button {
 	-webkit-appearance: button;
+	appearance: button;
 }
 
 #map {
