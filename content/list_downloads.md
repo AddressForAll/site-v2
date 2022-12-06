@@ -308,6 +308,7 @@
      - [_pk0006](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02/make_conf.yaml)
        - [**Grade** (`d381719`)](http://dl.digital-guard.org/d3817192260c4a6d34be44a72c5eb06c9c9b5a6f5abf3ee56af86671d7602bb7.rar)
        - [**Geoaddress** (`aaa8c90`)](http://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip)
+       - Filtrados: [csv](http://dl.digital-guard.org/32e3083b25c7a0403b764f040335a1452415bb03e837640fc117bde3ed8ca59d.zip), [shapefile](http://dl.digital-guard.org/aefc1387a61d4f50924a504b9b912e8b33f1cedca1870a11b690b0448e474bc7.zip)
    - Instituto Geográfico Agustín Codazzi
      - [_pk0003](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0003.01/make_conf.yaml)
        - [**Nomenclatura Vial urbano e rural** (`6f35dbf`)](http://dl.digital-guard.org/6f35dbfe7ad230f1f6f2209f5d50901c05965d7b97a9c3dafada4a9af012c335.zip)
