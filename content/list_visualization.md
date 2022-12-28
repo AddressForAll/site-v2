@@ -1,4 +1,3 @@
-*   [BR/pk0004.01](https://addressforall.org/teste2/br_pk0004.01_geoaddress.html)
 *   [BR-AC-RioBranco/pk0042.01](https://addressforall.org/teste2/br-ac-riobranco_pk0042.01_block.html)
 *   [BR-AM-Manaus/pk0071.01](https://addressforall.org/teste2/br-am-manaus_pk0071.01_block.html)
 *   [BR-ES-CachoeiroItapemirim/pk0091.01](https://addressforall.org/teste2/br-es-cachoeiroitapemirim_pk0091.01_block.html)
