@@ -1,369 +1,575 @@
 * Argentina (AR)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-AR/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`46329bb`)](http://dl.digital-guard.org/46329bbdca69ece2efb6be39f840d8c87f6b6472f93257aad87588598787ba95.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-AR/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`46329bb`)](http://dl.digital-guard.org/46329bbdca69ece2efb6be39f840d8c87f6b6472f93257aad87588598787ba95.pbf)
 * Bolivia (BO)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-BO/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`59c6811`)](http://dl.digital-guard.org/59c6811f82c0ed8acdd3da4d7223f4bddfd7a2018bbd83628eaa1ec8582bc3e7.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-BO/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`59c6811`)](http://dl.digital-guard.org/59c6811f82c0ed8acdd3da4d7223f4bddfd7a2018bbd83628eaa1ec8582bc3e7.pbf)
 * Brazil (BR)
-   - OpenStreetMap Foundation
-     - [_pk0004](http://git.digital-guard.org/preserv-BR/blob/main/data/_pk0004.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`befb1a2`)](http://dl.digital-guard.org/befb1a28910b56920b7c10b7ae1a25d5d32f1b13931463076adebc4ab33db114.pbf)
-   - BR-AC-RioBranco
-     - Prefeitura Municipal de Rio Branco
-       - [_pk0042](http://git.digital-guard.org/preserv-BR/blob/main/data/AC/RioBranco/_pk0042.01/make_conf.yaml)
-         - [**Eixos** (`29d68e5`)](http://dl.digital-guard.org/29d68e5ce006079b06b710cc2df3aa08d6cb6934f32bc0b29fc46d3e8272ff77.rar)
-         - [**Lotes** (`d96f472`)](http://dl.digital-guard.org/d96f47270e22336cf4660f742ae4dba5694f15c6833363167c91d9fc9929871b.zip)
-         - [**Bairros** (`73d02ba`)](http://dl.digital-guard.org/73d02ba0ae4b0a994a629f7d06f0a027259f5c1d97e53f9b771fecd345c2a02b.zip)
-   - BR-AM-Manaus
-     - Prefeitura Municipal de Manaus
-       - [_pk0071](http://git.digital-guard.org/preserv-BR/blob/main/data/AM/Manaus/_pk0071.02/make_conf.yaml)
-         - [**Bairros, bibliotecas, centros culturais, edificações, logradouros, lotes, município, museus, numeração, praças parques, quadras e teatros** (`4134127`)](http://dl.digital-guard.org/4134127ab8fe9d96a17d1cfb833437de98a0186e7121db4994ae4763ab4d542a.rar)
-         - [**Lotes** (`92954f4`)](http://dl.digital-guard.org/92954f43c27c205f677dd707019bd34d7d47280e74d1eede9def964528671839.rar)
-   - BR-CE-Fortaleza
-     - Prefeitura Municipal de Fortaleza
-       - [_pk0097](http://git.digital-guard.org/preserv-BR/blob/main/data/CE/Fortaleza/_pk0097.01/make_conf.yaml)
-         - [**Edificações** (`8a07c88`)](http://dl.digital-guard.org/8a07c88d17167f65182a6c1a86fb89842d2e0bfe4ca5f7fc2dba4d41d9f682f9.zip)
-         - [**Bairros** (`4c97d93`)](http://dl.digital-guard.org/4c97d93a39cce2190b436b1adf1d56321627fef452dbbf18ede812731e2a035b.zip)
-         - [**Quadras** (`82edaae`)](http://dl.digital-guard.org/82edaae1d8a79f5167d88cb89a09a21f7e2f89bae88d16d39ebbe971a28976d5.zip)
-         - [**Logradouros** (`86c7283`)](http://dl.digital-guard.org/86c7283d4dc0351e397e72934f96141f55b92dc09112462cad3769649c0f8fec.zip)
-         - [**Lotes** (`d6bfda4`)](http://dl.digital-guard.org/d6bfda4f6ec70796d753b570ff04afc040ba6a2c438f116b301a977db3788b5e.zip)
-   - BR-ES-CachoeiroItapemirim
-     - Municipio De Cachoeiro De Itapemirim
-       - [_pk0091](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/CachoeiroItapemirim/_pk0091.01/make_conf.yaml)
-         - [**Quadras** (`8d0400b`)](http://dl.digital-guard.org/8d0400b02d594228c5a43df5e5bcdbbb620bce1175fac22fb2f196768159d53f.zip)
-         - [**Logradouros urbanos** (`7dbb469`)](http://dl.digital-guard.org/7dbb469cf4affc5e9d0486712553ed2c635a2a33e3e2389c660ceabc209e59c7.zip)
-         - [**Geoenderecos** (`4b8f5c5`)](http://dl.digital-guard.org/4b8f5c5264e567014e98d3314a49ba2a1c71f8da5cba66572671fe674b7788f1.zip)
-         - [**Logradouros rurais** (`3a300c9`)](http://dl.digital-guard.org/3a300c9f9836c3ea1af53bfdff81e4d663c413f688fdd9c9f583105c19f3ec39.zip)
-         - [**Bairros** (`5662a73`)](http://dl.digital-guard.org/5662a73fff9eeb6c1c3753b4d204b5c1074e9a17454c68fabcf17bd87c2c77b4.rar)
-         - [**Lotes** (`81db1f1`)](http://dl.digital-guard.org/81db1f1d79472aa7e664a00e012628ee113c887e952e73af28e6e86ad10a7dab.zip)
-   - BR-ES-VilaVelha
-     - Prefeitura Municipal de Vila Velha
-       - [_pk0007](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/VilaVelha/_pk0007.01/make_conf.yaml)
-         - [**Bairros** (`c0cd7b2`)](http://dl.digital-guard.org/c0cd7b2a4cc67b5d49a4d296f41b564b23464364ab746adc6d2206d5dd9249af.zip)
-         - [**Quadras** (`3984d1a`)](http://dl.digital-guard.org/3984d1a48b63d858fdfbe7829e493d1c35650546eb84039a59f9008de9bc4871.zip)
-         - [**Lotes** (`5c7131c`)](http://dl.digital-guard.org/5c7131c32a7411cf7a27022b8ac2989e88f86254ed74b6b3b2e5cf94b44e3acb.zip)
-   - BR-ES-Vitoria
-     - Prefeitura Municipal de Vitória
-       - [_pk0006](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/Vitoria/_pk0006.01/make_conf.yaml)
-         - [**Lotes** (`3a92899`)](http://dl.digital-guard.org/3a92899e5a7e87acb92cca7198cc0e894bac9ac96c2192b12b668d1e1d598898.zip)
-         - [**Edificações** (`58d1d77`)](http://dl.digital-guard.org/58d1d77cd2dd760f6a57bfda746da7f2658fe8a1f23f6d371ed5a8e230ac30cf.zip)
-         - [**Bairros** (`307f158`)](http://dl.digital-guard.org/307f158ccd7d9ff8f7ec9767de719595fde4ea759c14316d478da176c23303fe.zip)
-         - [**Logradouros** (`252f222`)](http://dl.digital-guard.org/252f2228f3400be3f6fdbef5a99b3aacf1ed0232ab73675ed918f9b5f8743752.zip)
-   - BR-GO-AparecidaGoiania
-     - Prefeitura Municipal de Aparecida de Goiânia
-       - [_pk0084](http://git.digital-guard.org/preserv-BR/blob/main/data/GO/AparecidaGoiania/_pk0084.01/make_conf.yaml)
-         - [**Quadras, bairros, lotes e logradouros** (`607ba1a`)](http://dl.digital-guard.org/607ba1a0c854d6c93a0e57a95fa8851be3abe05b292b477ee5eb71ec245b1fae.rar)
-   - BR-GO-Goiania
-     - Prefeitura de Goiânia
-       - [_pk0054](http://git.digital-guard.org/preserv-BR/blob/main/data/GO/Goiania/_pk0054.01/make_conf.yaml)
-         - [**Eixos** (`926566f`)](http://dl.digital-guard.org/926566fc01aa45a22ede663e66e371ce9e70e730e7f4e28b10b3bdf19d67fd38.zip)
-         - [**Lotes** (`1fd83fa`)](http://dl.digital-guard.org/1fd83fa52b1a8b9179f8e38703b1a33a30256f68994794404acde1ad786dac7e.zip)
-         - [**Bairros** (`981d55a`)](http://dl.digital-guard.org/981d55ac26d0131ff4040aeca1444ad2310e20b89ceeac70c9d4ca12caf5151b.zip)
-         - [**Lotes** (`db2d3b6`)](http://dl.digital-guard.org/db2d3b64a2494ff53212d276645986490890025d2b5d1fc5a1b90af7e7bbdf39.zip)
-   - BR-MG-BeloHorizonte
-     - Prefeitura de Belo Horizonte
-       - [_pk0008](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/BeloHorizonte/_pk0008.01/make_conf.yaml)
-         - [**Vias** (`7d7d066`)](http://dl.digital-guard.org/7d7d0661683a8eebd95d544c47dd0e254fc75e3d916fe9900a3bd9fb7b2cc378.zip)
-         - [**Pontos de Endereço** (`1ce29a5`)](http://dl.digital-guard.org/1ce29a555565be5f540ab0c6f93ac55797c368293e0a6bfb479a645a5a23f542.zip)
-   - BR-MG-Contagem
-     - Prefeitura Municipal de Contagem
-       - [_pk0009](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/Contagem/_pk0009.01/make_conf.yaml)
-         - [**GDB Geodatabase** (`058a602`)](http://dl.digital-guard.org/058a6022054e8b3f9ba81f25f7511b58cbd4ad616b0510033b917f3f7f9f23d5.rar)
-   - BR-MG-GovernadorValadares
-     - Prefeitura Municipal de Governador Valadares
-       - [_pk0039](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/GovernadorValadares/_pk0039.01/make_conf.yaml)
-         - [**Bairros** (`0cc1b05`)](http://dl.digital-guard.org/0cc1b05163361968a5681e971c8ab1395fcca1ba4b48150a7522a90b836727e3.zip)
-         - [**Quadras** (`2bcdbd6`)](http://dl.digital-guard.org/2bcdbd6a2ddf4fd810147a106616f404c69a9c38bc02531fe3fa9f27acab25a6.zip)
-         - [**Lotes** (`98248f6`)](http://dl.digital-guard.org/98248f643e60829689b398b2852981cfd12b11799a640d93b27223dfc4346948.rar)
-         - [**Planilha de Endereços** (`2e79fdf`)](http://dl.digital-guard.org/2e79fdf013a8de68e071c2f2a9911bc98196254bc9b9f39482cb0941a146b485.zip)
-         - [**Eixos** (`437a501`)](http://dl.digital-guard.org/437a5012420b1bdc748ea571eabfa0aee6154c41196fe898c383d76e61a5c5db.zip)
-   - BR-MS-CampoGrande
-     - Prefeitura Municipal de Campo Grande
-       - [_pk0034](http://git.digital-guard.org/preserv-BR/blob/main/data/MS/CampoGrande/_pk0034.01/make_conf.yaml)
-         - [**Lotes e Loteamentos** (`ca5dab5`)](http://dl.digital-guard.org/ca5dab519aae0b5cfbc6f8930641c0cce2abbc34c25e306b3fe0aea87df34b74.rar)
-   - BR-PB-JoaoPessoa
-     - Prefeitura Municipal de João Pessoa
-       - [_pk0072](http://git.digital-guard.org/preserv-BR/blob/main/data/PB/JoaoPessoa/_pk0072.01/make_conf.yaml)
-         - [**Lotes** (`ccb4e51`)](http://dl.digital-guard.org/ccb4e51a2caca195e8fd260de69d07ffc2d0cbbb80e4455806d7c89f2932948c.zip)
-         - [**Bairros** (`07c8aa9`)](http://dl.digital-guard.org/07c8aa95c98efecaa6e0a1e4667f4c2452f519477011cba4355f294c07d465c1.zip)
-         - [**Quadras** (`31081d4`)](http://dl.digital-guard.org/31081d4d9daf71ca3e0b11d06b228fd62d8eb326c889cc41af699d1d57f4c23e.zip)
-         - [**Logradouros** (`393dc28`)](http://dl.digital-guard.org/393dc287ca1b626ecb180b40d6c9ec2ebc74a3364444a4418d77e7225c32f3f7.zip)
-   - BR-PE-Recife
-     - Prefeitura Municipal de Recife
-       - [_pk0010](http://git.digital-guard.org/preserv-BR/blob/main/data/PE/Recife/_pk0010.01/make_conf.yaml)
-         - [**Todos os shapes** (`04fffd5`)](http://dl.digital-guard.org/04fffd56aef1c5a53cb35e5864b940b0b103e6e4752adcff7d4f30a2cb99ddb6.zip)
-   - BR-PI-Teresina
-     - Prefeitura Municipal de Teresina
-       - [_pk0045](http://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01/make_conf.yaml)
-         - [**Geo-endereços** (`6d00a62`)](http://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip)
-   - BR-PR-Araucaria
-     - Prefeitura do Município de Araucária
-       - [_pk0061](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01/make_conf.yaml)
-         - [**Todos os shapefiles** (`52302cd`)](http://dl.digital-guard.org/52302cd28b0d4e36ba923a7f1fc82ff4d16f544a92b667933f8b46e036213b88.zip)
-   - BR-PR-Cascavel
-     - Prefeitura Municipal de Cascavel
-       - [_pk0011](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Cascavel/_pk0011.01/make_conf.yaml)
-         - [**Lotes** (`ae8dc02`)](http://dl.digital-guard.org/ae8dc027fe9e0983b553508c3a313061f7f466c50d66124c86c96254f70c4c15.zip)
-         - [**Eixos** (`f4fe1f6`)](http://dl.digital-guard.org/f4fe1f604f927b1d07ae56ec11ea9e3c4c64a4d02c01ce80ad041beadab165dc.zip)
-         - [**Bairros** (`305df61`)](http://dl.digital-guard.org/305df61c61e90caef0a0409a09b7d01a56beb6e107ae4430188617c7058f02a1.zip)
-   - BR-PR-Curitiba
-     - Inst. de Pesquisa e Plan Urbano de Curitiba
-       - [_pk0002](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Curitiba/_pk0002.01/make_conf.yaml)
-         - [**Pontos de endereço** (`a6f6dc4`)](http://dl.digital-guard.org/a6f6dc4a8cd4bd9dcf19104bb409c2164fd07b53818a6e1c28c4aaab94f5c895.zip)
-         - [**Lotes** (`3b67226`)](http://dl.digital-guard.org/3b67226b43d2093e81204c1ed089eafafe0ffd92ce8fe98bd8db1f45b2e3bfb1.zip)
-   - BR-PR-Maringa
-     - Prefeitura do Município de Maringá
-       - [_pk0110](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Maringa/_pk0110.01/make_conf.yaml)
-         - [**Num_Predial_14_03_2022.xlsx** (`8884e90`)](http://dl.digital-guard.org/8884e9035116c647376301085809c7cbfb0d44841e1f51035b4b286e8648b05a.zip)
-   - BR-PR-Pinhais
-     - Prefeitura Municipal de Pinhais
-       - [_pk0014](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Pinhais/_pk0014.01/make_conf.yaml)
-         - [**Eixos** (`27c0c46`)](http://dl.digital-guard.org/27c0c467222a668837f62e9f40ac85f94685ea50f3d655207384f2343d13f573.rar)
-         - [**Lotes** (`56d3236`)](http://dl.digital-guard.org/56d32368409f4ba2c99afadc7ad307bd8cc660b93d38e57936da313fafde1f13.rar)
-         - [**Bairros** (`7d96c19`)](http://dl.digital-guard.org/7d96c19771ca271623058eeb9fdc4ceb67ff68c3937a7b66e7ccdb1a4e6580fb.rar)
-   - BR-PR-Toledo
-     - Prefeitura Municipal de Toledo
-       - [_pk0079](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Toledo/_pk0079.01/make_conf.yaml)
-         - [**Bairros** (`54e8c96`)](http://dl.digital-guard.org/54e8c962d93c5075b58656b0d935889e21ea340f97c0603be1ef5f1ee07d6805.zip)
-         - [**Logradouros** (`497e972`)](http://dl.digital-guard.org/497e972dd7415c9465e32e95d87d88d927327d5469d3c4f5a2aac306b6966404.zip)
-         - [**Quadras** (`6cf7e47`)](http://dl.digital-guard.org/6cf7e47ce736468fb740f4f6f884464e81f8ff3a9682f92c38d041825ebb4a39.zip)
-         - [**Geoendereços** (`e17bb96`)](http://dl.digital-guard.org/e17bb963a4bf4f48743c5a60ac6ab91a88b6aff8b3ef7045a34bde155dbef1b9.zip)
-   - BR-RJ-Niteroi
-     - Prefeitura Municipal de Niterói
-       - [_pk0016](http://git.digital-guard.org/preserv-BR/blob/main/data/RJ/Niteroi/_pk0016.01/make_conf.yaml)
-         - [**** (`fd0fcfd`)](http://dl.digital-guard.org/fd0fcfd937ee3d20620862cce6e870679518f4756063f3045c7f65e6b9ca9981.zip)
-         - [**** (`5f7e5ec`)](http://dl.digital-guard.org/5f7e5ecf8e15a9c13323cb9f4fddadee80eb3e253bcc270dc8c134400af3a8b2.zip)
-         - [**** (`39d3495`)](http://dl.digital-guard.org/39d34950c7c61a89cfc2b4d70b0b34a85b346b41741331009205de0f06c86805.zip)
-         - [**** (`4bde69d`)](http://dl.digital-guard.org/4bde69d0057c0785598f98963fdae3dc90420fb8f163652d70b659210da0ae2b.zip)
-   - BR-RJ-RioJaneiro
-     - Prefeitura da Cidade do Rio de Janeiro
-       - [_pk0078](http://git.digital-guard.org/preserv-BR/blob/main/data/RJ/RioJaneiro/_pk0078.02/make_conf.yaml)
-         - [**Logradouros** (`cbf1efd`)](http://dl.digital-guard.org/cbf1efdbbdbc96f0c012556ff36040d8314564d300f9c53aaef8b49f0b8000c9.zip)
-         - [**Quadras** (`6daa65d`)](http://dl.digital-guard.org/6daa65d15bbda6b9d9959daf8d43c2063ed0410b643870c24d22af4fd149032d.zip)
-         - [**Bairros** (`ea44a4e`)](http://dl.digital-guard.org/ea44a4e799c709b77e0de02ca98c67895246bccc4634940c77e5e82ce1b61f31.zip)
-         - [**Lotes** (`c2febb1`)](http://dl.digital-guard.org/c2febb1aa33dcf75c3a23f36c6c535e7223f219e1b71fa1121cf278623961a01.zip)
-         - [**Numero de Porta** (`ca3372b`)](http://dl.digital-guard.org/ca3372bbecd51a34481c39af3c194db84c3fd6b578a14f58aa8f787d3f86caf4.rar)
-   - BR-RN-Natal
-     - Prefeitura Municipal de Natal
-       - [_pk0073](http://git.digital-guard.org/preserv-BR/blob/main/data/RN/Natal/_pk0073.01/make_conf.yaml)
-         - [**Quadras** (`63f2657`)](http://dl.digital-guard.org/63f265730d08e440bbfaf630a78c053968ee7ec12447b19af9554f5a8a78614f.zip)
-         - [**Lotes** (`4fb50d5`)](http://dl.digital-guard.org/4fb50d5099297049dab0406a2ff86b78328062b2834b7a6943e256c9dd82cb31.zip)
-         - [**Bairros** (`2abd24a`)](http://dl.digital-guard.org/2abd24ace6842e2257f9e89bc7137de259ab9a1ea6175b3486911b99fca6dfdc.zip)
-         - [**Edificações** (`2a51813`)](http://dl.digital-guard.org/2a5181306cd0b82550fa9901efd9dfa8d2865a053537c5ab6b784b06edbbd568.zip)
-         - [**Logradouros** (`3939095`)](http://dl.digital-guard.org/3939095828b4c0ec81efbcfca8f718d33e503dd8689e06d624c7957ba7fbb918.zip)
-   - BR-RO-JiParana
-     - Prefeitura Municipal de Ji-Paraná
-       - [_pk0062](http://git.digital-guard.org/preserv-BR/blob/main/data/RO/JiParana/_pk0062.01/make_conf.yaml)
-         - [**Logradouros** (`910851a`)](http://dl.digital-guard.org/910851a581a1eefe4a3a8534ffd46ac6ad11e998fcf7c6ebf624700b885a4b01.zip)
-         - [**Geo-endereços** (`67f980e`)](http://dl.digital-guard.org/67f980eb940a57a8f4e40b8e15be9b4b65162aa9afe27d0a89f826047f9b9039.zip)
-   - BR-RS-Bage
-     - Prefeitura Municipal de Bagé
-       - [_pk0082](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Bage/_pk0082.01/make_conf.yaml)
-         - [**LOGRADOUROS** (`5816997`)](http://dl.digital-guard.org/5816997b063b62b3d3d15ba8339a05ab1bbac651b645fddbea194d4b8a445932.zip)
-         - [**quarteirões** (`47063f9`)](http://dl.digital-guard.org/47063f994f552e27c3b528fcc60cb03e36923b6875dd862dc54062e0ecb3bf60.zip)
-         - [**LOTES** (`7fc034a`)](http://dl.digital-guard.org/7fc034ac5c703dcfe93567bd5196ce6eba22df7b779b15ca713b026e85f64759.zip)
-   - BR-RS-Canoas
-     - Prefeitura Municipal de Canoas
-       - [_pk0076](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Canoas/_pk0076.01/make_conf.yaml)
-         - [**Vias** (`8dd9b6e`)](http://dl.digital-guard.org/8dd9b6e7e03435fd0adb687313f754cfd76488f13a4b3cfdcc17a4b8c317be87.zip)
-         - [**Edificações** (`6536687`)](http://dl.digital-guard.org/6536687209661fd36ce85976660e736b76cb2597c9a6402df810fe623aa2e569.zip)
-         - [**Bairros** (`62972bc`)](http://dl.digital-guard.org/62972bc1f5accf55c5ea97f9154f246a111cde13c4da881798668e12b0a03a41.zip)
-         - [**Lotes** (`4f5971a`)](http://dl.digital-guard.org/4f5971ab149c0d936a315fff94fdd8ee5fb2410f2a472b3eaf0d33666ee1043d.zip)
-         - [**Quadras** (`23916ae`)](http://dl.digital-guard.org/23916aea28282c1c2485ff18fa561728bcfc087c2999d9a9575658e32a66f782.zip)
-   - BR-RS-CaxiasSul
-     - Prefeitura Municipal de Caxias do Sul
-       - [_pk0069](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/CaxiasSul/_pk0069.01/make_conf.yaml)
-         - [**Bairros** (`17c3cf7`)](http://dl.digital-guard.org/17c3cf7a5fc8429b79ab09193162a627ef9d93123f7b31e1f51435ef1a8c028c.zip)
-         - [**Endereço** (`58858f6`)](http://dl.digital-guard.org/58858f634229c4d857ad8bf774758f6051357b365c15d9a75cdf778cde2f65f6.zip)
-         - [**Eixos** (`ca028e7`)](http://dl.digital-guard.org/ca028e7824a7489c9a406884b78fe83dfbc72f15471bd9651e636d8a8d2afd3a.zip)
-         - [**Quadras** (`a9d2db6`)](http://dl.digital-guard.org/a9d2db675520121d4ed84084ae868d5868cbfc7516a8266eee30a15c651474dd.zip)
-         - [**Via** (`09e01c7`)](http://dl.digital-guard.org/09e01c7ab557f61a35999b32585f72059e983600606ea2870e1520e284815165.zip)
-   - BR-RS-Gravatai
-     - Prefeitura Municipal de Gravataí
-       - [_pk0017](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Gravatai/_pk0017.01/make_conf.yaml)
-         - [**Loteamentos** (`1ad6696`)](http://dl.digital-guard.org/1ad669693352407105ccdeb37a4398d62b0accb25888122c84afe2788c121c7b.rar)
-         - [**Lotes e Eixos** (`d101e72`)](http://dl.digital-guard.org/d101e729d51ddfc33e4a866684074487c5a2601c7c84d4eca01ff9bbca186cda.rar)
-   - BR-RS-Pelotas
-     - Prefeitura Municipal de Pelotas
-       - [_pk0080](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Pelotas/_pk0080.01/make_conf.yaml)
-         - [**Todos os arquivos** (`3c69a4b`)](http://dl.digital-guard.org/3c69a4bf2fa9cce1b701968f6c970230e51ee2a656f7168f384f5066a05eaba2.zip)
-   - BR-RS-PortoAlegre
-     - Prefeitura Municipal de Porto Alegre
-       - [_pk0018](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/PortoAlegre/_pk0018.01/make_conf.yaml)
-         - [**Bairros** (`2587724`)](http://dl.digital-guard.org/258772459588f7941ac6eeda7c6839df02d58741cf6bc3e48825aecd60418251.zip)
-         - [**Eixos** (`c35e3b2`)](http://dl.digital-guard.org/c35e3b2825d3da122a74c6c8dd5f3157a3bd6201208d2a6d13dec433a6ded9fc.zip)
-         - [**Imóveis** (`fbc62ef`)](http://dl.digital-guard.org/fbc62efdbd0f16a7db03b5b775c50c9425367a8dee8a85d9b53e4475bbdb99d2.zip)
-   - BR-RS-SantaCruzSul
-     - Prefeitura Municipal de Santa Cruz do Sul
-       - [_pk0064](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/SantaCruzSul/_pk0064.01/make_conf.yaml)
-         - [**Vias** (`5c7bc9d`)](http://dl.digital-guard.org/5c7bc9d5d753681db743235e647cb653efe34404aad61b040af89cc2ec68bbe2.zip)
-         - [**Quadras** (`a3eab1a`)](http://dl.digital-guard.org/a3eab1ae42ce304d9bbd119ebb769b6c93c40f04b1f09c6e0e9ec322320da7ff.zip)
-         - [**Bairros** (`8cfffc8`)](http://dl.digital-guard.org/8cfffc8d4ab052dd653748fd22c52ad708609e8c3c30283f57a7b2627fbf8aca.zip)
-         - [**Lotes** (`3b4634f`)](http://dl.digital-guard.org/3b4634f38fafd4d3a779b1f7a1075ab2fd6b951509290849f26813319920b2fa.zip)
-   - BR-RS-SantaMaria
-     - Prefeitura Municipal de Santa Maria
-       - [_pk0019](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/SantaMaria/_pk0019.01/make_conf.yaml)
-         - [**Eixos** (`f4d3819`)](http://dl.digital-guard.org/f4d3819f9853e85e43bf7a58de7f257eed5f63bcf36daed1c4db0f2701544adc.zip)
-         - [**Bairros** (`9600dcb`)](http://dl.digital-guard.org/9600dcba403c8dc0b066c8f429507e4672966a01c93119923f75361a6ebc64c0.zip)
-         - [**Lotes** (`51a6beb`)](http://dl.digital-guard.org/51a6beb9fca43e0fb45727138982f7806b8df52fce53f5e0e31edd61bfbc21b9.rar)
-   - BR-SC-Florianopolis
-     - Instituto de Pesquisa e Planejamento Urbano de Florianópolis
-       - [_pk0053](http://git.digital-guard.org/preserv-BR/blob/main/data/SC/Florianopolis/_pk0053.01/make_conf.yaml)
-         - [**Multiplos arquivos** (`49c6dd8`)](http://dl.digital-guard.org/49c6dd8968a97b80ddd50f37db3204ae63278f7a9cda94fa35b03429d53a96a6.rar)
-         - [**Lotes** (`cb4f94b`)](http://dl.digital-guard.org/cb4f94bedbafd003b4791954e07b05a591a36bbace9cd6ca6576ed840b32bd8c.zip)
-   - BR-SC-Joinville
-     - Prefeitura Municipal de Joinville
-       - [_pk0035](http://git.digital-guard.org/preserv-BR/blob/main/data/SC/Joinville/_pk0035.01/make_conf.yaml)
-         - [**Lotes** (`3d4a6f5`)](http://dl.digital-guard.org/3d4a6f528249d062a0bcfb18aa6c115828bb651a164617489c14017b6433c02a.zip)
-         - [**Eixos** (`207c82a`)](http://dl.digital-guard.org/207c82a3f2fa79f943c7b393b0e4fe636ff60305302f9c64c8364851fc6bf6c2.zip)
-   - BR-SP-Atibaia
-     - Prefeitura da Estância de Atibaia
-       - [_pk0021](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Atibaia/_pk0021.01/make_conf.yaml)
-         - [**Logradouros** (`0a7fedd`)](http://dl.digital-guard.org/0a7fedd6e8e30541f706fa7f77166a183a3cc43d2b1d3d3d0a8d3fb7f077e804.zip)
-         - [**Lotes** (`b6221fa`)](http://dl.digital-guard.org/b6221fa57754ec8c4db284591a6ceeea7acf986eb215b2e521647e32fb175488.zip)
-         - [**Edificações** (`6d74157`)](http://dl.digital-guard.org/6d741572b6c31ffd82cf004b92fa98056545df805bcb64afba5e7b26e32b62ab.zip)
-   - BR-SP-Cabreuva
-     - Prefeitura Municipal de Cabreúva
-       - [_pk0040](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Cabreuva/_pk0040.01/make_conf.yaml)
-         - [**Edifícios** (`28ad2ba`)](http://dl.digital-guard.org/28ad2bab16b023135e52a101d2e1ddf3337806de3922599a10598b9f2131e3d2.zip)
-   - BR-SP-Campinas
-     - Prefeitura Municipal de Campinas
-       - [_pk0022](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Campinas/_pk0022.01/make_conf.yaml)
-         - [**Eixos** (`b594f87`)](http://dl.digital-guard.org/b594f8717d9912e25938029f8ac55eb5842b561ff29d9768c5b77489945a9c1c.zip)
-         - [**Pontos de lotes** (`6bb020e`)](http://dl.digital-guard.org/6bb020e023ffd10570d887f907fdad909eecde1003c8911ef64ac63d48f5fe8b.zip)
-   - BR-SP-Guarulhos
-     - Prefeitura de Guarulhos
-       - [_pk0081](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Guarulhos/_pk0081.01/make_conf.yaml)
-         - [**Bairros** (`d9cddc6`)](http://dl.digital-guard.org/d9cddc63f7782d250fc80f0572b9fb884ee7ec1911e19deea4381a4ad5d0a172.zip)
-         - [**Logradouros** (`47910ad`)](http://dl.digital-guard.org/47910adcd297a9ba875d89dacc91bc6b2a37d6eab4910964253e117c1484b4c5.zip)
-         - [**Endereços** (`1641b8c`)](http://dl.digital-guard.org/1641b8c5fe5a2e9141939bb7353bda4fda1ea04d7a631a4d012e4759d1bf8447.zip)
-   - BR-SP-Itanhaem
-     - Prefeitura de Itanhaém
-       - [_pk0058](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itanhaem/_pk0058.01/make_conf.yaml)
-         - [**Lotes** (`7e8269d`)](http://dl.digital-guard.org/7e8269d4c80f9a03cc999a44f028c00dd296868ee26b61f012dc53211e760417.zip)
-         - [**Vias** (`3137911`)](http://dl.digital-guard.org/3137911874246d45f025f2b98066f1e7a31543332e175e83f433005d131c40fe.zip)
-         - [**Bairros** (`023071f`)](http://dl.digital-guard.org/023071f87e4bb37e46d42cee7841f3a2119b8f65d2778604af3644f279cf89f1.zip)
-         - [**Geoaddress** (`78f10da`)](http://dl.digital-guard.org/78f10da32c1dfab83bdbb448884731fffba15a36c88337b122bc6e896a841302.zip)
-   - BR-SP-Itu
-     - Prefeitura da Estância Turística de Itu
-       - [_pk0024](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itu/_pk0024.01/make_conf.yaml)
-         - [**lotes_Itu.rar** (`00f40e3`)](http://dl.digital-guard.org/00f40e3731f0e04b8d1050a4716385f412aed5b32b560a47cc321ef4ea5413f8.rar)
-         - [**Shapefiles_-_Municipio_de_Itu.rar** (`5041bf5`)](http://dl.digital-guard.org/5041bf52dc6cbd99fb555180a3f34becae8c61352e975f61bfb9c56182e49749.rar)
-         - [**LOGRADOURO_2019.rar** (`e10b14c`)](http://dl.digital-guard.org/e10b14c4bfeaa6b40b725acc573a98fba308b72836002af3c7431982b74348f1.rar)
-   - BR-SP-Limeira
-     - Prefeitura Municipal de Limeira
-       - [_pk0026](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Limeira/_pk0026.01/make_conf.yaml)
-         - [**Quadras, bairros, lotes e vias** (`529f86b`)](http://dl.digital-guard.org/529f86b71a936bfdbca3d633b80912f496b9c94a2505ef816e406e2362b631c4.zip)
-   - BR-SP-Osasco
-     - Prefeitura Municipal de Osasco
-       - [_pk0028](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Osasco/_pk0028.01/make_conf.yaml)
-         - [**entrega_2020-10-02_recorte.zip** (`0332a2f`)](http://dl.digital-guard.org/0332a2f00b8cd344818b1b734859c44c7d6b7604d347ce1619455d9bf2629d64.zip)
-         - [**entrega_2020-11-04.zip** (`aa41214`)](http://dl.digital-guard.org/aa41214cef0417fb400b83c2e196fb01d7be3688a560c36cac6e2c54cfa0502a.zip)
-   - BR-SP-Piracicaba
-     - Prefeitura Municipal de Piracicaba
-       - [_pk0041](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Piracicaba/_pk0041.01/make_conf.yaml)
-         - [**Quadras** (`23f703b`)](http://dl.digital-guard.org/23f703b7d1611ea29f53fe3bd2617a5939fe96d21453004838d7fe61064dae45.zip)
-         - [**Bairros** (`2137f68`)](http://dl.digital-guard.org/2137f68df828ce00c276a38b969cd651efcc2f8300f9fb4a716b6fd10019862f.zip)
-         - [**Lotes** (`f40eeaa`)](http://dl.digital-guard.org/f40eeaa6fe4f78e52be084392cc9c04d07a95112f7fb2acaf3210fd23fbdf4a8.zip)
-   - BR-SP-RibeiraoPreto
-     - Prefeitura Municipal de Ribeirão Preto
-       - [_pk0052](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/RibeiraoPreto/_pk0052.01/make_conf.yaml)
-         - [**Todos os shapes** (`6cd0d4b`)](http://dl.digital-guard.org/6cd0d4b475e61b8cbd078787ea8b38ebdd051a1def026ca476d4a83d40354738.zip)
-   - BR-SP-Santos
-     - Prefeitura Municipal de Santos
-       - [_pk0029](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.01/make_conf.yaml)
-         - [**Pontos de endereço** (`b192fba`)](http://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip)
-   - BR-SP-SaoBernardoCampo
-     - Prefeitura Municipal de São Bernardo do Campo
-       - [_pk0030](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01/make_conf.yaml)
-         - [**Pontos de endereço** (`22ecd5e`)](http://dl.digital-guard.org/22ecd5ef4ca76adef213fa422d9b5e4198f0667df598c511c30e512bb10aaedd.zip)
-         - [**Bairros** (`350b605`)](http://dl.digital-guard.org/350b605174967b94ef49ce1bbac0352dd76e2175e5eae1b8e5b730cd9950d133.zip)
-         - [**Lotes** (`d498540`)](http://dl.digital-guard.org/d4985405060cc1887962a4278b4d68ada6ffd3ed72f296bd72d65abc4897cd2d.zip)
-         - [**Eixos** (`3269bac`)](http://dl.digital-guard.org/3269bacc09d450b4d7496a2bc749ece94b1f48462ba0aae70d902404256bc433.zip)
-   - BR-SP-SaoPaulo
-     - Prefeitura Municipal de São Paulo
-       - [_pk0033](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoPaulo/_pk0033.01/make_conf.yaml)
-         - [**Lotes** (`bae2054`)](http://dl.digital-guard.org/bae2054448855305db0fc855d2852cd5a7b369481cc03aeb809a0c3c162a2c04.zip)
-         - [**Endereços** (`75c003c`)](http://dl.digital-guard.org/75c003ca72fd92a2cd2146518c8bd69b6396dd1ee70d5e94c81107e27b498c12.zip)
-         - [**Eixos** (`ef12421`)](http://dl.digital-guard.org/ef12421332aca1f53484084ab50bdca48d243ba1d9593ebfd873a1af2ab86556.zip)
-         - [**Quadras** (`0f72435`)](http://dl.digital-guard.org/0f724350c2511ec58873a9dcaeec51a6756f9258b2b4ecd953884198e0350cbc.zip)
-         - [**Edifícios** (`8e7be76`)](http://dl.digital-guard.org/8e7be760f94bb385bb1b6a47feee3afce9c0fcf48317b554834a5ac30bc5a0cf.zip)
-   - BR-SP-SaoVicente
-     - Prefeitura Municipal de São Vicente
-       - [_pk0032](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoVicente/_pk0032.01/make_conf.yaml)
-         - [**Pontos de Endereço** (`3d5bc83`)](http://dl.digital-guard.org/3d5bc83bbbfd7e28857d36e6cf9df06bcd1d9de257018d684a3dd91608c55742.zip)
-   - BR-SP-Sorocaba
-     - Prefeitura Municipal de Sorocaba
-       - [_pk0031](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Sorocaba/_pk0031.01/make_conf.yaml)
-         - [**Lotes** (`3c89fd7`)](http://dl.digital-guard.org/3c89fd728a33d781a60088e8b384295e92e70c96b6c9fed78bd4f36f819df67a.zip)
-         - [**Eixos** (`f880241`)](http://dl.digital-guard.org/f88024120a0355a4a9c5ee990c31a41a031a06c25e82eca5e7320d00030edb36.zip)
+     - OpenStreetMap Foundation
+         - [_pk0004](http://git.digital-guard.org/preserv-BR/blob/main/data/_pk0004.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`befb1a2`)](http://dl.digital-guard.org/befb1a28910b56920b7c10b7ae1a25d5d32f1b13931463076adebc4ab33db114.pbf)
+     - BR-AC-RioBranco
+         - Prefeitura Municipal de Rio Branco
+             - [_pk0042](http://git.digital-guard.org/preserv-BR/blob/main/data/AC/RioBranco/_pk0042.01/make_conf.yaml)
+                 - [**Bairros** (`73d02ba`)](http://dl.digital-guard.org/73d02ba0ae4b0a994a629f7d06f0a027259f5c1d97e53f9b771fecd345c2a02b.zip)
+                 - [**Eixos** (`29d68e5`)](http://dl.digital-guard.org/29d68e5ce006079b06b710cc2df3aa08d6cb6934f32bc0b29fc46d3e8272ff77.rar)
+                 - [**Lotes** (`d96f472`)](http://dl.digital-guard.org/d96f47270e22336cf4660f742ae4dba5694f15c6833363167c91d9fc9929871b.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`50acf2f`)](http://dl.digital-guard.org/50acf2f2da46fb7d9226c54029d41f9b552144f529c7f6a7274bada301d6997d.zip)
+                     - block: [**shp** (`f97b73c`)](http://dl.digital-guard.org/f97b73c3b7e47a68eb06e9c32b8aa8af0757daff77aa25271a2a6edcdd31652a.zip)
+                     - nsvia: [**shp** (`de2e9ab`)](http://dl.digital-guard.org/de2e9ab9aecbe788bc3707d2ab5c654d5dc98cf30267ef966b47c74e0d9c0326.zip)
+                     - via: [**shp** (`32da90c`)](http://dl.digital-guard.org/32da90c08c9eb2daa6652ccc624ae3bc526e19cccc8a90807f368c5edb67ce76.zip)
+     - BR-AM-Manaus
+         - Prefeitura Municipal de Manaus
+             - [_pk0071](http://git.digital-guard.org/preserv-BR/blob/main/data/AM/Manaus/_pk0071.01/make_conf.yaml)
+                 - [**Bairros, bibliotecas, centros culturais, edificações, logradouros, lotes, município, museus, numeração, praças parques, quadras e teatros** (`4134127`)](http://dl.digital-guard.org/4134127ab8fe9d96a17d1cfb833437de98a0186e7121db4994ae4763ab4d542a.rar)
+                 - Filtrados:
+                     - block: [**shp** (`7cd9bf9`)](http://dl.digital-guard.org/7cd9bf991099c8e9cc4aec77002b6f2915d069ea9104ddec8edf4e2571c7fd9f.zip)
+                     - building: [**shp** (`1ab54c2`)](http://dl.digital-guard.org/1ab54c20ae89d6e5c7e3b2f5558bb38ab76cd1b1e95f915ecd810642a4e7e0de.zip)
+                     - geoaddress: [**csv** (`86d3407`)](http://dl.digital-guard.org/86d340713b4db9d5eb6f317d367cb1038eb13239a70a9fc1212d0a0b977fd593.zip) [**shp** (`deb2efc`)](http://dl.digital-guard.org/deb2efc93c5a977e3eb35a852b4dbb0c8c9b27d83fa546a5de9fd09b2d5eff2b.zip)
+                     - nsvia: [**shp** (`6ea0dcf`)](http://dl.digital-guard.org/6ea0dcff962b77401b7ce0592298f790833a6b585de5362118083a46a9e639aa.zip)
+                     - via: [**shp** (`1a24888`)](http://dl.digital-guard.org/1a24888cd3901bff3a8224d4481535dee23d3d631c25d14fce12fbfc0700ca34.zip)
+         - Prefeitura Municipal de Manaus
+             - [_pk0071](http://git.digital-guard.org/preserv-BR/blob/main/data/AM/Manaus/_pk0071.02/make_conf.yaml)
+                 - [**Lotes** (`92954f4`)](http://dl.digital-guard.org/92954f43c27c205f677dd707019bd34d7d47280e74d1eede9def964528671839.rar)
+     - BR-CE-Fortaleza
+         - Prefeitura Municipal de Fortaleza
+             - [_pk0097](http://git.digital-guard.org/preserv-BR/blob/main/data/CE/Fortaleza/_pk0097.01/make_conf.yaml)
+                 - [**Bairros** (`4c97d93`)](http://dl.digital-guard.org/4c97d93a39cce2190b436b1adf1d56321627fef452dbbf18ede812731e2a035b.zip)
+                 - [**Logradouros** (`86c7283`)](http://dl.digital-guard.org/86c7283d4dc0351e397e72934f96141f55b92dc09112462cad3769649c0f8fec.zip)
+                 - [**Lotes** (`d6bfda4`)](http://dl.digital-guard.org/d6bfda4f6ec70796d753b570ff04afc040ba6a2c438f116b301a977db3788b5e.zip)
+                 - [**Quadras** (`82edaae`)](http://dl.digital-guard.org/82edaae1d8a79f5167d88cb89a09a21f7e2f89bae88d16d39ebbe971a28976d5.zip)
+                 - [**Edificações** (`8a07c88`)](http://dl.digital-guard.org/8a07c88d17167f65182a6c1a86fb89842d2e0bfe4ca5f7fc2dba4d41d9f682f9.zip)
+     - BR-DF-Brasilia
+         - Governo do Distrito Federal
+             - [_pk0068](http://git.digital-guard.org/preserv-BR/blob/main/data/DF/Brasilia/_pk0068.01/make_conf.yaml)
+                 - [**nsvia** (`12a8253`)](http://dl.digital-guard.org/12a8253e85ad740a408c73dc73224b5b939d8125fdbdf73ae8355338d1250730.zip)
+                 - [**lotes** (`b55567b`)](http://dl.digital-guard.org/b55567b8f4b77e16eb7805ac2883ffed63b67ec7d39aed103e914bbea0d94750.zip)
+                 - [**Edificações** (`c9aca8c`)](http://dl.digital-guard.org/c9aca8c68c827c3a73598b677dc217fd8af5df1b8f53349e37b00ae13bcd46bd.zip)
+                 - [**block** (`0e5c2d6`)](http://dl.digital-guard.org/0e5c2d6d8728b11d7a89ada7fb7639756e479761c57b1aa23d9f4bcdec8d480d.zip)
+     - BR-ES-CachoeiroItapemirim
+         - Municipio De Cachoeiro De Itapemirim
+             - [_pk0091](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/CachoeiroItapemirim/_pk0091.01/make_conf.yaml)
+                 - [**Quadras** (`8d0400b`)](http://dl.digital-guard.org/8d0400b02d594228c5a43df5e5bcdbbb620bce1175fac22fb2f196768159d53f.zip)
+                 - [**Geoenderecos** (`4b8f5c5`)](http://dl.digital-guard.org/4b8f5c5264e567014e98d3314a49ba2a1c71f8da5cba66572671fe674b7788f1.zip)
+                 - [**Bairros** (`5662a73`)](http://dl.digital-guard.org/5662a73fff9eeb6c1c3753b4d204b5c1074e9a17454c68fabcf17bd87c2c77b4.rar)
+                 - [**Lotes** (`81db1f1`)](http://dl.digital-guard.org/81db1f1d79472aa7e664a00e012628ee113c887e952e73af28e6e86ad10a7dab.zip)
+                 - [**Logradouros urbanos** (`7dbb469`)](http://dl.digital-guard.org/7dbb469cf4affc5e9d0486712553ed2c635a2a33e3e2389c660ceabc209e59c7.zip)
+                 - [**Logradouros rurais** (`3a300c9`)](http://dl.digital-guard.org/3a300c9f9836c3ea1af53bfdff81e4d663c413f688fdd9c9f583105c19f3ec39.zip)
+                 - Filtrados:
+                     - block: [**shp** (`056312a`)](http://dl.digital-guard.org/056312a68c55456b6e0118c1cb1e3560061bf12e4dde3e556cde04c408a7476e.zip)
+                     - geoaddress: [**shp** (`1675233`)](http://dl.digital-guard.org/1675233e44c945bc191647df3b764193c645998ab7185feffae38ff3da47398b.zip) [**csv** (`e41c729`)](http://dl.digital-guard.org/e41c72991372316966d397abcc8e72a8c1f7fd61f2a8185363a1487f01c67192.zip)
+                     - nsvia: [**shp** (`e1cbe63`)](http://dl.digital-guard.org/e1cbe632fce533271d6bc80ccc95f51804107bda750b37affe61999a7d2cd8e7.zip)
+                     - parcel: [**shp** (`7d62f58`)](http://dl.digital-guard.org/7d62f58e0eaabb84d50322ed337369f4dd9664804f6b7932823c2da6ed26ee88.zip)
+                     - via: [**shp** (`220d2ed`)](http://dl.digital-guard.org/220d2ed2366c2b8ad0801128eea06e840af175dd2a0a70c73750e11ef33fb965.zip)
+     - BR-ES-VilaVelha
+         - Prefeitura Municipal de Vila Velha
+             - [_pk0007](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/VilaVelha/_pk0007.01/make_conf.yaml)
+                 - [**Bairros** (`c0cd7b2`)](http://dl.digital-guard.org/c0cd7b2a4cc67b5d49a4d296f41b564b23464364ab746adc6d2206d5dd9249af.zip)
+                 - [**Quadras** (`3984d1a`)](http://dl.digital-guard.org/3984d1a48b63d858fdfbe7829e493d1c35650546eb84039a59f9008de9bc4871.zip)
+                 - [**Lotes** (`5c7131c`)](http://dl.digital-guard.org/5c7131c32a7411cf7a27022b8ac2989e88f86254ed74b6b3b2e5cf94b44e3acb.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`4c57e92`)](http://dl.digital-guard.org/4c57e925c8a8c32fadd3a9eb748be3490e6cfd0309ba16e9c27a1575f8e446b9.zip)
+                     - nsvia: [**shp** (`a8a0138`)](http://dl.digital-guard.org/a8a013898e483bece8322bdc6896de29f6a1fc3c0a40ba9946ac33b9e162f356.zip)
+                     - block: [**shp** (`87521b0`)](http://dl.digital-guard.org/87521b0c692424eae4d5a0903f72fe17bb9b09f400342877dce1714d7e7ee2ef.zip)
+     - BR-ES-Vitoria
+         - Prefeitura Municipal de Vitória
+             - [_pk0006](http://git.digital-guard.org/preserv-BR/blob/main/data/ES/Vitoria/_pk0006.01/make_conf.yaml)
+                 - [**Lotes** (`3a92899`)](http://dl.digital-guard.org/3a92899e5a7e87acb92cca7198cc0e894bac9ac96c2192b12b668d1e1d598898.zip)
+                 - [**Logradouros** (`252f222`)](http://dl.digital-guard.org/252f2228f3400be3f6fdbef5a99b3aacf1ed0232ab73675ed918f9b5f8743752.zip)
+                 - [**Bairros** (`307f158`)](http://dl.digital-guard.org/307f158ccd7d9ff8f7ec9767de719595fde4ea759c14316d478da176c23303fe.zip)
+                 - [**Edificações** (`58d1d77`)](http://dl.digital-guard.org/58d1d77cd2dd760f6a57bfda746da7f2658fe8a1f23f6d371ed5a8e230ac30cf.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`bec0dbb`)](http://dl.digital-guard.org/bec0dbb4ffec73a873790a0342e762b68cd37d1b70d2cf315136f924c1a6b2c2.zip)
+                     - building: [**shp** (`e59582c`)](http://dl.digital-guard.org/e59582c2490fdc64b2409ed591e20fe75fc8ec01ec032dc3701b250214979c33.zip)
+                     - via: [**shp** (`f2df296`)](http://dl.digital-guard.org/f2df296045a63b0dd5321f29cfcfcbb4e159791a1926a20204d2416896470bd3.zip)
+                     - parcel: [**shp** (`13e3b9a`)](http://dl.digital-guard.org/13e3b9a2baf466aca3e09d3700a7d261dcbbe1300017d4d5e78112f89ad2b71f.zip)
+     - BR-GO-AparecidaGoiania
+         - Prefeitura Municipal de Aparecida de Goiânia
+             - [_pk0084](http://git.digital-guard.org/preserv-BR/blob/main/data/GO/AparecidaGoiania/_pk0084.01/make_conf.yaml)
+                 - [**Quadras, bairros, lotes e logradouros** (`607ba1a`)](http://dl.digital-guard.org/607ba1a0c854d6c93a0e57a95fa8851be3abe05b292b477ee5eb71ec245b1fae.rar)
+     - BR-GO-Goiania
+         - Prefeitura de Goiânia
+             - [_pk0054](http://git.digital-guard.org/preserv-BR/blob/main/data/GO/Goiania/_pk0054.01/make_conf.yaml)
+                 - [**Lotes** (`db2d3b6`)](http://dl.digital-guard.org/db2d3b64a2494ff53212d276645986490890025d2b5d1fc5a1b90af7e7bbdf39.zip)
+                 - [**Bairros** (`981d55a`)](http://dl.digital-guard.org/981d55ac26d0131ff4040aeca1444ad2310e20b89ceeac70c9d4ca12caf5151b.zip)
+                 - [**Eixos** (`926566f`)](http://dl.digital-guard.org/926566fc01aa45a22ede663e66e371ce9e70e730e7f4e28b10b3bdf19d67fd38.zip)
+                 - [**Lotes** (`1fd83fa`)](http://dl.digital-guard.org/1fd83fa52b1a8b9179f8e38703b1a33a30256f68994794404acde1ad786dac7e.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`51f7256`)](http://dl.digital-guard.org/51f7256bd55c3ded1fe6d6f5176dd947501d6bca446f98e17c4246f3e79290e3.zip)
+                     - block: [**shp** (`158acc1`)](http://dl.digital-guard.org/158acc11d4823752c3b067fa3ee3c0c381ee037ac3ecf065d2f5099fc2a6ceba.zip)
+                     - nsvia: [**shp** (`eb260d8`)](http://dl.digital-guard.org/eb260d8de5c62bbf70f2de2dc041a73bcde3596aca543ef7278c979871407406.zip)
+                     - via: [**shp** (`cfa22a3`)](http://dl.digital-guard.org/cfa22a3a1c61d110c6dac3d20293871bd992947dd96f1ce755aa026fc9802445.zip)
+     - BR-MG-BeloHorizonte
+         - Prefeitura de Belo Horizonte
+             - [_pk0008](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/BeloHorizonte/_pk0008.01/make_conf.yaml)
+                 - [**Pontos de Endereço** (`1ce29a5`)](http://dl.digital-guard.org/1ce29a555565be5f540ab0c6f93ac55797c368293e0a6bfb479a645a5a23f542.zip)
+                 - [**Vias** (`7d7d066`)](http://dl.digital-guard.org/7d7d0661683a8eebd95d544c47dd0e254fc75e3d916fe9900a3bd9fb7b2cc378.zip)
+                 - Filtrados:
+                     - geoaddress: [**shp** (`bd0b4ca`)](http://dl.digital-guard.org/bd0b4ca0ff7711ecd97400f0c0e4b2742cb8e82fcd796595163b3feb9e599056.zip) [**csv** (`fae597b`)](http://dl.digital-guard.org/fae597bd79ce203ea30c46279b3ec2ed58ae5add95a743b3fbb66efaa874d224.zip)
+                     - via: [**shp** (`35514da`)](http://dl.digital-guard.org/35514dab1501a4bd68f1c51bc110d854595a2dee519011f21fdb04d3d395bc20.zip)
+     - BR-MG-Contagem
+         - Prefeitura Municipal de Contagem
+             - [_pk0009](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/Contagem/_pk0009.01/make_conf.yaml)
+                 - [**GDB Geodatabase** (`058a602`)](http://dl.digital-guard.org/058a6022054e8b3f9ba81f25f7511b58cbd4ad616b0510033b917f3f7f9f23d5.rar)
+                 - Filtrados:
+                     - block: [**shp** (`e93c32d`)](http://dl.digital-guard.org/e93c32d163b229420eccccaaedfa2efad1778c1b5f7e7d02f954ab416b8bf86e.zip)
+                     - geoaddress: [**csv** (`c6ad553`)](http://dl.digital-guard.org/c6ad5536680cbc23871ebaa2474d196319bd8d9af1ec9010f8e5fd0ed41039e9.zip) [**shp** (`3cab1d4`)](http://dl.digital-guard.org/3cab1d4f96cca199248b0ce04fc96ca2a02d94235c2537562b365fe15ed91a22.zip)
+                     - nsvia: [**shp** (`d5534f7`)](http://dl.digital-guard.org/d5534f7943731cea45cf7c65f76decfe11a496d4b285d408528d7d60ed06ed26.zip)
+                     - parcel: [**shp** (`5043038`)](http://dl.digital-guard.org/50430389a4b1660d589b0cab3e69e9e65218f5fc9bf80fe968341cb4128b1778.zip)
+                     - via: [**shp** (`3c1666e`)](http://dl.digital-guard.org/3c1666e99ec34896f54c56acbb0edff38f06f38113ecec56287ffb6a3af790ee.zip)
+     - BR-MG-GovernadorValadares
+         - Prefeitura Municipal de Governador Valadares
+             - [_pk0039](http://git.digital-guard.org/preserv-BR/blob/main/data/MG/GovernadorValadares/_pk0039.01/make_conf.yaml)
+                 - [**Planilha de Endereços** (`2e79fdf`)](http://dl.digital-guard.org/2e79fdf013a8de68e071c2f2a9911bc98196254bc9b9f39482cb0941a146b485.zip)
+                 - [**Lotes** (`98248f6`)](http://dl.digital-guard.org/98248f643e60829689b398b2852981cfd12b11799a640d93b27223dfc4346948.rar)
+                 - [**Quadras** (`2bcdbd6`)](http://dl.digital-guard.org/2bcdbd6a2ddf4fd810147a106616f404c69a9c38bc02531fe3fa9f27acab25a6.zip)
+                 - [**Bairros** (`0cc1b05`)](http://dl.digital-guard.org/0cc1b05163361968a5681e971c8ab1395fcca1ba4b48150a7522a90b836727e3.zip)
+                 - [**Eixos** (`437a501`)](http://dl.digital-guard.org/437a5012420b1bdc748ea571eabfa0aee6154c41196fe898c383d76e61a5c5db.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`39306aa`)](http://dl.digital-guard.org/39306aa56c109d96583611627f116ebaee32b0fe71a9550a1defaac5bc6e4fd4.zip)
+                     - block: [**shp** (`b2d856e`)](http://dl.digital-guard.org/b2d856e53d487250ec7ddd9fd5b7b8e176277cc26cf5d48e20eaa87a0e185cfe.zip)
+                     - nsvia: [**shp** (`cfe7332`)](http://dl.digital-guard.org/cfe7332e8ae0a827870dd599d65c6140b5caa5bf82f33fb759d45cda0ad229d6.zip)
+                     - via: [**shp** (`033f5a0`)](http://dl.digital-guard.org/033f5a062a55462f87f41c4d03686bbb1b314e33bf8620fc80817db1c71324d1.zip)
+     - BR-MS-CampoGrande
+         - Prefeitura Municipal de Campo Grande
+             - [_pk0034](http://git.digital-guard.org/preserv-BR/blob/main/data/MS/CampoGrande/_pk0034.01/make_conf.yaml)
+                 - [**Lotes e Loteamentos** (`ca5dab5`)](http://dl.digital-guard.org/ca5dab519aae0b5cfbc6f8930641c0cce2abbc34c25e306b3fe0aea87df34b74.rar)
+                 - Filtrados:
+                     - nsvia: [**shp** (`3227b8f`)](http://dl.digital-guard.org/3227b8f8b46397fbc265d15261847dd3127da7650a8b1970ea21fd45bebd2343.zip)
+                     - parcel: [**shp** (`c4a6390`)](http://dl.digital-guard.org/c4a6390c48fb7e603b6af25b1b121088a5a66fd12065ee601b234c9a8b56a747.zip)
+     - BR-PB-JoaoPessoa
+         - Prefeitura Municipal de João Pessoa
+             - [_pk0072](http://git.digital-guard.org/preserv-BR/blob/main/data/PB/JoaoPessoa/_pk0072.01/make_conf.yaml)
+                 - [**Logradouros** (`393dc28`)](http://dl.digital-guard.org/393dc287ca1b626ecb180b40d6c9ec2ebc74a3364444a4418d77e7225c32f3f7.zip)
+                 - [**Bairros** (`07c8aa9`)](http://dl.digital-guard.org/07c8aa95c98efecaa6e0a1e4667f4c2452f519477011cba4355f294c07d465c1.zip)
+                 - [**Quadras** (`31081d4`)](http://dl.digital-guard.org/31081d4d9daf71ca3e0b11d06b228fd62d8eb326c889cc41af699d1d57f4c23e.zip)
+                 - [**Lotes** (`ccb4e51`)](http://dl.digital-guard.org/ccb4e51a2caca195e8fd260de69d07ffc2d0cbbb80e4455806d7c89f2932948c.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`9378249`)](http://dl.digital-guard.org/9378249e7d4b515cd87388599c7e0810cf242a3a0d21d4f90c624dfdd9b7fb08.zip)
+                     - via: [**shp** (`bf3d666`)](http://dl.digital-guard.org/bf3d6665cce5d5893bb6b2288531faf4925409286453135f1234a47d689d0b62.zip)
+                     - parcel: [**shp** (`00d8dca`)](http://dl.digital-guard.org/00d8dcac356dae35a7ab0c90d2eaf44ec1ea33780fd286486558545104c0d4e3.zip)
+                     - block: [**shp** (`0f672af`)](http://dl.digital-guard.org/0f672afad67deb95753eadc8339a84fdeac0eae5d262e49a27f544763b6fcb11.zip)
+     - BR-PE-Recife
+         - Prefeitura Municipal de Recife
+             - [_pk0010](http://git.digital-guard.org/preserv-BR/blob/main/data/PE/Recife/_pk0010.01/make_conf.yaml)
+                 - [**Todos os shapes** (`04fffd5`)](http://dl.digital-guard.org/04fffd56aef1c5a53cb35e5864b940b0b103e6e4752adcff7d4f30a2cb99ddb6.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`dea367c`)](http://dl.digital-guard.org/dea367c3c029dff52c461c27188277d52632fb66e9328b1e21157860f5d48ab8.zip)
+                     - parcel: [**shp** (`e1dd94e`)](http://dl.digital-guard.org/e1dd94e4aeae925926490921dea7055ad0c3218a4cf0114071d807e8d69f42f7.zip)
+                     - via: [**shp** (`10150f9`)](http://dl.digital-guard.org/10150f90da79bb022714fdaaeeac7b41791de093ab4e79d88df1880e4fc356d1.zip)
+     - BR-PI-Teresina
+         - Prefeitura Municipal de Teresina
+             - [_pk0045](http://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01/make_conf.yaml)
+                 - [**Geo-endereços** (`6d00a62`)](http://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`86795f3`)](http://dl.digital-guard.org/86795f3ca7012550edffbb721e64e522f09236d0ee8da9edb87b079876e83c30.zip) [**shp** (`6d30cd3`)](http://dl.digital-guard.org/6d30cd36a9b21b5bcd6efe9f8833de6b59b9bb45050754d9fba8112dbbf4fef0.zip)
+     - BR-PR-Araucaria
+         - Prefeitura do Município de Araucária
+             - [_pk0061](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01/make_conf.yaml)
+                 - [**Todos os shapefiles** (`52302cd`)](http://dl.digital-guard.org/52302cd28b0d4e36ba923a7f1fc82ff4d16f544a92b667933f8b46e036213b88.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`f2026e5`)](http://dl.digital-guard.org/f2026e560dbb8a82a78e64933453d01109e04157f495e1858cb86418a1430fdf.zip)
+                     - via: [**shp** (`b0f0688`)](http://dl.digital-guard.org/b0f0688329ebeb0d064053b542388847989dda15c3a70c443fb67ec76e4cedc2.zip)
+     - BR-PR-Cascavel
+         - Prefeitura Municipal de Cascavel
+             - [_pk0011](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Cascavel/_pk0011.01/make_conf.yaml)
+                 - [**Lotes** (`ae8dc02`)](http://dl.digital-guard.org/ae8dc027fe9e0983b553508c3a313061f7f466c50d66124c86c96254f70c4c15.zip)
+                 - [**Bairros** (`305df61`)](http://dl.digital-guard.org/305df61c61e90caef0a0409a09b7d01a56beb6e107ae4430188617c7058f02a1.zip)
+                 - [**Eixos** (`f4fe1f6`)](http://dl.digital-guard.org/f4fe1f604f927b1d07ae56ec11ea9e3c4c64a4d02c01ce80ad041beadab165dc.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`e2351eb`)](http://dl.digital-guard.org/e2351eb41faf9a25fac0d2bacc4d2e9ffc38ea08ed267b0f16577ab7d3547988.zip)
+                     - via: [**shp** (`4f67e14`)](http://dl.digital-guard.org/4f67e1431fc39680fb17d66bdad5b46106fd7d0714d2632468d3a0fb827270d3.zip)
+                     - parcel: [**shp** (`e6a08e2`)](http://dl.digital-guard.org/e6a08e2a3329f955ec64cb9a874678e0547d97637e2bd61bf9cc391d03386f6e.zip)
+     - BR-PR-Curitiba
+         - Inst. de Pesquisa e Plan Urbano de Curitiba
+             - [_pk0002](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Curitiba/_pk0002.01/make_conf.yaml)
+                 - [**Pontos de endereço** (`a6f6dc4`)](http://dl.digital-guard.org/a6f6dc4a8cd4bd9dcf19104bb409c2164fd07b53818a6e1c28c4aaab94f5c895.zip)
+                 - [**Lotes** (`3b67226`)](http://dl.digital-guard.org/3b67226b43d2093e81204c1ed089eafafe0ffd92ce8fe98bd8db1f45b2e3bfb1.zip)
+     - BR-PR-Maringa
+         - Prefeitura do Município de Maringá
+             - [_pk0110](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Maringa/_pk0110.01/make_conf.yaml)
+                 - [**Num_Predial_14_03_2022.xlsx** (`8884e90`)](http://dl.digital-guard.org/8884e9035116c647376301085809c7cbfb0d44841e1f51035b4b286e8648b05a.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`0f87797`)](http://dl.digital-guard.org/0f8779751ca99bd80e503be02ce6c804b9f02f64fa03a911417d48c0c645a7b1.zip) [**shp** (`cc8a42c`)](http://dl.digital-guard.org/cc8a42ca5589ed9da58b6530dad24c012a30aaa9d0d413e792d9107a71d09ca5.zip)
+     - BR-PR-Pinhais
+         - Prefeitura Municipal de Pinhais
+             - [_pk0014](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Pinhais/_pk0014.01/make_conf.yaml)
+                 - [**Lotes** (`56d3236`)](http://dl.digital-guard.org/56d32368409f4ba2c99afadc7ad307bd8cc660b93d38e57936da313fafde1f13.rar)
+                 - [**Eixos** (`27c0c46`)](http://dl.digital-guard.org/27c0c467222a668837f62e9f40ac85f94685ea50f3d655207384f2343d13f573.rar)
+                 - [**Bairros** (`7d96c19`)](http://dl.digital-guard.org/7d96c19771ca271623058eeb9fdc4ceb67ff68c3937a7b66e7ccdb1a4e6580fb.rar)
+                 - Filtrados:
+                     - parcel: [**shp** (`c8397de`)](http://dl.digital-guard.org/c8397de1108982fc97debea48d450bf61d7e3d97b8dbc9b66f981b20cced7256.zip)
+                     - via: [**shp** (`2b30d78`)](http://dl.digital-guard.org/2b30d78fe7cc0768dd97a2064ab24dbeeeeff73840c9523133d64b5a7ea8eff9.zip)
+                     - nsvia: [**shp** (`fcf107c`)](http://dl.digital-guard.org/fcf107cd2d7313e3a5f5c3637f7c27faee17033a92e1d3dffce60c1491b37766.zip)
+     - BR-PR-Toledo
+         - Prefeitura Municipal de Toledo
+             - [_pk0079](http://git.digital-guard.org/preserv-BR/blob/main/data/PR/Toledo/_pk0079.01/make_conf.yaml)
+                 - [**Bairros** (`54e8c96`)](http://dl.digital-guard.org/54e8c962d93c5075b58656b0d935889e21ea340f97c0603be1ef5f1ee07d6805.zip)
+                 - [**Logradouros** (`497e972`)](http://dl.digital-guard.org/497e972dd7415c9465e32e95d87d88d927327d5469d3c4f5a2aac306b6966404.zip)
+                 - [**Geoendereços** (`e17bb96`)](http://dl.digital-guard.org/e17bb963a4bf4f48743c5a60ac6ab91a88b6aff8b3ef7045a34bde155dbef1b9.zip)
+                 - [**Quadras** (`6cf7e47`)](http://dl.digital-guard.org/6cf7e47ce736468fb740f4f6f884464e81f8ff3a9682f92c38d041825ebb4a39.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`ddf8069`)](http://dl.digital-guard.org/ddf806970627925a887c4434c5013754fb52845786786669a5b2fceabd7e7f5f.zip) [**shp** (`10ac8e9`)](http://dl.digital-guard.org/10ac8e9dc482d9fc7ac7a73e66512f366c2086f3d1e72e876d759eb153ccbdb1.zip)
+                     - via: [**shp** (`0910273`)](http://dl.digital-guard.org/0910273b5341e4b0350a4ab798fae73b55c8e4a2251cf84ae29bb7fa90284a5a.zip)
+                     - nsvia: [**shp** (`1660e8f`)](http://dl.digital-guard.org/1660e8fff6ae41c9dbb4fab549704d078047e7b9a55ce6b991e7b3086ee84841.zip)
+                     - block: [**shp** (`00c54d4`)](http://dl.digital-guard.org/00c54d4fd38d387861666971bb196f2cd6dbec9a1609d0319b3106cc96635ce4.zip)
+     - BR-RJ-Niteroi
+         - Prefeitura Municipal de Niterói
+             - [_pk0016](http://git.digital-guard.org/preserv-BR/blob/main/data/RJ/Niteroi/_pk0016.01/make_conf.yaml)
+                 - [**** (`39d3495`)](http://dl.digital-guard.org/39d34950c7c61a89cfc2b4d70b0b34a85b346b41741331009205de0f06c86805.zip)
+                 - [**** (`5f7e5ec`)](http://dl.digital-guard.org/5f7e5ecf8e15a9c13323cb9f4fddadee80eb3e253bcc270dc8c134400af3a8b2.zip)
+                 - [**** (`4bde69d`)](http://dl.digital-guard.org/4bde69d0057c0785598f98963fdae3dc90420fb8f163652d70b659210da0ae2b.zip)
+                 - [**** (`fd0fcfd`)](http://dl.digital-guard.org/fd0fcfd937ee3d20620862cce6e870679518f4756063f3045c7f65e6b9ca9981.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`4236712`)](http://dl.digital-guard.org/423671252ea9af63fc1ac0641334cce49480a9c7838c474ce79da05b7f1e5354.zip)
+                     - via: [**shp** (`b33405f`)](http://dl.digital-guard.org/b33405f84fcef9a242c39f353071dd191114012ea0cb97dd3bdf0806cd990b39.zip)
+                     - nsvia: [**shp** (`93d8969`)](http://dl.digital-guard.org/93d89691b0dafd7165a2c39f42f855fafbf82c79e93c1dbb0ccdce00aefa1f7d.zip)
+     - BR-RJ-RioJaneiro
+         - Prefeitura da Cidade do Rio de Janeiro
+             - [_pk0078](http://git.digital-guard.org/preserv-BR/blob/main/data/RJ/RioJaneiro/_pk0078.02/make_conf.yaml)
+                 - [**Lotes** (`c2febb1`)](http://dl.digital-guard.org/c2febb1aa33dcf75c3a23f36c6c535e7223f219e1b71fa1121cf278623961a01.zip)
+                 - [**Quadras** (`6daa65d`)](http://dl.digital-guard.org/6daa65d15bbda6b9d9959daf8d43c2063ed0410b643870c24d22af4fd149032d.zip)
+                 - [**Bairros** (`ea44a4e`)](http://dl.digital-guard.org/ea44a4e799c709b77e0de02ca98c67895246bccc4634940c77e5e82ce1b61f31.zip)
+                 - [**Logradouros** (`cbf1efd`)](http://dl.digital-guard.org/cbf1efdbbdbc96f0c012556ff36040d8314564d300f9c53aaef8b49f0b8000c9.zip)
+                 - [**Numero de Porta** (`ca3372b`)](http://dl.digital-guard.org/ca3372bbecd51a34481c39af3c194db84c3fd6b578a14f58aa8f787d3f86caf4.rar)
+                 - Filtrados:
+                     - geoaddress: [**shp** (`c8df944`)](http://dl.digital-guard.org/c8df944409b6b6a5ebfe2fdd1c5fc9bd2fc3db05dfe445945ca4fc63e1e564b1.zip) [**csv** (`b3e49ae`)](http://dl.digital-guard.org/b3e49aee382ff812362bce08d96e9dd467a19fa7bbd441ff8f7e7fe8756bbc2b.zip)
+                     - via: [**shp** (`aadda5e`)](http://dl.digital-guard.org/aadda5e092c4bb42c55df97ede8bfac7b34f28485abee7be29085a51e9368dd7.zip)
+                     - nsvia: [**shp** (`f22670e`)](http://dl.digital-guard.org/f22670edc4d7c1d340316017494b2ed0ae0bb6db0e2ca77255600593fcf827ac.zip)
+                     - block: [**shp** (`76942ef`)](http://dl.digital-guard.org/76942ef3675eeee0ef21f989b1b73d1dbca8291a3cbb9623c3154d835f2ca7c2.zip)
+     - BR-RN-Natal
+         - Prefeitura Municipal de Natal
+             - [_pk0073](http://git.digital-guard.org/preserv-BR/blob/main/data/RN/Natal/_pk0073.01/make_conf.yaml)
+                 - [**Bairros** (`2abd24a`)](http://dl.digital-guard.org/2abd24ace6842e2257f9e89bc7137de259ab9a1ea6175b3486911b99fca6dfdc.zip)
+                 - [**Lotes** (`4fb50d5`)](http://dl.digital-guard.org/4fb50d5099297049dab0406a2ff86b78328062b2834b7a6943e256c9dd82cb31.zip)
+                 - [**Logradouros** (`3939095`)](http://dl.digital-guard.org/3939095828b4c0ec81efbcfca8f718d33e503dd8689e06d624c7957ba7fbb918.zip)
+                 - [**Quadras** (`63f2657`)](http://dl.digital-guard.org/63f265730d08e440bbfaf630a78c053968ee7ec12447b19af9554f5a8a78614f.zip)
+                 - [**Edificações** (`2a51813`)](http://dl.digital-guard.org/2a5181306cd0b82550fa9901efd9dfa8d2865a053537c5ab6b784b06edbbd568.zip)
+                 - Filtrados:
+                     - block: [**shp** (`3d2f9ca`)](http://dl.digital-guard.org/3d2f9ca52057990d6e2adde66386ec8ee8d0f8f391718989bbdc7b186e8e37a9.zip)
+                     - building: [**shp** (`72b46d1`)](http://dl.digital-guard.org/72b46d1c9002e056eb35a70e23c0e105d12ea0a5bd941d4e71448a9b9761a57f.zip)
+                     - nsvia: [**shp** (`5f3d729`)](http://dl.digital-guard.org/5f3d729d87009bb76b82515d0d87011b5983bb9098cb8872aa59f7017b579326.zip)
+                     - parcel: [**shp** (`de53dfc`)](http://dl.digital-guard.org/de53dfc33a26e8a84e2c31e3d02dc4242117d48238b4426eb7eae7287de2b1bb.zip)
+                     - via: [**shp** (`1f7446b`)](http://dl.digital-guard.org/1f7446b4168eb12bac6535f875a292723fcd4e4a766772a2cfaf99e7470326c2.zip)
+     - BR-RO-JiParana
+         - Prefeitura Municipal de Ji-Paraná
+             - [_pk0062](http://git.digital-guard.org/preserv-BR/blob/main/data/RO/JiParana/_pk0062.01/make_conf.yaml)
+                 - [**Geo-endereços** (`67f980e`)](http://dl.digital-guard.org/67f980eb940a57a8f4e40b8e15be9b4b65162aa9afe27d0a89f826047f9b9039.zip)
+                 - [**Logradouros** (`910851a`)](http://dl.digital-guard.org/910851a581a1eefe4a3a8534ffd46ac6ad11e998fcf7c6ebf624700b885a4b01.zip)
+                 - Filtrados:
+                     - via: [**shp** (`271f339`)](http://dl.digital-guard.org/271f3390764fad61e1803e8067b06b888b662039e22b1c5195e394cb3e4fae84.zip)
+                     - parcel: [**shp** (`fa1be9a`)](http://dl.digital-guard.org/fa1be9a170789d8c2f3bec54b9b7b69502ed4b4319062511eb56ab7f1d279581.zip)
+     - BR-RS-Bage
+         - Prefeitura Municipal de Bagé
+             - [_pk0082](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Bage/_pk0082.01/make_conf.yaml)
+                 - [**quarteirões** (`47063f9`)](http://dl.digital-guard.org/47063f994f552e27c3b528fcc60cb03e36923b6875dd862dc54062e0ecb3bf60.zip)
+                 - [**LOGRADOUROS** (`e77fe6f`)](http://dl.digital-guard.org/e77fe6f601a65e46244bc70b4f19008ad4ce3b1db36fafbaed2a248429504e81.zip)
+                 - [**LOTES** (`7fc034a`)](http://dl.digital-guard.org/7fc034ac5c703dcfe93567bd5196ce6eba22df7b779b15ca713b026e85f64759.zip)
+     - BR-RS-Canoas
+         - Prefeitura Municipal de Canoas
+             - [_pk0076](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Canoas/_pk0076.01/make_conf.yaml)
+                 - [**Bairros** (`62972bc`)](http://dl.digital-guard.org/62972bc1f5accf55c5ea97f9154f246a111cde13c4da881798668e12b0a03a41.zip)
+                 - [**Vias** (`8dd9b6e`)](http://dl.digital-guard.org/8dd9b6e7e03435fd0adb687313f754cfd76488f13a4b3cfdcc17a4b8c317be87.zip)
+                 - [**Quadras** (`23916ae`)](http://dl.digital-guard.org/23916aea28282c1c2485ff18fa561728bcfc087c2999d9a9575658e32a66f782.zip)
+                 - [**Lotes** (`4f5971a`)](http://dl.digital-guard.org/4f5971ab149c0d936a315fff94fdd8ee5fb2410f2a472b3eaf0d33666ee1043d.zip)
+                 - [**Edificações** (`6536687`)](http://dl.digital-guard.org/6536687209661fd36ce85976660e736b76cb2597c9a6402df810fe623aa2e569.zip)
+     - BR-RS-CaxiasSul
+         - Prefeitura Municipal de Caxias do Sul
+             - [_pk0069](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/CaxiasSul/_pk0069.01/make_conf.yaml)
+                 - [**Via** (`09e01c7`)](http://dl.digital-guard.org/09e01c7ab557f61a35999b32585f72059e983600606ea2870e1520e284815165.zip)
+                 - [**Bairros** (`17c3cf7`)](http://dl.digital-guard.org/17c3cf7a5fc8429b79ab09193162a627ef9d93123f7b31e1f51435ef1a8c028c.zip)
+                 - [**Eixos** (`ca028e7`)](http://dl.digital-guard.org/ca028e7824a7489c9a406884b78fe83dfbc72f15471bd9651e636d8a8d2afd3a.zip)
+                 - [**Quadras** (`a9d2db6`)](http://dl.digital-guard.org/a9d2db675520121d4ed84084ae868d5868cbfc7516a8266eee30a15c651474dd.zip)
+                 - [**Endereço** (`58858f6`)](http://dl.digital-guard.org/58858f634229c4d857ad8bf774758f6051357b365c15d9a75cdf778cde2f65f6.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`e548fb8`)](http://dl.digital-guard.org/e548fb8d51488b0c432d94f9cf7d018d55b80af5e68630a983a09a9a08b6e9c8.zip)
+                     - via: [**shp** (`124a443`)](http://dl.digital-guard.org/124a443d60d31d94643d2d58b442ac6ca9f2833cf8faa52c8b88cd17962c7d97.zip)
+                     - parcel: [**shp** (`f034a43`)](http://dl.digital-guard.org/f034a4397c1df4ce5f9072cf375620aaa73dc88de5b3e00dc09efb545790d356.zip)
+                     - block: [**shp** (`41d1f50`)](http://dl.digital-guard.org/41d1f5062b823b768f158db51fa69b22326d6aabbae34083abb35d153a134436.zip)
+     - BR-RS-Gravatai
+         - Prefeitura Municipal de Gravataí
+             - [_pk0017](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Gravatai/_pk0017.01/make_conf.yaml)
+                 - [**Lotes e Eixos** (`d101e72`)](http://dl.digital-guard.org/d101e729d51ddfc33e4a866684074487c5a2601c7c84d4eca01ff9bbca186cda.rar)
+                 - [**Loteamentos** (`1ad6696`)](http://dl.digital-guard.org/1ad669693352407105ccdeb37a4398d62b0accb25888122c84afe2788c121c7b.rar)
+                 - Filtrados:
+                     - parcel: [**shp** (`98ee542`)](http://dl.digital-guard.org/98ee542d7c453dd5ba7c46e31865426de14b5e341da795cdc6600b4f9e457161.zip)
+                     - via: [**shp** (`8a38ac0`)](http://dl.digital-guard.org/8a38ac0900122cf8221f5fefcc4f9452587333d25aae11cd89fd04fc193a8832.zip)
+                     - nsvia: [**shp** (`730f6ba`)](http://dl.digital-guard.org/730f6ba80ca89e4b38a34ddb7e92652b73c22ad23b2fa3f817a1d1bd113f2ce6.zip)
+     - BR-RS-Pelotas
+         - Prefeitura Municipal de Pelotas
+             - [_pk0080](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/Pelotas/_pk0080.01/make_conf.yaml)
+                 - [**Todos os arquivos** (`3c69a4b`)](http://dl.digital-guard.org/3c69a4bf2fa9cce1b701968f6c970230e51ee2a656f7168f384f5066a05eaba2.zip)
+                 - Filtrados:
+                     - geoaddress: [**shp** (`a84178a`)](http://dl.digital-guard.org/a84178a5fd090100abf73327e9a1f3bd292398b64f399fc7209d3d23f06df56d.zip) [**csv** (`f3ade38`)](http://dl.digital-guard.org/f3ade38df86261b79a30efa9cd67c0bf6aa6818667d16057e94e42c3ed5fd9d0.zip)
+                     - parcel: [**shp** (`de1a34c`)](http://dl.digital-guard.org/de1a34cef89da504ffd2095dd3d056f886b5c8b771cd82cd391f857fc7318a4c.zip)
+                     - via: [**shp** (`bc37719`)](http://dl.digital-guard.org/bc377192bb08b434f069d92248a609d438607afbb65be2243a8df67c875eda01.zip)
+     - BR-RS-PortoAlegre
+         - Prefeitura Municipal de Porto Alegre
+             - [_pk0018](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/PortoAlegre/_pk0018.01/make_conf.yaml)
+                 - [**Bairros** (`2587724`)](http://dl.digital-guard.org/258772459588f7941ac6eeda7c6839df02d58741cf6bc3e48825aecd60418251.zip)
+                 - [**Eixos** (`c35e3b2`)](http://dl.digital-guard.org/c35e3b2825d3da122a74c6c8dd5f3157a3bd6201208d2a6d13dec433a6ded9fc.zip)
+                 - [**Imóveis** (`fbc62ef`)](http://dl.digital-guard.org/fbc62efdbd0f16a7db03b5b775c50c9425367a8dee8a85d9b53e4475bbdb99d2.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`1705d15`)](http://dl.digital-guard.org/1705d156079eb013b4d74d7010db4f0455bb0da464c0cdab23fe28d28c108827.zip) [**shp** (`8b4797f`)](http://dl.digital-guard.org/8b4797f29f8bd82904d06bb2070d595de4d20bac2f2fb5ba8213a85fe4c86250.zip)
+                     - nsvia: [**shp** (`ae59407`)](http://dl.digital-guard.org/ae5940706033331040edd51074fcfef4750d53c189786cc9cea07054069da7fd.zip)
+                     - via: [**shp** (`0c95a74`)](http://dl.digital-guard.org/0c95a749497a17b68a984238020756204224545f26a2560e6328988a4057852c.zip)
+     - BR-RS-SantaCruzSul
+         - Prefeitura Municipal de Santa Cruz do Sul
+             - [_pk0064](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/SantaCruzSul/_pk0064.01/make_conf.yaml)
+                 - [**Bairros** (`8cfffc8`)](http://dl.digital-guard.org/8cfffc8d4ab052dd653748fd22c52ad708609e8c3c30283f57a7b2627fbf8aca.zip)
+                 - [**Quadras** (`a3eab1a`)](http://dl.digital-guard.org/a3eab1ae42ce304d9bbd119ebb769b6c93c40f04b1f09c6e0e9ec322320da7ff.zip)
+                 - [**Lotes** (`3b4634f`)](http://dl.digital-guard.org/3b4634f38fafd4d3a779b1f7a1075ab2fd6b951509290849f26813319920b2fa.zip)
+                 - [**Vias** (`5c7bc9d`)](http://dl.digital-guard.org/5c7bc9d5d753681db743235e647cb653efe34404aad61b040af89cc2ec68bbe2.zip)
+     - BR-RS-SantaMaria
+         - Prefeitura Municipal de Santa Maria
+             - [_pk0019](http://git.digital-guard.org/preserv-BR/blob/main/data/RS/SantaMaria/_pk0019.01/make_conf.yaml)
+                 - [**Bairros** (`9600dcb`)](http://dl.digital-guard.org/9600dcba403c8dc0b066c8f429507e4672966a01c93119923f75361a6ebc64c0.zip)
+                 - [**Eixos** (`f4d3819`)](http://dl.digital-guard.org/f4d3819f9853e85e43bf7a58de7f257eed5f63bcf36daed1c4db0f2701544adc.zip)
+                 - [**Lotes** (`51a6beb`)](http://dl.digital-guard.org/51a6beb9fca43e0fb45727138982f7806b8df52fce53f5e0e31edd61bfbc21b9.rar)
+                 - Filtrados:
+                     - parcel: [**shp** (`5b209d0`)](http://dl.digital-guard.org/5b209d069b9c3a142e5240454034eb22b1f27a6395f8eefa4c4dbdd0ecadd63a.zip)
+                     - block: [**shp** (`2ca8ff6`)](http://dl.digital-guard.org/2ca8ff6f5e03d44be0bee4ab07c453e3c65e709c2ade8f86f55728267cee5590.zip)
+                     - nsvia: [**shp** (`89e8a47`)](http://dl.digital-guard.org/89e8a4738e7a19de4a237f36ead6d3b663d7171d85865e88b11536b71ae0e973.zip)
+                     - via: [**shp** (`2285bbd`)](http://dl.digital-guard.org/2285bbd123e9d55d4a3311f7fbd7be3d9b3a09b639d6400cdc67b64a2869681f.zip)
+     - BR-SC-Florianopolis
+         - Instituto de Pesquisa e Planejamento Urbano de Florianópolis
+             - [_pk0053](http://git.digital-guard.org/preserv-BR/blob/main/data/SC/Florianopolis/_pk0053.01/make_conf.yaml)
+                 - [**Multiplos arquivos** (`49c6dd8`)](http://dl.digital-guard.org/49c6dd8968a97b80ddd50f37db3204ae63278f7a9cda94fa35b03429d53a96a6.rar)
+                 - [**Lotes** (`cb4f94b`)](http://dl.digital-guard.org/cb4f94bedbafd003b4791954e07b05a591a36bbace9cd6ca6576ed840b32bd8c.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`0bfb2b8`)](http://dl.digital-guard.org/0bfb2b83a6302304d72344e82323853d6ecfb20f9d08d8a1e7b35b89752636ee.zip)
+                     - via: [**shp** (`6bebae6`)](http://dl.digital-guard.org/6bebae6f34bdceb8453f807d2020a906eed2e336a271cdebd61c388fa58ca35f.zip)
+                     - parcel: [**shp** (`6ad3bdb`)](http://dl.digital-guard.org/6ad3bdb1328efa9104252715742c04ea61479d2e3128de1f5254caa6105f2b24.zip)
+     - BR-SC-Itajai
+         - Município de Itajaí
+             - [_pk0141](http://git.digital-guard.org/preserv-BR/blob/main/data/SC/Itajai/_pk0141.01/make_conf.yaml)
+                 - [**Lotes e logradouros** (`b69cef9`)](http://dl.digital-guard.org/b69cef94c0fad1a99013289fd30eb3ad0d612e227547f1a95cbd104716980263.rar)
+     - BR-SC-Joinville
+         - Prefeitura Municipal de Joinville
+             - [_pk0035](http://git.digital-guard.org/preserv-BR/blob/main/data/SC/Joinville/_pk0035.01/make_conf.yaml)
+                 - [**Lotes** (`3d4a6f5`)](http://dl.digital-guard.org/3d4a6f528249d062a0bcfb18aa6c115828bb651a164617489c14017b6433c02a.zip)
+                 - [**Eixos** (`207c82a`)](http://dl.digital-guard.org/207c82a3f2fa79f943c7b393b0e4fe636ff60305302f9c64c8364851fc6bf6c2.zip)
+                 - Filtrados:
+                     - block: [**shp** (`6eb292a`)](http://dl.digital-guard.org/6eb292a78da3b8425ae1d6cc6422d8ed52a3da0156fc6fe1705629d773a8e158.zip)
+                     - parcel: [**shp** (`977f9f3`)](http://dl.digital-guard.org/977f9f35ac24ff67b2fd9ac1ef50494f2ad26dd6a78421e538a7add60e75cc4a.zip)
+                     - via: [**shp** (`13d345d`)](http://dl.digital-guard.org/13d345dddbc5eae2841f6801d2dd98835a36e9b354b0bc7c8f6641e31c3d0ae1.zip)
+     - BR-SP-Atibaia
+         - Prefeitura da Estância de Atibaia
+             - [_pk0021](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Atibaia/_pk0021.01/make_conf.yaml)
+                 - [**Logradouros** (`0a7fedd`)](http://dl.digital-guard.org/0a7fedd6e8e30541f706fa7f77166a183a3cc43d2b1d3d3d0a8d3fb7f077e804.zip)
+                 - [**Lotes** (`b6221fa`)](http://dl.digital-guard.org/b6221fa57754ec8c4db284591a6ceeea7acf986eb215b2e521647e32fb175488.zip)
+                 - [**Edificações** (`6d74157`)](http://dl.digital-guard.org/6d741572b6c31ffd82cf004b92fa98056545df805bcb64afba5e7b26e32b62ab.zip)
+     - BR-SP-Cabreuva
+         - Prefeitura Municipal de Cabreúva
+             - [_pk0040](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Cabreuva/_pk0040.01/make_conf.yaml)
+                 - [**Edifícios** (`28ad2ba`)](http://dl.digital-guard.org/28ad2bab16b023135e52a101d2e1ddf3337806de3922599a10598b9f2131e3d2.zip)
+     - BR-SP-Campinas
+         - Prefeitura Municipal de Campinas
+             - [_pk0022](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Campinas/_pk0022.01/make_conf.yaml)
+                 - [**Pontos de lotes** (`6bb020e`)](http://dl.digital-guard.org/6bb020e023ffd10570d887f907fdad909eecde1003c8911ef64ac63d48f5fe8b.zip)
+                 - [**Eixos** (`b594f87`)](http://dl.digital-guard.org/b594f8717d9912e25938029f8ac55eb5842b561ff29d9768c5b77489945a9c1c.zip)
+                 - Filtrados:
+                     - via: [**shp** (`2db0f9c`)](http://dl.digital-guard.org/2db0f9cf7c57b3dc3b52fb1cde6966b0951beecdc4d92f6622ed669d0e184a29.zip)
+                     - geoaddress: [**csv** (`9821b57`)](http://dl.digital-guard.org/9821b57d1beb3e4fbc35cfd1dd9cacd21d25d8e1d43e4ef6f3d3de55791b164a.zip) [**shp** (`9838f63`)](http://dl.digital-guard.org/9838f63641e12cba5a12aa831ec9875f43a74b968bcf4f6e7e1513102f71a5bf.zip)
+     - BR-SP-Guarulhos
+         - Prefeitura de Guarulhos
+             - [_pk0081](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Guarulhos/_pk0081.01/make_conf.yaml)
+                 - [**Logradouros** (`47910ad`)](http://dl.digital-guard.org/47910adcd297a9ba875d89dacc91bc6b2a37d6eab4910964253e117c1484b4c5.zip)
+                 - [**Bairros** (`d9cddc6`)](http://dl.digital-guard.org/d9cddc63f7782d250fc80f0572b9fb884ee7ec1911e19deea4381a4ad5d0a172.zip)
+                 - [**Endereços** (`1641b8c`)](http://dl.digital-guard.org/1641b8c5fe5a2e9141939bb7353bda4fda1ea04d7a631a4d012e4759d1bf8447.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`d37686d`)](http://dl.digital-guard.org/d37686d8356b8cff55c5f9adb99e3684ede893bfa6b8cfbecbc103dd6d546e3e.zip)
+                     - via: [**shp** (`b862ad2`)](http://dl.digital-guard.org/b862ad251d856d2e89800f290f9edae94d4769b9fbea99a5ec3ae77a86937039.zip)
+                     - geoaddress: [**shp** (`ddbc2a9`)](http://dl.digital-guard.org/ddbc2a9cadcd6bf99e842824bbfb59536012b6c180d4147fc180ee42c5cfc9cf.zip) [**csv** (`490c35c`)](http://dl.digital-guard.org/490c35cbb82500e066e53b6cd289bfc5ba47ebfb9b1a17076957a75f609e07b5.zip)
+     - BR-SP-Itanhaem
+         - Prefeitura de Itanhaém
+             - [_pk0058](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itanhaem/_pk0058.01/make_conf.yaml)
+                 - [**Geoaddress** (`78f10da`)](http://dl.digital-guard.org/78f10da32c1dfab83bdbb448884731fffba15a36c88337b122bc6e896a841302.zip)
+                 - [**Lotes** (`7e8269d`)](http://dl.digital-guard.org/7e8269d4c80f9a03cc999a44f028c00dd296868ee26b61f012dc53211e760417.zip)
+                 - [**Vias** (`3137911`)](http://dl.digital-guard.org/3137911874246d45f025f2b98066f1e7a31543332e175e83f433005d131c40fe.zip)
+                 - [**Bairros** (`023071f`)](http://dl.digital-guard.org/023071f87e4bb37e46d42cee7841f3a2119b8f65d2778604af3644f279cf89f1.zip)
+     - BR-SP-Itu
+         - Prefeitura da Estância Turística de Itu
+             - [_pk0024](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itu/_pk0024.01/make_conf.yaml)
+                 - [**lotes_Itu.rar** (`00f40e3`)](http://dl.digital-guard.org/00f40e3731f0e04b8d1050a4716385f412aed5b32b560a47cc321ef4ea5413f8.rar)
+                 - [**LOGRADOURO_2019.rar** (`e10b14c`)](http://dl.digital-guard.org/e10b14c4bfeaa6b40b725acc573a98fba308b72836002af3c7431982b74348f1.rar)
+                 - [**Shapefiles_-_Municipio_de_Itu.rar** (`5041bf5`)](http://dl.digital-guard.org/5041bf52dc6cbd99fb555180a3f34becae8c61352e975f61bfb9c56182e49749.rar)
+                 - Filtrados:
+                     - parcel: [**shp** (`be91a18`)](http://dl.digital-guard.org/be91a188039e0fff27e333416d6d4ae9c98624bab926afd0599887ea85ce68ca.zip)
+                     - via: [**shp** (`901a9e8`)](http://dl.digital-guard.org/901a9e87d7f02709852c9b5e654fac45cdbc96e45e7e3f30ac6014c2c0bc224e.zip)
+                     - block: [**shp** (`d6e09e3`)](http://dl.digital-guard.org/d6e09e3bb69e9bc3492f4614a62b9e2c9f8f4f4cca319a1c9491b204f3c0cdb8.zip)
+                     - building: [**shp** (`290a4da`)](http://dl.digital-guard.org/290a4da1634372c629e3cca79696604b3a4868854c99daac0c660bd03dbccad7.zip)
+     - BR-SP-Jundiai
+         - Prefeitura Municipal de Jundiaí
+             - [_pk0025](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Jundiai/_pk0025.01/make_conf.yaml)
+                 - [**Edificações** (`512fe4c`)](http://dl.digital-guard.org/512fe4c44525a211c68415da0ab06d565a6ba3653739809d46404d6653ce5064.zip)
+                 - [**Bairros** (`7995d41`)](http://dl.digital-guard.org/7995d41f628e31599f80b367650d363f47e75e1515be9fefabefca91189608a5.zip)
+                 - [**Lotes** (`4c4a156`)](http://dl.digital-guard.org/4c4a1565e1f7d5675ff2d546d0e6a85acd7bbaa018503601dd07e1be80dee130.zip)
+                 - [**Eixos** (`062c98c`)](http://dl.digital-guard.org/062c98c3fc074c76a5ff8d1bb3ad97b120d4a60d2e75c835fd6ff096f466da58.zip)
+     - BR-SP-Limeira
+         - Prefeitura Municipal de Limeira
+             - [_pk0026](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Limeira/_pk0026.01/make_conf.yaml)
+                 - [**Quadras, bairros, lotes e vias** (`529f86b`)](http://dl.digital-guard.org/529f86b71a936bfdbca3d633b80912f496b9c94a2505ef816e406e2362b631c4.zip)
+                 - Filtrados:
+                     - block: [**shp** (`d9d15b4`)](http://dl.digital-guard.org/d9d15b469108654d5722f62a7789428d5c0ade7ab18ebf57a0e827f63840418a.zip)
+                     - nsvia: [**shp** (`d9fc13f`)](http://dl.digital-guard.org/d9fc13f1d8c77ba967506872d69f95a632fd0caabff3e0d266d2439ea58434c6.zip)
+                     - parcel: [**shp** (`92acd8a`)](http://dl.digital-guard.org/92acd8a0caf0c9b2bc8d7ff3680ea9e53f193334a39f78791b28662472663fa6.zip)
+                     - via: [**shp** (`3328a07`)](http://dl.digital-guard.org/3328a077e7a0cdba3defa1df6b79ac0ce24445950db651cbb18c5e21338390a6.zip)
+     - BR-SP-Osasco
+         - Prefeitura Municipal de Osasco
+             - [_pk0028](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Osasco/_pk0028.01/make_conf.yaml)
+                 - [**entrega_2020-10-02_recorte.zip** (`0332a2f`)](http://dl.digital-guard.org/0332a2f00b8cd344818b1b734859c44c7d6b7604d347ce1619455d9bf2629d64.zip)
+                 - [**entrega_2020-11-04.zip** (`aa41214`)](http://dl.digital-guard.org/aa41214cef0417fb400b83c2e196fb01d7be3688a560c36cac6e2c54cfa0502a.zip)
+                 - Filtrados:
+                     - block: [**shp** (`751e2c2`)](http://dl.digital-guard.org/751e2c2e4e77eeee33753c8b10086435be30e3485f4d5c0a281363ba58e7eb0d.zip)
+                     - parcel: [**shp** (`91e40dd`)](http://dl.digital-guard.org/91e40dd73ff9bb2dc5d06749f141df81b796229fabbf40f004927a7e45709f69.zip)
+                     - via: [**shp** (`693d41f`)](http://dl.digital-guard.org/693d41f2f345f2f1248c2c9e5dc02a54616a6be81d3c86f3abbdf7d3a7c108a2.zip)
+                     - nsvia: [**shp** (`ca90591`)](http://dl.digital-guard.org/ca9059195d945b849f59bf1463eae638d68ae4afd6b157aecd4e486b4f335941.zip)
+     - BR-SP-Piracicaba
+         - Prefeitura Municipal de Piracicaba
+             - [_pk0041](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Piracicaba/_pk0041.01/make_conf.yaml)
+                 - [**Quadras** (`23f703b`)](http://dl.digital-guard.org/23f703b7d1611ea29f53fe3bd2617a5939fe96d21453004838d7fe61064dae45.zip)
+                 - [**Lotes** (`f40eeaa`)](http://dl.digital-guard.org/f40eeaa6fe4f78e52be084392cc9c04d07a95112f7fb2acaf3210fd23fbdf4a8.zip)
+                 - [**Bairros** (`2137f68`)](http://dl.digital-guard.org/2137f68df828ce00c276a38b969cd651efcc2f8300f9fb4a716b6fd10019862f.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`3132a58`)](http://dl.digital-guard.org/3132a58e99ae54b68ec15fb6f8547b9fd8e4c5e9c6542d81cb3edaeae03c0d7f.zip)
+                     - block: [**shp** (`356bb99`)](http://dl.digital-guard.org/356bb9986d8f98ef3b9573b1933a72053246af8a111e27f1782520b1ae252a6d.zip)
+                     - nsvia: [**shp** (`6b6c8ad`)](http://dl.digital-guard.org/6b6c8ad483e6e3d32c8de1164351fafc546295efaa21567fab440ff88025803f.zip)
+     - BR-SP-RibeiraoPreto
+         - Prefeitura Municipal de Ribeirão Preto
+             - [_pk0052](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/RibeiraoPreto/_pk0052.01/make_conf.yaml)
+                 - [**Todos os shapes** (`6cd0d4b`)](http://dl.digital-guard.org/6cd0d4b475e61b8cbd078787ea8b38ebdd051a1def026ca476d4a83d40354738.zip)
+                 - Filtrados:
+                     - block: [**shp** (`d906c9e`)](http://dl.digital-guard.org/d906c9eacbbd6ab2b26f38331ebc94f9eda871a53dc2dc87c8ac3c3f15713716.zip)
+                     - parcel: [**shp** (`c659b75`)](http://dl.digital-guard.org/c659b75611c1106f28a614f22cea201459a02f0c8bc3965700130ecac06ac25b.zip)
+                     - via: [**shp** (`fafe570`)](http://dl.digital-guard.org/fafe5703af0a3e4cf7917679a9097cd75ef83de02f7e20a070aae008460752aa.zip)
+     - BR-SP-Santos
+         - Prefeitura Municipal de Santos
+             - [_pk0029](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.01/make_conf.yaml)
+                 - [**Pontos de endereço** (`b192fba`)](http://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`811a72b`)](http://dl.digital-guard.org/811a72b151bb5920b0e28b53bcfee10201d16deb744e1ac357585ba8296783dd.zip) [**shp** (`a9aaec9`)](http://dl.digital-guard.org/a9aaec9ce195b7a0203493da98f7cd73b1008f85dd8f8dc25137a83655a578d2.zip)
+     - BR-SP-SaoBernardoCampo
+         - Prefeitura Municipal de São Bernardo do Campo
+             - [_pk0030](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01/make_conf.yaml)
+                 - [**Bairros** (`350b605`)](http://dl.digital-guard.org/350b605174967b94ef49ce1bbac0352dd76e2175e5eae1b8e5b730cd9950d133.zip)
+                 - [**Eixos** (`3269bac`)](http://dl.digital-guard.org/3269bacc09d450b4d7496a2bc749ece94b1f48462ba0aae70d902404256bc433.zip)
+                 - [**Lotes** (`d498540`)](http://dl.digital-guard.org/d4985405060cc1887962a4278b4d68ada6ffd3ed72f296bd72d65abc4897cd2d.zip)
+                 - [**Pontos de endereço** (`22ecd5e`)](http://dl.digital-guard.org/22ecd5ef4ca76adef213fa422d9b5e4198f0667df598c511c30e512bb10aaedd.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`5c05c66`)](http://dl.digital-guard.org/5c05c661ec0864b495e0f84eb6cc878b392ce25dbc99d185c9dcc364667cce9e.zip) [**shp** (`23daf4a`)](http://dl.digital-guard.org/23daf4aa1d01f73830a1470dd987d087e1144ce507ab304867519daaafa9edb2.zip)
+                     - parcel: [**shp** (`8837afc`)](http://dl.digital-guard.org/8837afc6d329fbe8053bab1444618460ebc2a880b90acf0cabeda1939f933aac.zip)
+                     - via: [**shp** (`9d1c12c`)](http://dl.digital-guard.org/9d1c12ccbbe2c183f80d305b77daef20515227a8179a1a2ce200fdb74963bcbb.zip)
+                     - nsvia: [**shp** (`cada05a`)](http://dl.digital-guard.org/cada05a2fe476f606337293a475352c3f9b0e458b2de619d937123a6cb3d27c8.zip)
+     - BR-SP-SaoPaulo
+         - Prefeitura Municipal de São Paulo
+             - [_pk0033](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoPaulo/_pk0033.01/make_conf.yaml)
+                 - [**Endereços** (`75c003c`)](http://dl.digital-guard.org/75c003ca72fd92a2cd2146518c8bd69b6396dd1ee70d5e94c81107e27b498c12.zip)
+                 - [**Lotes** (`bae2054`)](http://dl.digital-guard.org/bae2054448855305db0fc855d2852cd5a7b369481cc03aeb809a0c3c162a2c04.zip)
+                 - [**Edifícios** (`8e7be76`)](http://dl.digital-guard.org/8e7be760f94bb385bb1b6a47feee3afce9c0fcf48317b554834a5ac30bc5a0cf.zip)
+                 - [**Quadras** (`0f72435`)](http://dl.digital-guard.org/0f724350c2511ec58873a9dcaeec51a6756f9258b2b4ecd953884198e0350cbc.zip)
+                 - [**Eixos** (`ef12421`)](http://dl.digital-guard.org/ef12421332aca1f53484084ab50bdca48d243ba1d9593ebfd873a1af2ab86556.zip)
+                 - Filtrados:
+                     - building: [**shp** (`113286c`)](http://dl.digital-guard.org/113286ca03de37d674c48c1a0dff7aea953c7039d22b2ceae98f763adeae90eb.zip)
+                     - parcel: [**shp** (`f97fa7a`)](http://dl.digital-guard.org/f97fa7ab8d88d992173fc2024a7038aa893c45fd2932010616c51b6df1c7b56b.zip)
+                     - via: [**shp** (`1fb11b7`)](http://dl.digital-guard.org/1fb11b7be74a2eca5ccc0fdb4bd4bf062f4114c520e7aadf2572330a59187103.zip)
+                     - block: [**shp** (`e2916a7`)](http://dl.digital-guard.org/e2916a7d4f811b927a57f9e88142c9b824a5fcfde2ccb4202da7be9c4827b1ce.zip)
+     - BR-SP-SaoVicente
+         - Prefeitura Municipal de São Vicente
+             - [_pk0032](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoVicente/_pk0032.01/make_conf.yaml)
+                 - [**Pontos de Endereço** (`3d5bc83`)](http://dl.digital-guard.org/3d5bc83bbbfd7e28857d36e6cf9df06bcd1d9de257018d684a3dd91608c55742.zip)
+                 - Filtrados:
+                     - geoaddress: [**csv** (`9e69d97`)](http://dl.digital-guard.org/9e69d972c285f15cf3e8dd49768937eb40a28395c3b474c1bedf303a467664d0.zip) [**shp** (`4a07dd2`)](http://dl.digital-guard.org/4a07dd245ec478bfc84dd213c06112199bd89716c1238f49bc080ee59b47ef78.zip)
+     - BR-SP-Sorocaba
+         - Prefeitura Municipal de Sorocaba
+             - [_pk0031](http://git.digital-guard.org/preserv-BR/blob/main/data/SP/Sorocaba/_pk0031.01/make_conf.yaml)
+                 - [**Lotes** (`3c89fd7`)](http://dl.digital-guard.org/3c89fd728a33d781a60088e8b384295e92e70c96b6c9fed78bd4f36f819df67a.zip)
+                 - [**Eixos** (`f880241`)](http://dl.digital-guard.org/f88024120a0355a4a9c5ee990c31a41a031a06c25e82eca5e7320d00030edb36.zip)
+                 - Filtrados:
+                     - parcel: [**shp** (`a436c9a`)](http://dl.digital-guard.org/a436c9ac97592b73c9950256346f003cce25dc24879635ced9a7f125baa7f419.zip)
+                     - via: [**shp** (`b7275d0`)](http://dl.digital-guard.org/b7275d09bf39d7165f5f9014736ebccb32d7df51f22b5411bc1463d18fb941a0.zip)
 * Chile (CL)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-CL/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`6d8c795`)](http://dl.digital-guard.org/6d8c79528bfc76af89482d009139b82bfcf2729aebc58368d00a7d3b7af4ca1e.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-CL/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`6d8c795`)](http://dl.digital-guard.org/6d8c79528bfc76af89482d009139b82bfcf2729aebc58368d00a7d3b7af4ca1e.pbf)
+     - CL-LL-PuertoMontt
+         - Puerto Montt
+             - [_pk0002](http://git.digital-guard.org/preserv-CL/blob/main/data/LL/PuertoMontt/_pk0002.01/make_conf.yaml)
+                 - [**vias** (`7c1cd5c`)](http://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip)
 * Colombia (CO)
-   - Departamento Administrativo Nacional de Estadística
-     - [_pk0006](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02/make_conf.yaml)
-       - [**Grade** (`d381719`)](http://dl.digital-guard.org/d3817192260c4a6d34be44a72c5eb06c9c9b5a6f5abf3ee56af86671d7602bb7.rar)
-       - [**Geoaddress** (`aaa8c90`)](http://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip)
-       - Filtrados: [csv](http://dl.digital-guard.org/32e3083b25c7a0403b764f040335a1452415bb03e837640fc117bde3ed8ca59d.zip), [shapefile](http://dl.digital-guard.org/aefc1387a61d4f50924a504b9b912e8b33f1cedca1870a11b690b0448e474bc7.zip)
-   - Instituto Geográfico Agustín Codazzi
-     - [_pk0003](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0003.01/make_conf.yaml)
-       - [**Nomenclatura Vial urbano e rural** (`6f35dbf`)](http://dl.digital-guard.org/6f35dbfe7ad230f1f6f2209f5d50901c05965d7b97a9c3dafada4a9af012c335.zip)
-       - [**Manzana** (`d49ab53`)](http://dl.digital-guard.org/d49ab53b06be4934f160bee3a92d671346d9ad2137fbd901e99875ab2fad7621.zip)
-       - [**Vereda** (`08bc4f1`)](http://dl.digital-guard.org/08bc4f124ca0a65d9eae97663eca0894d3bb4d37ead1168b767a540b68db324f.zip)
-       - [**Terreno urbano e rural** (`137dc41`)](http://dl.digital-guard.org/137dc416e70776ac57c37a4fb0cb9bedb1468e91ed73eaa656ddee91011daed7.zip)
-       - [**Nomenclatura Domiciliaria urbano e rural** (`2db40c6`)](http://dl.digital-guard.org/2db40c6a0a4ddc0bb0f765a9195c34b258de49b179f90cd54244406e0c62df83.zip)
-   - OpenStreetMap Foundation
-     - [_pk0004](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0004.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`6c0a1b8`)](http://dl.digital-guard.org/6c0a1b8a9cb9f5b6c32e36d01d792fb90d823ad722f4271a3d8b2da13add415b.pbf)
-   - SERVICIOS POSTALES NACIONALES S.A. 4-72
-     - [_pk0005](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0005.01/make_conf.yaml)
-       - [**Codigo Postal Completa** (`121d26a`)](http://dl.digital-guard.org/121d26a488ae9b2dd73e72e2d9495a9b892ca3068b95fe969fc64610d7615ff8.zip)
-   - CO-ANT-Medellin
-     - Alcaldía de Medellín
-       - [_pk0002](http://git.digital-guard.org/preserv-CO/blob/main/data/ANT/Medellin/_pk0002.01/make_conf.yaml)
-         - [**Nomenclatura Domiciliaria** (`2630981`)](http://dl.digital-guard.org/2630981b3e7c796f23a938d8c727ed47cf890547336ead89738b96e67fe62e7a.zip)
-         - [**Malla Vial** (`410d02a`)](http://dl.digital-guard.org/410d02a87e8d2955849ba644ed8830f3d6761b31f4d0dbf044d39975ffc02be1.zip)
-   - CO-DC-Bogota
-     - Alcaldia Mayor de Bogota D.C.
-       - [_pk0001](http://git.digital-guard.org/preserv-CO/blob/main/data/DC/Bogota/_pk0001.01/make_conf.yaml)
-         - [**Ponto de Endereço** (`8585490`)](http://dl.digital-guard.org/8585490fefe89ff086a9234b27232cda9e29df9ad0b63d19acbd43f3760d04b5.zip)
-         - [**Lotes** (`fff3ae0`)](http://dl.digital-guard.org/fff3ae00d851d47c02d3b510d856526693a47250b4739b57cc6eaa88e0f57acd.zip)
-         - [**Quadras** (`ed072b0`)](http://dl.digital-guard.org/ed072b0391d6c4a9bd76237b4ebb55de4f00ff0b73325d715d35baf29f41278e.zip)
-         - [**Malla Vial** (`befe4d8`)](http://dl.digital-guard.org/befe4d8cbbd51162e70f4f3dc4065acc430e20f2161073fabd007c575cd72098.zip)
+     - Departamento Administrativo Nacional de Estadística
+         - [_pk0006](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.01/make_conf.yaml)
+             - [**Grade** (`d381719`)](http://dl.digital-guard.org/d3817192260c4a6d34be44a72c5eb06c9c9b5a6f5abf3ee56af86671d7602bb7.rar)
+     - Departamento Administrativo Nacional de Estadística
+         - [_pk0006](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02/make_conf.yaml)
+             - [**Geoaddress** (`aaa8c90`)](http://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip)
+             - Filtrados:
+                 - geoaddress: [**csv** (`9e69d97`)](http://dl.digital-guard.org/41aa3db659efa8c90dbe36b9f11ce4436026b16fc950c4e7e96dacd13620f44c.zip) [**shp** (`4a07dd2`)](http://dl.digital-guard.org/9090e15c835b9b955d5ba2febabdf36415453495b3a9a5b89a55e8b173aee717.zip)
+     - Instituto Geográfico Agustín Codazzi
+         - [_pk0003](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0003.01/make_conf.yaml)
+             - [**Nomenclatura Vial urbano e rural** (`6f35dbf`)](http://dl.digital-guard.org/6f35dbfe7ad230f1f6f2209f5d50901c05965d7b97a9c3dafada4a9af012c335.zip)
+             - [**Terreno urbano e rural** (`137dc41`)](http://dl.digital-guard.org/137dc416e70776ac57c37a4fb0cb9bedb1468e91ed73eaa656ddee91011daed7.zip)
+             - [**Vereda** (`08bc4f1`)](http://dl.digital-guard.org/08bc4f124ca0a65d9eae97663eca0894d3bb4d37ead1168b767a540b68db324f.zip)
+             - [**Nomenclatura Domiciliaria urbano e rural** (`2db40c6`)](http://dl.digital-guard.org/2db40c6a0a4ddc0bb0f765a9195c34b258de49b179f90cd54244406e0c62df83.zip)
+             - [**Manzana** (`d49ab53`)](http://dl.digital-guard.org/d49ab53b06be4934f160bee3a92d671346d9ad2137fbd901e99875ab2fad7621.zip)
+     - OpenStreetMap Foundation
+         - [_pk0004](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0004.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`6c0a1b8`)](http://dl.digital-guard.org/6c0a1b8a9cb9f5b6c32e36d01d792fb90d823ad722f4271a3d8b2da13add415b.pbf)
+     - SERVICIOS POSTALES NACIONALES S.A. 4-72
+         - [_pk0005](http://git.digital-guard.org/preserv-CO/blob/main/data/_pk0005.01/make_conf.yaml)
+             - [**Codigo Postal Completa** (`121d26a`)](http://dl.digital-guard.org/121d26a488ae9b2dd73e72e2d9495a9b892ca3068b95fe969fc64610d7615ff8.zip)
+     - CO-ANT-Medellin
+         - Alcaldía de Medellín
+             - [_pk0002](http://git.digital-guard.org/preserv-CO/blob/main/data/ANT/Medellin/_pk0002.01/make_conf.yaml)
+                 - [**Malla Vial** (`410d02a`)](http://dl.digital-guard.org/410d02a87e8d2955849ba644ed8830f3d6761b31f4d0dbf044d39975ffc02be1.zip)
+                 - [**Nomenclatura Domiciliaria** (`2630981`)](http://dl.digital-guard.org/2630981b3e7c796f23a938d8c727ed47cf890547336ead89738b96e67fe62e7a.zip)
+     - CO-DC-Bogota
+         - Alcaldia Mayor de Bogota D.C.
+             - [_pk0001](http://git.digital-guard.org/preserv-CO/blob/main/data/DC/Bogota/_pk0001.01/make_conf.yaml)
+                 - [**Malla Vial** (`befe4d8`)](http://dl.digital-guard.org/befe4d8cbbd51162e70f4f3dc4065acc430e20f2161073fabd007c575cd72098.zip)
+                 - [**Lotes** (`fff3ae0`)](http://dl.digital-guard.org/fff3ae00d851d47c02d3b510d856526693a47250b4739b57cc6eaa88e0f57acd.zip)
+                 - [**Quadras** (`ed072b0`)](http://dl.digital-guard.org/ed072b0391d6c4a9bd76237b4ebb55de4f00ff0b73325d715d35baf29f41278e.zip)
+                 - [**Ponto de Endereço** (`8585490`)](http://dl.digital-guard.org/8585490fefe89ff086a9234b27232cda9e29df9ad0b63d19acbd43f3760d04b5.zip)
 * Ecuador (EC)
-   - OpenStreetMap Foundation
-     - [_pk0002](http://git.digital-guard.org/preserv-EC/blob/main/data/_pk0002.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`1e9014a`)](http://dl.digital-guard.org/1e9014a224dd457fdb88d2b151c00d3bb5d43b3ad0284b27240fbba0b2afbe96.pbf)
-   - EC-F-Azogues
-     - San Francisco de Peleusí de Azogues
-       - [_pk0001](http://git.digital-guard.org/preserv-EC/blob/main/data/F/Azogues/_pk0001.01/make_conf.yaml)
-         - [**Endereços** (`77329f3`)](http://dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip)
+     - OpenStreetMap Foundation
+         - [_pk0002](http://git.digital-guard.org/preserv-EC/blob/main/data/_pk0002.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`1e9014a`)](http://dl.digital-guard.org/1e9014a224dd457fdb88d2b151c00d3bb5d43b3ad0284b27240fbba0b2afbe96.pbf)
+     - EC-F-Azogues
+         - San Francisco de Peleusí de Azogues
+             - [_pk0001](http://git.digital-guard.org/preserv-EC/blob/main/data/F/Azogues/_pk0001.01/make_conf.yaml)
+                 - [**Endereços** (`77329f3`)](http://dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip)
 * Peru (PE)
-   - OpenStreetMap Foundation
-     - [_pk0002](http://git.digital-guard.org/preserv-PE/blob/main/data/_pk0002.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`af78410`)](http://dl.digital-guard.org/af784105ab366faa59af78747e9ba49a688b1bf044e530b0013b232fe5318e73.pbf)
-   - PE-CUS-Cusco
-     - EPS SEDACUSCO S.A.
-       - [_pk0001](http://git.digital-guard.org/preserv-PE/blob/main/data/CUS/Cusco/_pk0001.01/make_conf.yaml)
-         - [**Inscripciones** (`4348429`)](http://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip)
-         - [**Direcciones** (`9b76c8f`)](http://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip)
+     - OpenStreetMap Foundation
+         - [_pk0002](http://git.digital-guard.org/preserv-PE/blob/main/data/_pk0002.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`af78410`)](http://dl.digital-guard.org/af784105ab366faa59af78747e9ba49a688b1bf044e530b0013b232fe5318e73.pbf)
+     - PE-CUS-Cusco
+         - EPS SEDACUSCO S.A.
+             - [_pk0001](http://git.digital-guard.org/preserv-PE/blob/main/data/CUS/Cusco/_pk0001.01/make_conf.yaml)
+                 - [**Inscripciones** (`4348429`)](http://dl.digital-guard.org/43484294f9190a3a050e097e0c106f8da16169a3e1dff9d00ea04aae6e9cbe1a.zip)
+                 - [**Direcciones** (`9b76c8f`)](http://dl.digital-guard.org/9b76c8f77f5e08b9bae2d839540a6d02d640c62bf422efd3a9f629fdd247b97e.zip)
 * Paraguay (PY)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-PY/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`7a7177d`)](http://dl.digital-guard.org/7a7177dec5f8cc10d4dc0120b4207c697eb8dff2472c08721b725e6c731f7e88.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-PY/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`7a7177d`)](http://dl.digital-guard.org/7a7177dec5f8cc10d4dc0120b4207c697eb8dff2472c08721b725e6c731f7e88.pbf)
 * Suriname (SR)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-SR/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`f778b55`)](http://dl.digital-guard.org/f778b557c705b1e4c80efb70cfc371cbacf5b61bfa56d3532dc83b4cd664be8a.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-SR/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`f778b55`)](http://dl.digital-guard.org/f778b557c705b1e4c80efb70cfc371cbacf5b61bfa56d3532dc83b4cd664be8a.pbf)
 * Uruguay (UY)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-UY/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`13456d8`)](http://dl.digital-guard.org/13456d87d099ac5b0a16203b1b41081e2a520208656f5bd963bf76d6cd738678.pbf)
+     - Correo Uruguayo
+         - [_pk0002](http://git.digital-guard.org/preserv-UY/blob/main/data/_pk0002.01/make_conf.yaml)
+             - [**arquivos.zip** (`2939e7a`)](http://dl.digital-guard.org/2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-UY/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`13456d8`)](http://dl.digital-guard.org/13456d87d099ac5b0a16203b1b41081e2a520208656f5bd963bf76d6cd738678.pbf)
 * Venezuela (VE)
-   - OpenStreetMap Foundation
-     - [_pk0001](http://git.digital-guard.org/preserv-VE/blob/main/data/_pk0001.01/make_conf.yaml)
-       - [**Dados OpenStreetMap** (`28df02b`)](http://dl.digital-guard.org/28df02b8889548e0913d2337ee4f4cadb0e5798e377bbc95f753d4269440526c.pbf)
+     - OpenStreetMap Foundation
+         - [_pk0001](http://git.digital-guard.org/preserv-VE/blob/main/data/_pk0001.01/make_conf.yaml)
+             - [**Dados OpenStreetMap** (`28df02b`)](http://dl.digital-guard.org/28df02b8889548e0913d2337ee4f4cadb0e5798e377bbc95f753d4269440526c.pbf)
+     - VE-M-Baruta
+         - Baruta
+             - [_pk0002](http://git.digital-guard.org/preserv-VE/blob/main/data/M/Baruta/_pk0002.01/make_conf.yaml)
+                 - [**Baruta_Base.rar** (`06c5461`)](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)
