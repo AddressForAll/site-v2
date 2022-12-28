@@ -43,3 +43,4 @@
 *   [BR-SP-Sorocaba/pk0031.01](https://addressforall.org/teste2/br-sp-sorocaba_pk0031.01_parcel.html)
 *   [CO-ANT-Medellin/pk0002.01](https://addressforall.org/teste2/co-ant-medellin_pk0002.01_geoaddress.html)
 *   [CO-DC-Bogota/pk0001.01](https://addressforall.org/teste2/co-dc-bogota_pk0001.01_block.html)
+*   [UY/pk0002.01](https://addressforall.org/teste2/uy_pk0002.01_geoaddress.html)
