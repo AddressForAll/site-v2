@@ -34,6 +34,7 @@
 *   [BR-SP-Campinas/pk0022.01](https://addressforall.org/teste2/br-sp-campinas_pk0022.01_geoaddress.html)
 *   [BR-SP-Guarulhos/pk0081.01](https://addressforall.org/teste2/br-sp-guarulhos_pk0081.01_geoaddress.html)
 *   [BR-SP-Itu/pk0024.01](https://addressforall.org/teste2/br-sp-itu_pk0024.01_block.html)
+*   [BR-SP-Jacarei/pk0145.01](https://addressforall.org/teste2/br-sp-jacarei_pk0145.01_nsvia.html)
 *   [BR-SP-Jundiai/pk0025.01](https://addressforall.org/teste2/br-sp-jundiai_pk0025.01_building.html)
 *   [BR-SP-Limeira/pk0026.01](https://addressforall.org/teste2/br-sp-limeira_pk0026.01_block.html)
 *   [BR-SP-Osasco/pk0028.01](https://addressforall.org/teste2/br-sp-osasco_pk0028.01_block.html)
