@@ -5,14 +5,17 @@ import { Converter } from "showdown";
 import Layout from "../../../components/layout";
 import Funil from "../../../components/funil/funil";
 import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
 import styles from "./index.module.css";
+import i18nextConfig from "../../../next-i18next.config";
 
 const converter = new Converter();
 
 export default function Data() {
+  const router = useRouter();
   const { t, i18n } = useTranslation("common");
-
   const [statsDonorsProspection, setStatsDonorsProspection] = useState(null);
+  const currentLocale = router.query.locale || i18nextConfig.i18n.defaultLocale;
 
   const callAPI = async () => {
     try {
@@ -31,6 +34,7 @@ export default function Data() {
   };
 
   useEffect(() => {
+  
     callAPI();
   }, []);
 
@@ -83,11 +87,11 @@ export default function Data() {
         {statsDonorsProspection && (
           <div className={styles['donors-section']}>
             <Funil
-              l1_tit={statsDonorsProspection[0]["label"]}
+              l1_tit={statsDonorsProspection[0]["label"][currentLocale]}
               l1_v={statsDonorsProspection[0]["amount"]}
-              l2_tit={statsDonorsProspection[1]["label"]}
+              l2_tit={statsDonorsProspection[1]["label"][currentLocale]}
               l2_v={statsDonorsProspection[1]["amount"]}
-              l3_tit={statsDonorsProspection[2]["label"]}
+              l3_tit={statsDonorsProspection[2]["label"][currentLocale]}
               l3_v={statsDonorsProspection[2]["amount"]}
             />
           </div>
