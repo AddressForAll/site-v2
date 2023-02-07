@@ -183,6 +183,9 @@ downloads:
     # Downloads
      Les données mises à disposition par l'institut AddressForAll peuvent être téléchargées par municipalité (données locales) ou au niveau national.
      Liste des fichiers référencés dans les fichiers de configuration `make_conf.yaml`, triés par juridiction. Pour chaque élément, des liens de *téléchargement* (via *hash*) et des liens de navigation à travers les métadonnées sont proposés.
+  countries_input_label: Pays
+  states_input_label: État
+  cities_input_label: Ville
 apis:
   md: |-
     # APIs

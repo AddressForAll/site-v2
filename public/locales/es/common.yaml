@@ -194,6 +194,9 @@ downloads:
   md: |-
     # Downloads
      Los datos puestos a disposición por el Instituto AddressForAll pueden descargarse por municipio (datos locales) o a nivel nacional.
+  countries_input_label: País
+  states_input_label: Estado
+  cities_input_label: Ciudad
 apis:
   md: |-
     # APIs

@@ -190,6 +190,9 @@ downloads:
      Os dados disponibilizados pelo Instituto AddressForAll podem ser baixados por município (dados locais) ou ao nível nacional.
 
     Listagem dos arquivos referenciados em arquivos de configuração `make_conf.yaml`, ordenada por jurisdição. A cada item são oferecidos os links de *download* (pelo *hash*) e de navegação pelos metadados.
+  countries_input_label: País
+  states_input_label: Estado
+  cities_input_label: Cidade
 apis:
   md: |-
     # APIs

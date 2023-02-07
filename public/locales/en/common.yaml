@@ -190,6 +190,9 @@ downloads:
   md: |-
     # Downloads
      The data made available by the AddressForAll Institute can be downloaded by municipality (local data) or at the national level.
+  countries_input_label: Country
+  states_input_label: State
+  cities_input_label: City
 apis:
   md: |-
     # APIs
