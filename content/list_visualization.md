@@ -48,5 +48,6 @@
 *   [CL-LL-PuertoMontt/pk0002.01](https://addressforall.org/teste2/cl-ll-puertomontt_pk0002.01_via.html)
 *   [CO-ANT-Medellin/pk0002.01](https://addressforall.org/teste2/co-ant-medellin_pk0002.01_geoaddress.html)
 *   [CO-DC-Bogota/pk0001.01](https://addressforall.org/teste2/co-dc-bogota_pk0001.01_block.html)
+*   [CO-VAC-Cali/pk0007.01](https://addressforall.org/teste2/co-vac-cali_pk0007.01_nsvia.html)
 *   [UY/pk0002.01](https://addressforall.org/teste2/uy_pk0002.01_geoaddress.html)
 *   [VE-M-Baruta/pk0002.01](https://addressforall.org/teste2/ve-m-baruta_pk0002.01_building.html)

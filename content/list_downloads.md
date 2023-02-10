@@ -563,6 +563,15 @@
                  - [**Malla Vial** (`befe4d8`)](http://dl.digital-guard.org/befe4d8cbbd51162e70f4f3dc4065acc430e20f2161073fabd007c575cd72098.zip)
                  - [**Quadras** (`ed072b0`)](http://dl.digital-guard.org/ed072b0391d6c4a9bd76237b4ebb55de4f00ff0b73325d715d35baf29f41278e.zip)
                  - [**Ponto de Endereço** (`8585490`)](http://dl.digital-guard.org/8585490fefe89ff086a9234b27232cda9e29df9ad0b63d19acbd43f3760d04b5.zip)
+     - CO-VAC-Cali
+         - Santiago de Cali
+             - [_pk0007](http://git.digital-guard.org/preserv-CO/blob/main/data/VAC/Cali/_pk0007.01)
+                 - [**BASE_012022.shp.zip** (`a3070e1`)](http://dl.digital-guard.org/a3070e1b3136cae6068a6ecdd1f0b665d4b1430ca83429553db29ae72658e1f0.zip)
+                 - [**POT_2014.gdb_arcgis_10.5.zip** (`e42148b`)](http://dl.digital-guard.org/e42148b3fc8a262446d16e7e48aa95fcb000d0fab0ffcd35d2523b566becfcf1.zip)
+                 - Filtrados:
+                     - nsvia: [**shp** (`352e117`)](http://dl.digital-guard.org/352e117033ab60d0e074c1da58738fac7977475f5343c4f36f00b972890a24fd.zip)
+                     - parcel: [**shp** (`3cca38b`)](http://dl.digital-guard.org/3cca38b50f98d3cb7b20c5a01244d52c140a6e76acaa5c51fd596a0d3dee38ab.zip)
+                     - via: [**shp** (`711ab2f`)](http://dl.digital-guard.org/711ab2f3035a4676eb2669af546d9f8ee0628b5559fc0cb28763de3106b96765.zip)
 * Ecuador (EC)
      - OpenStreetMap Foundation
          - [_pk0002](http://git.digital-guard.org/preserv-EC/blob/main/data/_pk0002.01)
