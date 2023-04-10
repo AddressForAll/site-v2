@@ -367,6 +367,7 @@ header {
 			display: none;
 			width: 100%;
 			border-top: 2px solid vars.$blue-dark;
+			background-color: white;
 		}
 
 		.brand {
@@ -379,7 +380,7 @@ header {
 
 		.menu {
 			display: block;
-			width: 700px;
+			//width: 700px;
 			clear: both;
 
 			.dropdown-menu {
