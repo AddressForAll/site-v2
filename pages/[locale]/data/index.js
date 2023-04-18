@@ -26,7 +26,7 @@ export default function Data() {
       const statsDonorsProspection = data
         .filter((d) => d["donor_status"] != -1)
         .sort((d1, d2) => d2["amount"] - d1["amount"]);
-        setStatsDonorsProspection(statsDonorsProspection)
+      setStatsDonorsProspection(statsDonorsProspection);
       console.log("statsDonorsProspection:", statsDonorsProspection);
     } catch (err) {
       console.log(err);
@@ -34,7 +34,6 @@ export default function Data() {
   };
 
   useEffect(() => {
-  
     callAPI();
   }, []);
 
@@ -83,17 +82,18 @@ export default function Data() {
           </li>
         </ul>
 
-
         {statsDonorsProspection && (
-          <div className={styles['donors-section']}>
-            <Funil
-              l1_tit={statsDonorsProspection[0]["label"][currentLocale]}
-              l1_v={statsDonorsProspection[0]["amount"]}
-              l2_tit={statsDonorsProspection[1]["label"][currentLocale]}
-              l2_v={statsDonorsProspection[1]["amount"]}
-              l3_tit={statsDonorsProspection[2]["label"][currentLocale]}
-              l3_v={statsDonorsProspection[2]["amount"]}
-            />
+          <div className={styles["donors-section"]}>
+            <div className={styles["donors-section-svg-content"]}>
+              <Funil
+                l1_tit={statsDonorsProspection[0]["label"][currentLocale]}
+                l1_v={statsDonorsProspection[0]["amount"]}
+                l2_tit={statsDonorsProspection[1]["label"][currentLocale]}
+                l2_v={statsDonorsProspection[1]["amount"]}
+                l3_tit={statsDonorsProspection[2]["label"][currentLocale]}
+                l3_v={statsDonorsProspection[2]["amount"]}
+              />
+            </div>
           </div>
         )}
       </section>
