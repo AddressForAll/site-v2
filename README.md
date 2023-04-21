@@ -71,10 +71,9 @@ To remove the **rehydration** data `regex: <script id="__NEXT_DATA__((.|n)*)scri
 find out -name '*.html' | xargs perl -0777 -pi -e 's/<script id="__NEXT_DATA__.*?script>//sg;'
 ```
 
-## Notes
+## LICENSE
 
-```text
-<div>Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC BY 3.0</div>
-OR
-<a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
-```
+For **this source-code**, see [**LICENSE**](LICENSE) file (Apache v2).  For libraries and [`/public`](public) assets **dependencies**:
+*  [ReactJS LICENSE](https://github.com/facebook/react/commits/main/LICENSE) (MIT).
+*  [NextJS LICENSE](https://github.com/vercel/next.js/blob/canary/license.md) (MIT).
+*  Fonts: [oNline Web Fonts](http://www.onlinewebfonts.com) are licensed by [CC BY v3](https://creativecommons.org/licenses/by/3.0/).
