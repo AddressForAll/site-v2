@@ -84,7 +84,7 @@ function Header() {
             <Link href="/contribute">{t("menu.contribute")}</Link>
           </li>
           <li>
-            <a href="https://medium.com/@presidencia_82067" rel="external">
+            <a href="https://medium.com/@AddressForAll" rel="external">
               {t("menu.blog")}
             </a>
           </li>

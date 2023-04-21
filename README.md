@@ -18,6 +18,15 @@ Install using Linux makefile, that show your options first:
 make
 ```
 
+* `make dev`:   run the `npm dev`, to a temporary deply at localhost.
+* `make build`: makes *build-only* and *rm_rehydration*.
+* `make serve`: run the `npm serve` after *build*, to also deploy localhost.
+* `make build-only`:     run the `npm build` and save `/out` folder.
+* `make rm_rehydration`: remove the rehydration data from `/out` after the build.
+
+---
+
+## Install wihout make
 Install direct:
 
 ```bash
