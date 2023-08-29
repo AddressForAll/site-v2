@@ -25,7 +25,7 @@
                  - Filtrados:
                      - block: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_block_7600007101101.zip)
                      - building: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_building_7600007101101.zip)
-                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip)
+                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip)
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_nsvia_7600007101101.zip)
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_via_7600007101101.zip)
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_parcel_7600007101201.zip)
@@ -76,7 +76,7 @@
                  - [Original parte 6 (`3a300c9`)](http://dl.digital-guard.org/3a300c9f9836c3ea1af53bfdff81e4d663c413f688fdd9c9f583105c19f3ec39.zip) - Logradouros urbanos
                  - Filtrados:
                      - block: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_block_7600009101101.zip)
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_geoaddress_7600009101201.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_geoaddress_7600009101201_csv.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_geoaddress_7600009101201_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_geoaddress_7600009101201.zip)
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_nsvia_7600009101301.zip)
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_parcel_7600009101401.zip)
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_via_7600009101601.zip)
@@ -186,7 +186,7 @@
              - [<span id="_pk0045">_pk0045</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01):
                  - [Original parte 1 (`6d00a62`)](http://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip) - Geo-endereços
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip)
      - **<span id="BR-PR-Araucaria">BR-PR-Araucaria</span>**
          - Prefeitura do Município de Araucária
              - [<span id="_pk0061">_pk0061</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01): <small>[unprecedented]</small>
@@ -224,7 +224,7 @@
              - [<span id="_pk0110">_pk0110</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Maringa/_pk0110.01): <small>[unprecedented]</small>
                  - [Original parte 1 (`8884e90`)](http://dl.digital-guard.org/8884e9035116c647376301085809c7cbfb0d44841e1f51035b4b286e8648b05a.zip) - Num_Predial_14_03_2022.xlsx
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_maringa_geoaddress_7600011001101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_pr_maringa_geoaddress_7600011001101_csv.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_pr_maringa_geoaddress_7600011001101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_pr_maringa_geoaddress_7600011001101.zip)
      - **<span id="BR-PR-Pinhais">BR-PR-Pinhais</span>**
          - Prefeitura Municipal de Pinhais
              - [<span id="_pk0014">_pk0014</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Pinhais/_pk0014.01):
@@ -358,7 +358,7 @@
              - [<span id="_pk0080">_pk0080</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Pelotas/_pk0080.01): <small>[unprecedented]</small>
                  - [Original parte 1 (`3c69a4b`)](http://dl.digital-guard.org/3c69a4bf2fa9cce1b701968f6c970230e51ee2a656f7168f384f5066a05eaba2.zip) - Todos os arquivos
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101.zip)
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_parcel_7600008001101.zip)
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_rs_pelotas_via_7600008001101.zip)
      - **<span id="BR-RS-PortoAlegre">BR-RS-PortoAlegre</span>**
@@ -544,7 +544,7 @@
              - [<span id="_pk0029">_pk0029</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.01): <small>[unprecedented]</small>
                  - [Original parte 1 (`b192fba`)](http://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip) - Pontos de endereço
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101.zip)
      - **<span id="BR-SP-SaoBernardoCampo">BR-SP-SaoBernardoCampo</span>**
          - Prefeitura Municipal de São Bernardo do Campo
              - [<span id="_pk0030">_pk0030</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01):
@@ -553,8 +553,8 @@
                  - [Original parte 3 (`3269bac`)](http://dl.digital-guard.org/3269bacc09d450b4d7496a2bc749ece94b1f48462ba0aae70d902404256bc433.zip) - Eixos
                  - [Original parte 4 (`350b605`)](http://dl.digital-guard.org/350b605174967b94ef49ce1bbac0352dd76e2175e5eae1b8e5b730cd9950d133.zip) - Bairros
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101.zip)[**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101_csv.zip)
-                     - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_parcel_7600003001201.zip)[****](http://dl.digital-guard.org/out/.zip)
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101_csv.zip)[**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101.zip)
+                     - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_parcel_7600003001201.zip)
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_via_7600003001301.zip)
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_nsvia_7600003001401.zip)
      - **<span id="BR-SP-SaoPaulo">BR-SP-SaoPaulo</span>**
