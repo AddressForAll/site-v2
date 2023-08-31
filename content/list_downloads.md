@@ -601,6 +601,8 @@
      - Departamento Administrativo Nacional de Estadística
          - [<span id="_pk0006">_pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02):
              - [Original parte 1 (`aaa8c90`)](http://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip) - Geoaddress
+             - Filtrados:
+                  - geoaddress: [**csv**](http://dl.digital-guard.org/out/41aa3db659efa8c90dbe36b9f11ce4436026b16fc950c4e7e96dacd13620f44c.zip) [**shp**](http://dl.digital-guard.org/out/9090e15c835b9b955d5ba2febabdf36415453495b3a9a5b89a55e8b173aee717.zip) 
      - Instituto Geográfico Agustín Codazzi
          - [<span id="_pk0003">_pk0003</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0003.01):
              - [Original parte 1 (`2db40c6`)](http://dl.digital-guard.org/2db40c6a0a4ddc0bb0f765a9195c34b258de49b179f90cd54244406e0c62df83.zip) - Nomenclatura Domiciliaria urbano e rural
@@ -614,6 +616,8 @@
      - SERVICIOS POSTALES NACIONALES S.A. 4-72
          - [<span id="_pk0005">_pk0005</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0005.01):
              - [Original parte 1 (`121d26a`)](http://dl.digital-guard.org/121d26a488ae9b2dd73e72e2d9495a9b892ca3068b95fe969fc64610d7615ff8.zip) - Codigo Postal Completa
+             - Filtrados:
+                  - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_co_nsvia_17000000501101.zip) 
      - **<span id="CO-ANT-Medellin">CO-ANT-Medellin</span>**
          - Alcaldía de Medellín
              - [<span id="_pk0002">_pk0002</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/ANT/Medellin/_pk0002.01):
@@ -687,6 +691,8 @@
      - Administración Nacional de Correos
          - [<span id="_pk0002">_pk0002</span>](https://git.digital-guard.org/preserv-UY/blob/main/data/_pk0002.01):
              - [Original parte 1 (`2939e7a`)](http://dl.digital-guard.org/2939e7ae1ee8801dd10619301ec034afb5c37d68b440a4d3f2b8416d30c1c13b.zip) - arquivos.zip
+             - Filtrados:
+                  - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_uy_geoaddress_85800000201101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_uy_geoaddress_85800000201101.zip) 
      - OpenStreetMap Foundation
          - [<span id="_pk0001">_pk0001</span>](https://git.digital-guard.org/preserv-UY/blob/main/data/_pk0001.01):
              - [Original parte 1 (`13456d8`)](http://dl.digital-guard.org/13456d87d099ac5b0a16203b1b41081e2a520208656f5bd963bf76d6cd738678.pbf) - Dados OpenStreetMap
