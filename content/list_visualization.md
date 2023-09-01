@@ -56,6 +56,7 @@
 * [BR-SP-SaoVicente/pk0032.01](https://addressforall.org/viz/br-sp-saovicente_pk0032.01_geoaddress.html)
 * [BR-SP-Sorocaba/pk0031.01](https://addressforall.org/viz/br-sp-sorocaba_pk0031.01_parcel.html)
 * [CL-LL-PuertoMontt/pk0002.01](https://addressforall.org/viz/cl-ll-puertomontt_pk0002.01_via.html)
+* [CO/pk0003.01](https://addressforall.org/viz/co_pk0003.01_block.html)
 * [CO/pk0005.01](https://addressforall.org/viz/co_pk0005.01_nsvia.html)
 * [CO-ANT-Medellin/pk0002.01](https://addressforall.org/viz/co-ant-medellin_pk0002.01_geoaddress.html)
 * [CO-DC-Bogota/pk0001.01](https://addressforall.org/viz/co-dc-bogota_pk0001.01_block.html)

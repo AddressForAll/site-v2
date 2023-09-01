@@ -25,7 +25,7 @@
                  - Filtrados:
                      - block: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_block_7600007101101.zip) 
                      - building: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_building_7600007101101.zip) 
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip) 
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_nsvia_7600007101101.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_via_7600007101101.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_am_manaus_parcel_7600007101201.zip) 
@@ -243,7 +243,7 @@
                  - [Original parte 3 (`54e8c96`)](http://dl.digital-guard.org/54e8c962d93c5075b58656b0d935889e21ea340f97c0603be1ef5f1ee07d6805.zip) - Bairros
                  - [Original parte 4 (`6cf7e47`)](http://dl.digital-guard.org/6cf7e47ce736468fb740f4f6f884464e81f8ff3a9682f92c38d041825ebb4a39.zip) - Quadras
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_geoaddress_7600007901101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_geoaddress_7600007901101.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_via_7600007901201.zip) 
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_nsvia_7600007901301.zip) 
                      - block: [**shp**](http://dl.digital-guard.org/out/a4a_br_pr_toledo_block_7600007901401.zip) 
@@ -275,7 +275,7 @@
                  - [Original parte 4 (`ea44a4e`)](http://dl.digital-guard.org/ea44a4e799c709b77e0de02ca98c67895246bccc4634940c77e5e82ce1b61f31.zip) - Bairros
                  - [Original parte 5 (`6daa65d`)](http://dl.digital-guard.org/6daa65d15bbda6b9d9959daf8d43c2063ed0410b643870c24d22af4fd149032d.zip) - Quadras
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_via_7600007802201.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_parcel_7600007802301.zip) 
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_nsvia_7600007802401.zip) 
@@ -450,7 +450,7 @@
                  - Filtrados:
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_nsvia_7600008101101.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_via_7600008101201.zip) 
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_geoaddress_7600008101301.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_geoaddress_7600008101301_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_geoaddress_7600008101301_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_guarulhos_geoaddress_7600008101301.zip) 
      - **<span id="BR-SP-Itanhaem">BR-SP-Itanhaem</span>**
          - Prefeitura de Itanhaém
              - [<span id="_pk0058">_pk0058</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itanhaem/_pk0058.01): <small>[unprecedented]</small>
@@ -610,6 +610,9 @@
              - [Original parte 3 (`137dc41`)](http://dl.digital-guard.org/137dc416e70776ac57c37a4fb0cb9bedb1468e91ed73eaa656ddee91011daed7.zip) - Terreno urbano e rural
              - [Original parte 4 (`d49ab53`)](http://dl.digital-guard.org/d49ab53b06be4934f160bee3a92d671346d9ad2137fbd901e99875ab2fad7621.zip) - Manzana
              - [Original parte 5 (`08bc4f1`)](http://dl.digital-guard.org/08bc4f124ca0a65d9eae97663eca0894d3bb4d37ead1168b767a540b68db324f.zip) - Vereda
+             - Filtrados:
+                  - via: [**shp**](http://dl.digital-guard.org/out/a4a_co_via_17000000301201.zip) 
+                  - block: [**shp**](http://dl.digital-guard.org/out/a4a_co_block_17000000301401.zip) 
      - OpenStreetMap Foundation
          - [<span id="_pk0004">_pk0004</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0004.01):
              - [Original parte 1 (`6c0a1b8`)](http://dl.digital-guard.org/6c0a1b8a9cb9f5b6c32e36d01d792fb90d823ad722f4271a3d8b2da13add415b.pbf) - Dados OpenStreetMap
@@ -637,7 +640,7 @@
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_via_17000000101101.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_parcel_17000000101201.zip) 
                      - block: [**shp**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_block_17000000101301.zip) 
-                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_geoaddress_17000000101401.zip) 
+                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_geoaddress_17000000101401.zip) [**csv**](http://dl.digital-guard.org/out/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) 
      - **<span id="CO-VAC-Cali">CO-VAC-Cali</span>**
          - Santiago de Cali
              - [<span id="_pk0007">_pk0007</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/VAC/Cali/_pk0007.01):
