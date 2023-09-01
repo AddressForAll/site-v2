@@ -58,6 +58,7 @@
 * [CL-LL-PuertoMontt/pk0002.01](https://addressforall.org/viz/cl-ll-puertomontt_pk0002.01_via.html)
 * [CO/pk0005.01](https://addressforall.org/viz/co_pk0005.01_nsvia.html)
 * [CO-ANT-Medellin/pk0002.01](https://addressforall.org/viz/co-ant-medellin_pk0002.01_geoaddress.html)
+* [CO-DC-Bogota/pk0001.01](https://addressforall.org/viz/co-dc-bogota_pk0001.01_block.html)
 * [CO-VAC-Cali/pk0007.01](https://addressforall.org/viz/co-vac-cali_pk0007.01_nsvia.html)
 * [EC-F-Azogues/pk0001.01](https://addressforall.org/viz/ec-f-azogues_pk0001.01_geoaddress.html)
 * [PE-CUS-Cusco/pk0001.01](https://addressforall.org/viz/pe-cus-cusco_pk0001.01_geoaddress.html)
