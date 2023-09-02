@@ -50,8 +50,9 @@ or
 ### Generate the static version
 
 ```bash
-npm run build
+npm run build-only
 ```
+https://github.com/AddressForAll/site-v2/issues/54#issuecomment-1698030542
 
 ### Verify yourself
 
