@@ -80,6 +80,15 @@
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_nsvia_7600009101301.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_parcel_7600009101401.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_cachoeiroitapemirim_via_7600009101601.zip) 
+     - **<span id="BR-ES-Serra">BR-ES-Serra</span>**
+         - Prefeitura Municipal de Serra
+             - [<span id="_pk0005">_pk0005</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/ES/Serra/_pk0005.01): [[Implied BR-generic-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-br-generic-v1.md)] <small>[unprecedented]</small>
+                 - [Original parte 1 (`b18fc8e`)](http://dl.digital-guard.org/b18fc8ebe8bccc2cfdbbbd5f4896d5f6573033ebfa80061d1d86550c5ae8521d.zip) - GDB Geodatabase
+                 - Filtrados:
+                     - block: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_serra_block_7600000501101.zip) 
+                     - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_serra_nsvia_7600000501101.zip) 
+                     - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_serra_parcel_7600000501101.zip) 
+                     - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_es_serra_via_7600000501101.zip) 
      - **<span id="BR-ES-VilaVelha">BR-ES-VilaVelha</span>**
          - Prefeitura Municipal de Vila Velha
              - [<span id="_pk0007">_pk0007</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/ES/VilaVelha/_pk0007.01): [[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)]
@@ -275,7 +284,7 @@
                  - [Original parte 4 (`ea44a4e`)](http://dl.digital-guard.org/ea44a4e799c709b77e0de02ca98c67895246bccc4634940c77e5e82ce1b61f31.zip) - Bairros
                  - [Original parte 5 (`6daa65d`)](http://dl.digital-guard.org/6daa65d15bbda6b9d9959daf8d43c2063ed0410b643870c24d22af4fd149032d.zip) - Quadras
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_geoaddress_7600007802101.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_via_7600007802201.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_parcel_7600007802301.zip) 
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_rj_riojaneiro_nsvia_7600007802401.zip) 
@@ -551,7 +560,7 @@
              - [<span id="_pk0029">_pk0029</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.01): [[Implied BR-generic-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-br-generic-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`b192fba`)](http://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip) - Pontos de endereço
                  - Filtrados:
-                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101.zip) 
+                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip) 
      - **<span id="BR-SP-SaoBernardoCampo">BR-SP-SaoBernardoCampo</span>**
          - Prefeitura Municipal de São Bernardo do Campo
              - [<span id="_pk0030">_pk0030</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01): [[Implied BR-generic-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-br-generic-v1.md)]
@@ -560,7 +569,7 @@
                  - [Original parte 3 (`3269bac`)](http://dl.digital-guard.org/3269bacc09d450b4d7496a2bc749ece94b1f48462ba0aae70d902404256bc433.zip) - Eixos
                  - [Original parte 4 (`350b605`)](http://dl.digital-guard.org/350b605174967b94ef49ce1bbac0352dd76e2175e5eae1b8e5b730cd9950d133.zip) - Bairros
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_geoaddress_7600003001101.zip) 
                      - parcel: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_parcel_7600003001201.zip) 
                      - via: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_via_7600003001301.zip) 
                      - nsvia: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saobernardocampo_nsvia_7600003001401.zip) 
@@ -582,7 +591,7 @@
              - [<span id="_pk0032">_pk0032</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoVicente/_pk0032.01): [[Implied BR-generic-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-br-generic-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`3d5bc83`)](http://dl.digital-guard.org/3d5bc83bbbfd7e28857d36e6cf9df06bcd1d9de257018d684a3dd91608c55742.zip) - Pontos de Endereço
                  - Filtrados:
-                     - geoaddress: [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) 
+                     - geoaddress: [**csv**](http://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) [**shp**](http://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) 
      - **<span id="BR-SP-Sorocaba">BR-SP-Sorocaba</span>**
          - Prefeitura Municipal de Sorocaba
              - [<span id="_pk0031">_pk0031</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Sorocaba/_pk0031.01): [[Implied BR-generic-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-br-generic-v1.md)] <small>[unprecedented]</small>
