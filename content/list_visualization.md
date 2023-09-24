@@ -4,6 +4,7 @@
 * [BR-CE-Fortaleza/pk0097.01](https://addressforall.org/viz/br-ce-fortaleza_pk0097.01_block.html)
 * [BR-DF-Brasilia/pk0068.01](https://addressforall.org/viz/br-df-brasilia_pk0068.01_block.html)
 * [BR-ES-CachoeiroItapemirim/pk0091.01](https://addressforall.org/viz/br-es-cachoeiroitapemirim_pk0091.01_block.html)
+* [BR-ES-Serra/pk0005.01](https://addressforall.org/viz/br-es-serra_pk0005.01_block.html)
 * [BR-ES-VilaVelha/pk0007.01](https://addressforall.org/viz/br-es-vilavelha_pk0007.01_block.html)
 * [BR-ES-Vitoria/pk0006.01](https://addressforall.org/viz/br-es-vitoria_pk0006.01_building.html)
 * [BR-GO-AparecidaGoiania/pk0084.01](https://addressforall.org/viz/br-go-aparecidagoiania_pk0084.01_block.html)
