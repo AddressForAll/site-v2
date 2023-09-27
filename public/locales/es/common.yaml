@@ -194,6 +194,8 @@ downloads:
   md: |-
     # Downloads
      Los datos puestos a disposición por el Instituto AddressForAll pueden descargarse por municipio (datos locales) o a nivel nacional.
+
+     Países disponibles: <a href="#Bolivia">Bolivia</a> | <a href="#Brazil">Brazil</a> | <a href="#Chile">Chile</a> | <a href="#Colombia">Colombia</a> | <a href="#Ecuador">Ecuador</a> | <a href="#Mexico">Mexico</a> | <a href="#Peru">Peru</a> | <a href="#Paraguay">Paraguay</a> | <a href="#Suriname">Suriname</a> | <a href="#Uruguay">Uruguay</a> | <a href="#Venezuela">Venezuela</a>
 apis:
   md: |-
     # APIs

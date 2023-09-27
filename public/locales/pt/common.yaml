@@ -190,6 +190,8 @@ downloads:
      Os dados disponibilizados pelo Instituto AddressForAll podem ser baixados por município (dados locais) ou ao nível nacional.
 
     Listagem dos arquivos referenciados em arquivos de configuração `make_conf.yaml`, ordenada por jurisdição. A cada item são oferecidos os links de *download* (pelo *hash*) e de navegação pelos metadados.
+
+    Países disponíveis: <a href="#Bolivia">Bolivia</a> | <a href="#Brazil">Brazil</a> | <a href="#Chile">Chile</a> | <a href="#Colombia">Colombia</a> | <a href="#Ecuador">Ecuador</a> | <a href="#Mexico">Mexico</a> | <a href="#Peru">Peru</a> | <a href="#Paraguay">Paraguay</a> | <a href="#Suriname">Suriname</a> | <a href="#Uruguay">Uruguay</a> | <a href="#Venezuela">Venezuela</a>
 apis:
   md: |-
     # APIs
