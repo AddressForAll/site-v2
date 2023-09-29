@@ -317,6 +317,10 @@
                  - [Original parte 1 (`e77fe6f`)](https://dl.digital-guard.org/e77fe6f601a65e46244bc70b4f19008ad4ce3b1db36fafbaed2a248429504e81.zip) - LOGRADOUROS
                  - [Original parte 2 (`7fc034a`)](https://dl.digital-guard.org/7fc034ac5c703dcfe93567bd5196ce6eba22df7b779b15ca713b026e85f64759.zip) - LOTES
                  - [Original parte 3 (`47063f9`)](https://dl.digital-guard.org/47063f994f552e27c3b528fcc60cb03e36923b6875dd862dc54062e0ecb3bf60.zip) - quarteirões
+                 - Filtrados:
+                     - via: [**shp**](https://dl.digital-guard.org/a4a_br_rs_bage_via_7600008201101.zip) 
+                     - parcel: [**shp**](https://dl.digital-guard.org/a4a_br_rs_bage_parcel_7600008201201.zip) 
+                     - block: [**shp**](https://dl.digital-guard.org/a4a_br_rs_bage_block_7600008201301.zip) 
      - **<span id="BR-RS-Canoas">BR-RS-Canoas</span>**
          - Prefeitura Municipal de Canoas
              - [<span id="pk0076">Package pk0076</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Canoas/_pk0076.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -368,7 +372,7 @@
              - [<span id="pk0080">Package pk0080</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Pelotas/_pk0080.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`3c69a4b`)](https://dl.digital-guard.org/3c69a4bf2fa9cce1b701968f6c970230e51ee2a656f7168f384f5066a05eaba2.zip) - Todos os arquivos
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_rs_pelotas_geoaddress_7600008001101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_rs_pelotas_geoaddress_7600008001101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/a4a_br_rs_pelotas_parcel_7600008001101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_rs_pelotas_via_7600008001101.zip) 
      - **<span id="BR-RS-PortoAlegre">BR-RS-PortoAlegre</span>**
@@ -512,7 +516,7 @@
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_sp_jundiai_via_7600002501201.zip) 
                      - building: [**shp**](https://dl.digital-guard.org/a4a_br_sp_jundiai_building_7600002501301.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_sp_jundiai_nsvia_7600002501401.zip) 
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_sp_jundiai_geoaddress_7600002501501_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_sp_jundiai_geoaddress_7600002501501.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_sp_jundiai_geoaddress_7600002501501.zip) [**csv**](https://dl.digital-guard.org/a4a_br_sp_jundiai_geoaddress_7600002501501_csv.zip) 
      - **<span id="BR-SP-Limeira">BR-SP-Limeira</span>**
          - Prefeitura Municipal de Limeira
              - [<span id="pk0026">Package pk0026</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Limeira/_pk0026.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
@@ -561,7 +565,7 @@
              - [<span id="pk0029">Package pk0029</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`b192fba`)](https://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip) - Pontos de endereço
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_sp_santos_geoaddress_7600002901101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_sp_santos_geoaddress_7600002901101.zip) 
      - **<span id="BR-SP-SaoBernardoCampo">BR-SP-SaoBernardoCampo</span>**
          - Prefeitura Municipal de São Bernardo do Campo
              - [<span id="pk0030">Package pk0030</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
@@ -592,7 +596,7 @@
              - [<span id="pk0032">Package pk0032</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoVicente/_pk0032.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`3d5bc83`)](https://dl.digital-guard.org/3d5bc83bbbfd7e28857d36e6cf9df06bcd1d9de257018d684a3dd91608c55742.zip) - Pontos de Endereço
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) 
      - **<span id="BR-SP-Sorocaba">BR-SP-Sorocaba</span>**
          - Prefeitura Municipal de Sorocaba
              - [<span id="pk0031">Package pk0031</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Sorocaba/_pk0031.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -619,7 +623,7 @@
          - [<span id="pk0006">Package pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02):
              - [Original parte 1 (`aaa8c90`)](https://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip) - Geoaddress
              - Filtrados:
-                  - geoaddress: [**shp**](https://dl.digital-guard.org/9090e15c835b9b955d5ba2febabdf36415453495b3a9a5b89a55e8b173aee717.zip) [**csv**](https://dl.digital-guard.org/41aa3db659efa8c90dbe36b9f11ce4436026b16fc950c4e7e96dacd13620f44c.zip) 
+                  - geoaddress: [**csv**](https://dl.digital-guard.org/41aa3db659efa8c90dbe36b9f11ce4436026b16fc950c4e7e96dacd13620f44c.zip) [**shp**](https://dl.digital-guard.org/9090e15c835b9b955d5ba2febabdf36415453495b3a9a5b89a55e8b173aee717.zip) 
      - Instituto Geográfico Agustín Codazzi
          - [<span id="pk0003">Package pk0003</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0003.01): [license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ )]
              - [Original parte 1 (`2db40c6`)](https://dl.digital-guard.org/2db40c6a0a4ddc0bb0f765a9195c34b258de49b179f90cd54244406e0c62df83.zip) - Nomenclatura Domiciliaria urbano e rural
@@ -657,7 +661,7 @@
                      - via: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_via_17000000101101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_parcel_17000000101201.zip) 
                      - block: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_block_17000000101301.zip) 
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401.zip) [**csv**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) 
      - **<span id="CO-VAC-Cali">CO-VAC-Cali</span>**
          - Santiago de Cali
              - [<span id="pk0007">Package pk0007</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/VAC/Cali/_pk0007.01):

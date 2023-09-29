@@ -28,6 +28,7 @@
 * [BR-RJ-RioJaneiro/pk0078.02](https://addressforall.org/viz/br-rj-riojaneiro_pk0078.02_block.html)
 * [BR-RN-Natal/pk0073.01](https://addressforall.org/viz/br-rn-natal_pk0073.01_block.html)
 * [BR-RO-JiParana/pk0062.01](https://addressforall.org/viz/br-ro-jiparana_pk0062.01_parcel.html)
+* [BR-RS-Bage/pk0082.01](https://addressforall.org/viz/br-rs-bage_pk0082.01_block.html)
 * [BR-RS-Canoas/pk0076.01](https://addressforall.org/viz/br-rs-canoas_pk0076.01_block.html)
 * [BR-RS-CaxiasSul/pk0069.01](https://addressforall.org/viz/br-rs-caxiassul_pk0069.01_block.html)
 * [BR-RS-Gravatai/pk0017.01](https://addressforall.org/viz/br-rs-gravatai_pk0017.01_parcel.html)
