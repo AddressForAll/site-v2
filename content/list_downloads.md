@@ -3,6 +3,9 @@
          - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-BO/blob/main/data/_pk0001.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
              - [Original parte 1 (`59c6811`)](https://dl.digital-guard.org/59c6811f82c0ed8acdd3da4d7223f4bddfd7a2018bbd83628eaa1ec8582bc3e7.pbf) - Dados OpenStreetMap
 * **<span id="Brazil">Brazil (BR)</span>**
+     - ELEKTRO REDES S.A.
+         - [<span id="pk0147">Package pk0147</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/_pk0147.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+             - [Original parte 1 (`07cf6cb`)](https://dl.digital-guard.org/07cf6cbb22f6b48f0d2331f124ac34b37fc7db53508565fb1ca576f14eb1156b.csv) - 
      - OpenStreetMap Foundation
          - [<span id="pk0004">Package pk0004</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/_pk0004.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
              - [Original parte 1 (`befb1a2`)](https://dl.digital-guard.org/befb1a28910b56920b7c10b7ae1a25d5d32f1b13931463076adebc4ab33db114.pbf) - Dados OpenStreetMap
@@ -25,7 +28,7 @@
                  - Filtrados:
                      - block: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_block_7600007101101.zip) 
                      - building: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_building_7600007101101.zip) 
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_nsvia_7600007101101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_via_7600007101101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_parcel_7600007101201.zip) 
@@ -195,7 +198,7 @@
              - [<span id="pk0045">Package pk0045</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
                  - [Original parte 1 (`6d00a62`)](https://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip) - Geo-endereços
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_pi_teresina_geoaddress_7600004501101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_pi_teresina_geoaddress_7600004501101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) 
      - **<span id="BR-PR-Araucaria">BR-PR-Araucaria</span>**
          - Prefeitura do Município de Araucária
              - [<span id="pk0061">Package pk0061</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -252,7 +255,7 @@
                  - [Original parte 3 (`54e8c96`)](https://dl.digital-guard.org/54e8c962d93c5075b58656b0d935889e21ea340f97c0603be1ef5f1ee07d6805.zip) - Bairros
                  - [Original parte 4 (`6cf7e47`)](https://dl.digital-guard.org/6cf7e47ce736468fb740f4f6f884464e81f8ff3a9682f92c38d041825ebb4a39.zip) - Quadras
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_via_7600007901201.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_nsvia_7600007901301.zip) 
                      - block: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_block_7600007901401.zip) 
@@ -471,7 +474,7 @@
                  - Filtrados:
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_nsvia_7600008101101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_via_7600008101201.zip) 
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_geoaddress_7600008101301.zip) [**csv**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_geoaddress_7600008101301_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_geoaddress_7600008101301_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_sp_guarulhos_geoaddress_7600008101301.zip) 
      - **<span id="BR-SP-Itanhaem">BR-SP-Itanhaem</span>**
          - Prefeitura de Itanhaém
              - [<span id="pk0058">Package pk0058</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Itanhaem/_pk0058.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -649,7 +652,7 @@
                  - [Original parte 2 (`2630981`)](https://dl.digital-guard.org/2630981b3e7c796f23a938d8c727ed47cf890547336ead89738b96e67fe62e7a.zip) - Nomenclatura Domiciliaria
                  - Filtrados:
                      - via: [**shp**](https://dl.digital-guard.org/a4a_co_ant_medellin_via_17000000201101.zip) 
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_co_ant_medellin_geoaddress_17000000201201.zip) [**csv**](https://dl.digital-guard.org/a4a_co_ant_medellin_geoaddress_17000000201201_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_co_ant_medellin_geoaddress_17000000201201_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_co_ant_medellin_geoaddress_17000000201201.zip) 
      - **<span id="CO-DC-Bogota">CO-DC-Bogota</span>**
          - Alcaldia Mayor de Bogota D.C.
              - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/DC/Bogota/_pk0001.01): [license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ )]
@@ -694,6 +697,11 @@
              - [Original parte 7 (`69132d2`)](https://dl.digital-guard.org/69132d29d27103d8579be7f6c721e229588e5a65b5adc76b9e87106e23035fdf.zip) - Area geoestadistica
              - [Original parte 8 (`80f1875`)](https://dl.digital-guard.org/80f1875823e00f58694e7c0589ff1b50788c486ab95ec4d298892e4eec22f953.zip) - Poi
              - [Original parte 9 (`936e6f6`)](https://dl.digital-guard.org/936e6f6c823e5170aefc0894fa1544f7ecb84573532f766b9d055856d0bb823d.zip) - Servicio publico
+             - Filtrados:
+                  - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_mx_geoaddress_48400000201101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_mx_geoaddress_48400000201101.zip) 
+                  - block: [**shp**](https://dl.digital-guard.org/a4a_mx_block_48400000201201.zip) 
+                  - nsvia: [**shp**](https://dl.digital-guard.org/a4a_mx_nsvia_48400000201301.zip) 
+                  - via: [**shp**](https://dl.digital-guard.org/a4a_mx_via_48400000201401.zip) 
      - OpenStreetMap Foundation
          - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-MX/blob/main/data/_pk0001.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
              - [Original parte 1 (`7bcbd3c`)](https://dl.digital-guard.org/7bcbd3cb29eeae812453bdc5a30cec5ffa0d2404df2464b4e8afddb97bc7b7ef.pbf) - Datos OpenStreetMap

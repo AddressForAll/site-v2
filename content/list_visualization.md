@@ -65,6 +65,7 @@
 * [CO-DC-Bogota/pk0001.01](https://addressforall.org/viz/co-dc-bogota_pk0001.01_block.html)
 * [CO-VAC-Cali/pk0007.01](https://addressforall.org/viz/co-vac-cali_pk0007.01_nsvia.html)
 * [EC-F-Azogues/pk0001.01](https://addressforall.org/viz/ec-f-azogues_pk0001.01_geoaddress.html)
+* [MX/pk0002.01](https://addressforall.org/viz/mx_pk0002.01_block.html)
 * [PE-CUS-Cusco/pk0001.01](https://addressforall.org/viz/pe-cus-cusco_pk0001.01_geoaddress.html)
 * [UY/pk0002.01](https://addressforall.org/viz/uy_pk0002.01_geoaddress.html)
 * [VE-M-Baruta/pk0002.01](https://addressforall.org/viz/ve-m-baruta_pk0002.01_building.html)
