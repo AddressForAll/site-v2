@@ -28,7 +28,7 @@
                  - Filtrados:
                      - block: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_block_7600007101101.zip) 
                      - building: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_building_7600007101101.zip) 
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_geoaddress_7600007101101.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_nsvia_7600007101101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_via_7600007101101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/a4a_br_am_manaus_parcel_7600007101201.zip) 
@@ -166,6 +166,12 @@
                      - block: [**shp**](https://dl.digital-guard.org/a4a_br_mg_governadorvaladares_block_7600003901301.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_mg_governadorvaladares_nsvia_7600003901401.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_mg_governadorvaladares_via_7600003901501.zip) 
+     - **<span id="BR-MG-Itabira">BR-MG-Itabira</span>**
+         - Prefeitura Municipal de Itabira
+             - [<span id="pk0070">Package pk0070</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/MG/Itabira/_pk0070.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+                 - [Original parte 1 (`a9eebc7`)](https://dl.digital-guard.org/a9eebc7790d496b13b2e69dd4fa1f43dd6596912fb21ff2131aa4c66ba3a52a4.zip) - Eixos
+                 - Filtrados:
+                     - via: [**shp**](https://dl.digital-guard.org/a4a_br_mg_itabira_via_7600007001101.zip) 
      - **<span id="BR-MS-CampoGrande">BR-MS-CampoGrande</span>**
          - Prefeitura Municipal de Campo Grande
              - [<span id="pk0034">Package pk0034</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/MS/CampoGrande/_pk0034.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -255,7 +261,7 @@
                  - [Original parte 3 (`54e8c96`)](https://dl.digital-guard.org/54e8c962d93c5075b58656b0d935889e21ea340f97c0603be1ef5f1ee07d6805.zip) - Bairros
                  - [Original parte 4 (`6cf7e47`)](https://dl.digital-guard.org/6cf7e47ce736468fb740f4f6f884464e81f8ff3a9682f92c38d041825ebb4a39.zip) - Quadras
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101.zip) [**csv**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_geoaddress_7600007901101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_via_7600007901201.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_nsvia_7600007901301.zip) 
                      - block: [**shp**](https://dl.digital-guard.org/a4a_br_pr_toledo_block_7600007901401.zip) 
@@ -664,7 +670,7 @@
                      - via: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_via_17000000101101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_parcel_17000000101201.zip) 
                      - block: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_block_17000000101301.zip) 
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401.zip) [**csv**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401_csv.zip) [**shp**](https://dl.digital-guard.org/a4a_co_dc_bogota_geoaddress_17000000101401.zip) 
      - **<span id="CO-VAC-Cali">CO-VAC-Cali</span>**
          - Santiago de Cali
              - [<span id="pk0007">Package pk0007</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/VAC/Cali/_pk0007.01):
