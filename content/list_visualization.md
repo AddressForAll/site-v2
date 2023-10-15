@@ -12,6 +12,7 @@
 * [BR-MG-BeloHorizonte/pk0008.01](https://addressforall.org/viz/br-mg-belohorizonte_pk0008.01_geoaddress.html)
 * [BR-MG-Contagem/pk0009.01](https://addressforall.org/viz/br-mg-contagem_pk0009.01_block.html)
 * [BR-MG-GovernadorValadares/pk0039.01](https://addressforall.org/viz/br-mg-governadorvaladares_pk0039.01_block.html)
+* [BR-MG-Itabira/pk0070.01](https://addressforall.org/viz/br-mg-itabira_pk0070.01_via.html)
 * [BR-MS-CampoGrande/pk0034.01](https://addressforall.org/viz/br-ms-campogrande_pk0034.01_nsvia.html)
 * [BR-PB-JoaoPessoa/pk0072.01](https://addressforall.org/viz/br-pb-joaopessoa_pk0072.01_block.html)
 * [BR-PE-Recife/pk0010.01](https://addressforall.org/viz/br-pe-recife_pk0010.01_nsvia.html)
