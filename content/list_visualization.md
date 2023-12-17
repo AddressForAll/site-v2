@@ -59,6 +59,7 @@
 * [BR-SP-SaoPaulo/pk0033.01](https://addressforall.org/viz/br-sp-saopaulo_pk0033.01_block.html)
 * [BR-SP-SaoVicente/pk0032.01](https://addressforall.org/viz/br-sp-saovicente_pk0032.01_geoaddress.html)
 * [BR-SP-Sorocaba/pk0031.01](https://addressforall.org/viz/br-sp-sorocaba_pk0031.01_parcel.html)
+* [BR-SP-Suzano/pk0153.01](https://addressforall.org/viz/br-sp-suzano_pk0153.01_parcel.html)
 * [CL-LL-PuertoMontt/pk0002.01](https://addressforall.org/viz/cl-ll-puertomontt_pk0002.01_via.html)
 * [CO/pk0003.01](https://addressforall.org/viz/co_pk0003.01_block.html)
 * [CO/pk0005.01](https://addressforall.org/viz/co_pk0005.01_nsvia.html)
