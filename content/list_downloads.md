@@ -618,6 +618,11 @@
                  - Filtrados:
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_sorocaba_parcel_7600003101101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_sorocaba_via_7600003101201.zip) 
+     - **<span id="BR-SP-Suzano">BR-SP-Suzano</span>**
+         - Prefeitura de Suzano
+             - [<span id="pk0153">Package pk0153</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Suzano/_pk0153.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+                 - [Original parte 1 (`aff2f6a`)](https://dl.digital-guard.org/aff2f6a57e043ce7a5f0e2d6c120f6aba3a97621471422a11fbdfd69f82705da.zip) - lotes_suzano
+                 - [Original parte 2 (`3f369b4`)](https://dl.digital-guard.org/3f369b4082ed525f080ff6f20cd9cf35b473dfc64012f99690a043bb5d6960b1.zip) - logradouros
 * **<span id="Chile">Chile (CL)</span>**
      - OpenStreetMap Foundation
          - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-CL/blob/main/data/_pk0001.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
@@ -630,10 +635,10 @@
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_cl_ll_puertomontt_via_15200000201101.zip) 
 * **<span id="Colombia">Colombia (CO)</span>**
      - Departamento Administrativo Nacional de Estadística
-         - [<span id="pk0006">Package pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.01):
+         - [<span id="pk0006">Package pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.01): [license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ )]
              - [Original parte 1 (`d381719`)](https://dl.digital-guard.org/d3817192260c4a6d34be44a72c5eb06c9c9b5a6f5abf3ee56af86671d7602bb7.rar) - Grade
      - Departamento Administrativo Nacional de Estadística
-         - [<span id="pk0006">Package pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02):
+         - [<span id="pk0006">Package pk0006</span>](https://git.digital-guard.org/preserv-CO/blob/main/data/_pk0006.02): [license: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/ )]
              - [Original parte 1 (`aaa8c90`)](https://dl.digital-guard.org/aaa8c908e179e07841aed287de18277811fedc3bd9a078100e63fd7e63c4e90b.zip) - Geoaddress
              - Filtrados:
                   - geoaddress: [**csv**](https://dl.digital-guard.org/out/41aa3db659efa8c90dbe36b9f11ce4436026b16fc950c4e7e96dacd13620f44c.zip) [**shp**](https://dl.digital-guard.org/out/9090e15c835b9b955d5ba2febabdf36415453495b3a9a5b89a55e8b173aee717.zip) 
@@ -697,7 +702,7 @@
                      - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101.zip) 
 * **<span id="Mexico">Mexico (MX)</span>**
      - Instituto Nacional de Estadística y Geografía
-         - [<span id="pk0002">Package pk0002</span>](https://git.digital-guard.org/preserv-MX/blob/main/data/_pk0002.01): [license: [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)]
+         - [<span id="pk0002">Package pk0002</span>](https://git.digital-guard.org/preserv-MX/blob/main/data/_pk0002.01): [license: [Implied INEGI-MX-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-INEGI-MX-v1.md)]
              - [Original parte 1 (`d0b51cd`)](https://dl.digital-guard.org/d0b51cdba97f9c04eb7e8e4c17695770d66730b895308543781729851e0bd67e.zip) - Direccion
              - [Original parte 2 (`55e3257`)](https://dl.digital-guard.org/55e32574fbee8b1088979c56dfb44d7f585d94e4677957bb61defa74e7b92377.zip) - Manzana
              - [Original parte 3 (`922fd71`)](https://dl.digital-guard.org/922fd7121333ca1c08cedf94feaac8ffc08049cd8a51ea05a61dd6581e1554f9.zip) - Asentamiento
