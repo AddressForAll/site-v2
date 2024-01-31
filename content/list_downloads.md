@@ -28,7 +28,7 @@
                  - Filtrados:
                      - block: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_block_7600007101101.zip) 
                      - building: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_building_7600007101101.zip) 
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_am_manaus_geoaddress_7600007101101_csv.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_nsvia_7600007101101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_via_7600007101101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_am_manaus_parcel_7600007101201.zip) 
@@ -204,7 +204,7 @@
              - [<span id="pk0045">Package pk0045</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
                  - [Original parte 1 (`6d00a62`)](https://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip) - Geo-endereços
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) 
      - **<span id="BR-PR-Araucaria">BR-PR-Araucaria</span>**
          - Prefeitura do Município de Araucária
              - [<span id="pk0061">Package pk0061</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -325,7 +325,7 @@
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_saogoncaloamarante_via_7600007401101.zip) 
      - **<span id="BR-RO-JiParana">BR-RO-JiParana</span>**
          - Prefeitura Municipal de Ji-Paraná
-             - [<span id="pk0062">Package pk0062</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RO/JiParana/_pk0062.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
+             - [<span id="pk0062">Package pk0062</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RO/JiParana/_pk0062.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`910851a`)](https://dl.digital-guard.org/910851a581a1eefe4a3a8534ffd46ac6ad11e998fcf7c6ebf624700b885a4b01.zip) - Logradouros
                  - [Original parte 2 (`67f980e`)](https://dl.digital-guard.org/67f980eb940a57a8f4e40b8e15be9b4b65162aa9afe27d0a89f826047f9b9039.zip) - Lotes
                  - Filtrados:
@@ -343,7 +343,7 @@
                      - block: [**shp**](https://dl.digital-guard.org/out/a4a_br_rs_bage_block_7600008201301.zip) 
      - **<span id="BR-RS-Canoas">BR-RS-Canoas</span>**
          - Prefeitura Municipal de Canoas
-             - [<span id="pk0076">Package pk0076</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Canoas/_pk0076.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+             - [<span id="pk0076">Package pk0076</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Canoas/_pk0076.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
                  - [Original parte 1 (`23916ae`)](https://dl.digital-guard.org/23916aea28282c1c2485ff18fa561728bcfc087c2999d9a9575658e32a66f782.zip) - Quadras
                  - [Original parte 2 (`6536687`)](https://dl.digital-guard.org/6536687209661fd36ce85976660e736b76cb2597c9a6402df810fe623aa2e569.zip) - Edificações
                  - [Original parte 3 (`62972bc`)](https://dl.digital-guard.org/62972bc1f5accf55c5ea97f9154f246a111cde13c4da881798668e12b0a03a41.zip) - Bairros
@@ -392,7 +392,7 @@
              - [<span id="pk0080">Package pk0080</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RS/Pelotas/_pk0080.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`3c69a4b`)](https://dl.digital-guard.org/3c69a4bf2fa9cce1b701968f6c970230e51ee2a656f7168f384f5066a05eaba2.zip) - Todos os arquivos
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_geoaddress_7600008001101.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_parcel_7600008001101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_rs_pelotas_via_7600008001101.zip) 
      - **<span id="BR-RS-PortoAlegre">BR-RS-PortoAlegre</span>**
@@ -435,6 +435,13 @@
                  - Filtrados:
                      - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_sc_brusque_geoaddress_7600007502101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_sc_brusque_geoaddress_7600007502101.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sc_brusque_via_7600007502101.zip) 
+     - **<span id="BR-SC-Chapeco">BR-SC-Chapeco</span>**
+         - Prefeitura Municipal de Chapecó
+             - [<span id="pk0077">Package pk0077</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SC/Chapeco/_pk0077.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+                 - [Original parte 1 (`6d29793`)](https://dl.digital-guard.org/6d297935496b04b1d314cb05ba7fab27cf20fec02e2692a26313fdb5d65d0dae.rar) - BASE CHAPECÓ.rar
+                 - Filtrados:
+                     - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_sc_chapeco_nsvia_7600007701101.zip) 
+                     - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sc_chapeco_via_7600007701101.zip) 
      - **<span id="BR-SC-Florianopolis">BR-SC-Florianopolis</span>**
          - Instituto de Pesquisa e Planejamento Urbano de Florianópolis
              - [<span id="pk0053">Package pk0053</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SC/Florianopolis/_pk0053.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -500,7 +507,7 @@
                  - [Original parte 3 (`7e8269d`)](https://dl.digital-guard.org/7e8269d4c80f9a03cc999a44f028c00dd296868ee26b61f012dc53211e760417.zip) - Lotes
                  - [Original parte 4 (`3137911`)](https://dl.digital-guard.org/3137911874246d45f025f2b98066f1e7a31543332e175e83f433005d131c40fe.zip) - Vias
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_nsvia_7600005801201.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_parcel_7600005801301.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_via_7600005801401.zip) 
@@ -706,7 +713,7 @@
              - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-EC/blob/main/data/F/Azogues/_pk0001.01): <small>[unprecedented]</small>
                  - [Original parte 1 (`77329f3`)](https://dl.digital-guard.org/77329f34a71ed1dcf470ac74a96b5a93ee27245060b5980a1153a6bd81e2e7ea.zip) - Endereços
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_ec_f_azogues_geoaddress_21800000101101_csv.zip) 
 * **<span id="Mexico">Mexico (MX)</span>**
      - Instituto Nacional de Estadística y Geografía
          - [<span id="pk0002">Package pk0002</span>](https://git.digital-guard.org/preserv-MX/blob/main/data/_pk0002.01): [license: [Implied INEGI-MX-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-INEGI-MX-v1.md)]
