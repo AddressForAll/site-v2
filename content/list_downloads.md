@@ -204,7 +204,7 @@
              - [<span id="pk0045">Package pk0045</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PI/Teresina/_pk0045.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
                  - [Original parte 1 (`6d00a62`)](https://dl.digital-guard.org/6d00a6246765ac93ce682e94282ecc0ed38cfdc1e7a6e936f53341414fd5269a.zip) - Geo-endereços
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_pi_teresina_geoaddress_7600004501101.zip) 
      - **<span id="BR-PR-Araucaria">BR-PR-Araucaria</span>**
          - Prefeitura do Município de Araucária
              - [<span id="pk0061">Package pk0061</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/PR/Araucaria/_pk0061.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
@@ -316,6 +316,13 @@
                      - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_natal_nsvia_7600007301301.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_natal_parcel_7600007301401.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_natal_via_7600007301501.zip) 
+     - **<span id="BR-RN-SaoGoncaloAmarante">BR-RN-SaoGoncaloAmarante</span>**
+         - Prefeitura Municipal de São Gonçalo do Amarante
+             - [<span id="pk0074">Package pk0074</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RN/SaoGoncaloAmarante/_pk0074.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
+                 - [Original parte 1 (`0d3ff4b`)](https://dl.digital-guard.org/0d3ff4b054eecdf731311a1a0198a75084e87727b049ffff93468646f25cb562.zip) - Arquivos Vetoriais - SGA-20210601T030700Z-001.zip
+                 - Filtrados:
+                     - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_saogoncaloamarante_nsvia_7600007401101.zip) 
+                     - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_rn_saogoncaloamarante_via_7600007401101.zip) 
      - **<span id="BR-RO-JiParana">BR-RO-JiParana</span>**
          - Prefeitura Municipal de Ji-Paraná
              - [<span id="pk0062">Package pk0062</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/RO/JiParana/_pk0062.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
@@ -474,7 +481,7 @@
                  - [Original parte 2 (`6bb020e`)](https://dl.digital-guard.org/6bb020e023ffd10570d887f907fdad909eecde1003c8911ef64ac63d48f5fe8b.zip) - Pontos de lotes
                  - Filtrados:
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_campinas_via_7600002201101.zip) 
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_campinas_geoaddress_7600002201201_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_campinas_geoaddress_7600002201201.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_campinas_geoaddress_7600002201201.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_campinas_geoaddress_7600002201201_csv.zip) 
      - **<span id="BR-SP-Guarulhos">BR-SP-Guarulhos</span>**
          - Prefeitura de Guarulhos
              - [<span id="pk0081">Package pk0081</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Guarulhos/_pk0081.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
@@ -493,7 +500,7 @@
                  - [Original parte 3 (`7e8269d`)](https://dl.digital-guard.org/7e8269d4c80f9a03cc999a44f028c00dd296868ee26b61f012dc53211e760417.zip) - Lotes
                  - [Original parte 4 (`3137911`)](https://dl.digital-guard.org/3137911874246d45f025f2b98066f1e7a31543332e175e83f433005d131c40fe.zip) - Vias
                  - Filtrados:
-                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101.zip) 
+                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_geoaddress_7600005801101_csv.zip) 
                      - nsvia: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_nsvia_7600005801201.zip) 
                      - parcel: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_parcel_7600005801301.zip) 
                      - via: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_itanhaem_via_7600005801401.zip) 
@@ -609,7 +616,7 @@
              - [<span id="pk0032">Package pk0032</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoVicente/_pk0032.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
                  - [Original parte 1 (`3d5bc83`)](https://dl.digital-guard.org/3d5bc83bbbfd7e28857d36e6cf9df06bcd1d9de257018d684a3dd91608c55742.zip) - Pontos de Endereço
                  - Filtrados:
-                     - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) 
+                     - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_saovicente_geoaddress_7600003201101.zip) 
      - **<span id="BR-SP-Sorocaba">BR-SP-Sorocaba</span>**
          - Prefeitura Municipal de Sorocaba
              - [<span id="pk0031">Package pk0031</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Sorocaba/_pk0031.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
