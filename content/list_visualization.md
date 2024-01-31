@@ -40,6 +40,7 @@
 * [BR-RS-SantaCruzSul/pk0064.01](https://addressforall.org/viz/br-rs-santacruzsul_pk0064.01_block.html)
 * [BR-RS-SantaMaria/pk0019.01](https://addressforall.org/viz/br-rs-santamaria_pk0019.01_block.html)
 * [BR-SC-Brusque/pk0075.02](https://addressforall.org/viz/br-sc-brusque_pk0075.02_geoaddress.html)
+* [BR-SC-Chapeco/pk0077.01](https://addressforall.org/viz/br-sc-chapeco_pk0077.01_nsvia.html)
 * [BR-SC-Florianopolis/pk0053.01](https://addressforall.org/viz/br-sc-florianopolis_pk0053.01_nsvia.html)
 * [BR-SC-Itajai/pk0141.01](https://addressforall.org/viz/br-sc-itajai_pk0141.01_parcel.html)
 * [BR-SC-Joinville/pk0035.01](https://addressforall.org/viz/br-sc-joinville_pk0035.01_block.html)
