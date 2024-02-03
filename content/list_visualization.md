@@ -58,6 +58,7 @@
 * [BR-SP-RibeiraoPreto/pk0052.01](https://addressforall.org/viz/br-sp-ribeiraopreto_pk0052.01_block.html)
 * [BR-SP-Santos/pk0029.01](https://addressforall.org/viz/br-sp-santos_pk0029.01_geoaddress.html)
 * [BR-SP-SaoBernardoCampo/pk0030.01](https://addressforall.org/viz/br-sp-saobernardocampo_pk0030.01_geoaddress.html)
+* [BR-SP-SaoJoseCampos/pk0043.01](https://addressforall.org/viz/br-sp-saojosecampos_pk0043.01_nsvia.html)
 * [BR-SP-SaoPaulo/pk0033.01](https://addressforall.org/viz/br-sp-saopaulo_pk0033.01_block.html)
 * [BR-SP-SaoVicente/pk0032.01](https://addressforall.org/viz/br-sp-saovicente_pk0032.01_geoaddress.html)
 * [BR-SP-Sorocaba/pk0031.01](https://addressforall.org/viz/br-sp-sorocaba_pk0031.01_parcel.html)
