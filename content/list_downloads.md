@@ -6,6 +6,9 @@
      - ELEKTRO REDES S.A.
          - [<span id="pk0147">Package pk0147</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/_pk0147.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)] <small>[unprecedented]</small>
              - [Original parte 1 (`07cf6cb`)](https://dl.digital-guard.org/07cf6cbb22f6b48f0d2331f124ac34b37fc7db53508565fb1ca576f14eb1156b.csv) - 
+     - Instituto Brasileiro de Geografia e Estatística
+         - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/_pk0001.04): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
+             - [Original parte 1 (`5d5daa0`)](https://dl.digital-guard.org/5d5daa06e048ad8c83c909babee040e26fd8a54a29ed4cef2d2d220a3bd17b84.zip) - Quadras
      - OpenStreetMap Foundation
          - [<span id="pk0004">Package pk0004</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/_pk0004.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
              - [Original parte 1 (`befb1a2`)](https://dl.digital-guard.org/befb1a28910b56920b7c10b7ae1a25d5d32f1b13931463076adebc4ab33db114.pbf) - Dados OpenStreetMap
@@ -593,6 +596,9 @@
                  - [Original parte 1 (`b192fba`)](https://dl.digital-guard.org/b192fba419ef8133861a9051d2382d08476193eafbd8932f0ea05456157c301c.zip) - Pontos de endereço
                  - Filtrados:
                      - geoaddress: [**shp**](https://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101.zip) [**csv**](https://dl.digital-guard.org/out/a4a_br_sp_santos_geoaddress_7600002901101_csv.zip) 
+         - Prefeitura Municipal de Santos
+             - [<span id="pk0029">Package pk0029</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/Santos/_pk0029.02): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
+                 - [Original parte 1 (`df031fa`)](https://dl.digital-guard.org/df031fa60edcf6f7de4e6f83a2c880d94f401a2922df174afc4322a0704ebe1a.geojson) - lotes
      - **<span id="BR-SP-SaoBernardoCampo">BR-SP-SaoBernardoCampo</span>**
          - Prefeitura Municipal de São Bernardo do Campo
              - [<span id="pk0030">Package pk0030</span>](https://git.digital-guard.org/preserv-BR/blob/main/data/SP/SaoBernardoCampo/_pk0030.01): [license: [Implied govWorks_geo-BR_municipal-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-govWorks_geo-BR_municipal-v1.md)]
@@ -646,6 +652,15 @@
                  - [Original parte 1 (`aff2f6a`)](https://dl.digital-guard.org/aff2f6a57e043ce7a5f0e2d6c120f6aba3a97621471422a11fbdfd69f82705da.zip) - lotes_suzano
                  - [Original parte 2 (`3f369b4`)](https://dl.digital-guard.org/3f369b4082ed525f080ff6f20cd9cf35b473dfc64012f99690a043bb5d6960b1.zip) - logradouros
 * **<span id="Chile">Chile (CL)</span>**
+     - Infraestructura de Datos Geoespaciales de Chile
+         - [<span id="pk0005">Package pk0005</span>](https://git.digital-guard.org/preserv-CL/blob/main/data/_pk0005.01):
+             - [Original parte 1 (`224f0fa`)](https://dl.digital-guard.org/224f0fa6e3d4b7a261e66cc5399c52276959e3aba4d1e643c1bb86f9501d2988.zip) - Maestro_de_calles_2018-shp.zip
+     - Instituto Nacional de Estatísticas do Chile
+         - [<span id="pk0004">Package pk0004</span>](https://git.digital-guard.org/preserv-CL/blob/main/data/_pk0004.01):
+             - [Original parte 1 (`da15a5f`)](https://dl.digital-guard.org/da15a5f04996f120bf719c6bf04777ae7212cdcd0d16beecb5770d890bf8d2a8.rar) - Quadras
+     - Instituto Nacional de Estatísticas do Chile
+         - [<span id="pk0004">Package pk0004</span>](https://git.digital-guard.org/preserv-CL/blob/main/data/_pk0004.02):
+             - [Original parte 1 (`cda568e`)](https://dl.digital-guard.org/cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip) - MGE_Nacional.zip
      - OpenStreetMap Foundation
          - [<span id="pk0001">Package pk0001</span>](https://git.digital-guard.org/preserv-CL/blob/main/data/_pk0001.01): [license: [ODbL-1.0](http://www.opendefinition.org/licenses/odc-odbl)]
              - [Original parte 1 (`6d8c795`)](https://dl.digital-guard.org/6d8c79528bfc76af89482d009139b82bfcf2729aebc58368d00a7d3b7af4ca1e.pbf) - Dados OpenStreetMap
@@ -725,15 +740,15 @@
 * **<span id="Mexico">Mexico (MX)</span>**
      - Instituto Nacional de Estadística y Geografía
          - [<span id="pk0002">Package pk0002</span>](https://git.digital-guard.org/preserv-MX/blob/main/data/_pk0002.01): [license: [Implied INEGI-MX-1.0](https://git.digital-guard.org/licenses/blob/master/reports/implied-INEGI-MX-v1.md)]
-             - [Original parte 1 (`d0b51cd`)](https://dl.digital-guard.org/d0b51cdba97f9c04eb7e8e4c17695770d66730b895308543781729851e0bd67e.zip) - Direccion
-             - [Original parte 2 (`55e3257`)](https://dl.digital-guard.org/55e32574fbee8b1088979c56dfb44d7f585d94e4677957bb61defa74e7b92377.zip) - Manzana
-             - [Original parte 3 (`922fd71`)](https://dl.digital-guard.org/922fd7121333ca1c08cedf94feaac8ffc08049cd8a51ea05a61dd6581e1554f9.zip) - Asentamiento
-             - [Original parte 4 (`09a6131`)](https://dl.digital-guard.org/09a6131f004f8561b1731e37d805ffd73a6cd0d78c195f15dd9b0827362a6ce5.zip) - Vial
-             - [Original parte 5 (`b5ffeab`)](https://dl.digital-guard.org/b5ffeabebaf7d2aade5d595ba9b510317a201370d898f7cb35c1bd1d63584845.zip) - Frente manzana
-             - [Original parte 6 (`4940abf`)](https://dl.digital-guard.org/4940abfb8190300196bfb3ad8cef3d2baa53a4781c1457bd17579dbb75cd32f7.zip) - Area urbana
-             - [Original parte 7 (`69132d2`)](https://dl.digital-guard.org/69132d29d27103d8579be7f6c721e229588e5a65b5adc76b9e87106e23035fdf.zip) - Area geoestadistica
-             - [Original parte 8 (`80f1875`)](https://dl.digital-guard.org/80f1875823e00f58694e7c0589ff1b50788c486ab95ec4d298892e4eec22f953.zip) - Poi
-             - [Original parte 9 (`936e6f6`)](https://dl.digital-guard.org/936e6f6c823e5170aefc0894fa1544f7ecb84573532f766b9d055856d0bb823d.zip) - Servicio publico
+             - [Original parte 1 (`cf292ac`)](https://dl.digital-guard.org/cf292acbe8d4b1b562a9af3172b2e8571de0f24be7fd814f10fdc50323d9494f.zip) - Direccion
+             - [Original parte 2 (`10a9a43`)](https://dl.digital-guard.org/10a9a43d9081e00bacca240b93847819671abde1f00807035df03206261fa572.zip) - Manzana
+             - [Original parte 3 (`f45c916`)](https://dl.digital-guard.org/f45c916e53cbd61e789a80651ff0986ad20ff5bea0f80a957d80873183e2a464.zip) - Asentamiento
+             - [Original parte 4 (`a4a1a92`)](https://dl.digital-guard.org/a4a1a9253a1cd1633fd9680a73601d450919abcd9937a0f52f436856c0ff15e7.zip) - Vial
+             - [Original parte 5 (`aa01957`)](https://dl.digital-guard.org/aa019577f9870600ce8f1fa8a491dd5d40a2d7b7b2910ea0af70f308d9904747.zip) - Frente manzana
+             - [Original parte 6 (`676e5f3`)](https://dl.digital-guard.org/676e5f38a251db47e0a25968922e638d638200db4d9e3adedaca27fd382cc491.zip) - Area urbana
+             - [Original parte 7 (`a4f41b4`)](https://dl.digital-guard.org/a4f41b4d35e6b7b5dc1cf8e45fb4d670afc90618af266102343866aa37ed329f.zip) - Area geoestadistica
+             - [Original parte 8 (`037347f`)](https://dl.digital-guard.org/037347f05c27d952ab0a2eee43e68d63ab527a0a1c99d658cdcad11a3750551a.zip) - Poi
+             - [Original parte 9 (`176fc3b`)](https://dl.digital-guard.org/176fc3bdc677b432aa3457dd60ffb3c16fd5a21c92ce5919447d8609bf41fa9c.zip) - Servicio publico
              - Filtrados:
                   - geoaddress: [**csv**](https://dl.digital-guard.org/out/a4a_mx_geoaddress_48400000201101_csv.zip) [**shp**](https://dl.digital-guard.org/out/a4a_mx_geoaddress_48400000201101.zip) 
                   - block: [**shp**](https://dl.digital-guard.org/out/a4a_mx_block_48400000201201.zip) 
